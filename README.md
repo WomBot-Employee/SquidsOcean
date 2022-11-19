@@ -3,8 +3,8 @@
 
 
 <body>
-  <h1>Squid's Ocean Archive</h1>
-  <hr>
+  <h2>Squid's Ocean Archive</h1>
+  <h1>accurate as of November 19th 2022</h1>
 </body>
 
 </html>
