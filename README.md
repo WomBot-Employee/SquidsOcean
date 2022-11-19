@@ -1,14 +1,10 @@
 <!DOCTYPE html>
 <html>
 
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width">
-  <title>replit</title>
-</head>
 
 <body>
-  Hello world
+  <h1>Squid's Ocean Archive</h1>
+  <hr>
 </body>
 
 </html>
