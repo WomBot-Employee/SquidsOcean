@@ -1,0 +1,215 @@
+==============================================================
+Guild: Squid's Ocean
+Channel: War / yommu-headquarters
+==============================================================
+
+[10-Feb-22 04:47 PM] Squid#0064
+This is where you plan attacks and stuff
+
+
+[10-Feb-22 04:47 PM] Squid#0064
+I'll have this muted and never check it so
+
+
+[10-Feb-22 04:47 PM] 09Miles#8861
+then why do u have access
+
+
+[10-Feb-22 04:47 PM] Squid#0064
+I can't deny the owner access
+
+
+[10-Feb-22 04:47 PM] Squid#0064
+It's impossable
+
+
+[10-Feb-22 04:47 PM] 09Miles#8861
+but we aren't gonna fight
+
+
+[10-Feb-22 04:47 PM] 09Miles#8861
+we'd be fighting a loosing battle with rule 38
+
+
+[10-Feb-22 04:48 PM] Squid#0064
+fine I'll add a new one
+
+
+[10-Feb-22 04:48 PM] 09Miles#8861
+we aren't gonna fight
+
+
+[10-Feb-22 04:48 PM] 09Miles#8861
+we're just gonna sail out to indonesia
+
+
+[10-Feb-22 04:48 PM] Squid#0064
+Thats what you think
+
+
+[10-Feb-22 04:49 PM] Squid#0064
+I'll leave now
+
+
+[10-Feb-22 04:52 PM] 09Miles#8861
+@Squid YOU SILENCE ME
+
+
+[10-Feb-22 04:54 PM] Niffteen#7318
+https://tenor.com/view/quby-dance-cute-pentol-gif-18406660
+
+{Embed}
+https://tenor.com/view/quby-dance-cute-pentol-gif-18406660
+https://images-ext-2.discordapp.net/external/a8U_FIO74i7ZgIdPCUCVFxwU_anJ2zO3XRNcekm_3LQ/https/media.tenor.co/images/b4f77a38da3649062230f97ef6a716ca/tenor.png
+
+
+[10-Feb-22 04:54 PM] 09Miles#8861
+tommy go to dm's
+
+
+[09-Jun-22 04:47 PM] UnbelievaBoat#1046
+
+{Embed}
+09Miles#8861
+The chefs enjoyed your sexy moaning through the phone and have given you :aya:313
+Reply #635965
+
+
+[24-Sep-22 01:12 PM] 09Miles#8861
+!help
+
+
+[24-Sep-22 01:12 PM] UnbelievaBoat#1046
+**Command List**
+<https://unb.gg/commands>
+
+**Support Server**
+https://discord.gg/unb
+
+
+[24-Sep-22 01:12 PM] 09Miles#8861
+!commands
+
+
+[24-Sep-22 01:12 PM] UnbelievaBoat#1046
+**Command List**
+<https://unb.gg/commands>
+
+**Support Server**
+https://discord.gg/unb
+
+
+[24-Sep-22 01:12 PM] 09Miles#8861
+!store
+
+
+[24-Sep-22 01:12 PM] UnbelievaBoat#1046
+
+{Embed}
+Squid's Ocean Store
+Buy an item with the `buy-item [quantity] <name>` command.
+For more information on an item use the `item-info <name>` command.
+:aya:64,000 - Rom hack
+This item is only owned by eight people, who exclusively gain the role "Pixels go brr".
+:transparent:
+Page 1/1
+
+
+[24-Sep-22 01:13 PM] 09Miles#8861
+!create-item BIF
+
+
+[24-Sep-22 01:13 PM] UnbelievaBoat#1046
+:check: Item created successfully!
+
+{Embed}
+Item Info
+Name
+BIF
+Price
+:aya:0
+Description
+None provided
+Show in inventory?
+Yes
+Time remaining
+No time limit
+Stock remaining
+Infinity
+Role required
+None
+Role given
+None
+Role removed
+None
+Required balance
+None
+Reply message
+None
+
+
+[24-Sep-22 01:15 PM] 09Miles#8861
+!edit-item name BIF whopers
+
+
+[24-Sep-22 01:15 PM] UnbelievaBoat#1046
+:check: Item updated!
+
+{Embed}
+Item Info
+Name
+whopers
+Price
+:aya:0
+Description
+None provided
+Show in inventory?
+Yes
+Time remaining
+No time limit
+Stock remaining
+Infinity
+Role required
+None
+Role given
+None
+Role removed
+None
+Required balance
+None
+Reply message
+None
+
+
+[24-Sep-22 01:15 PM] 09Miles#8861
+!edit-item stock whopers 15
+
+
+[24-Sep-22 01:15 PM] UnbelievaBoat#1046
+:check: Item updated!
+
+{Embed}
+Item Info
+Name
+whopers
+Price
+:aya:0
+Description
+None provided
+Show in inventory?
+Yes
+Time remaining
+No time limit
+Stock remaining
+15
+Role required
+None
+Role given
+None
+Role removed
+None
+Required balance
+None
+Reply message
+None
+
