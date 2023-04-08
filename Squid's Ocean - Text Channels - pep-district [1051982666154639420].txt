@@ -1,0 +1,505 @@
+==============================================================
+Guild: Squid's Ocean
+Channel: Text Channels / pep-district
+==============================================================
+
+[12-Dec-22 05:03 PM] dumit#6548
+@pep district  bad news guys
+
+
+[12-Dec-22 05:13 PM] dumit#6548
+and if the move is rough for him, I have to go
+
+
+[12-Dec-22 05:15 PM] buggie#0811
+what
+
+
+[12-Dec-22 05:15 PM] OwO#8456
+🎉 **| buggie** leveled up!
+
+{Attachments}
+https://cdn.discordapp.com/attachments/1051982666154639420/1051985588263342200/levelup.png
+
+
+[12-Dec-22 05:15 PM] buggie#0811
+not the time pep not
+
+
+[12-Dec-22 05:15 PM] buggie#0811
+dumit why
+
+
+[12-Dec-22 05:16 PM] Vionyx#5804
+WHAT
+
+
+[12-Dec-22 05:16 PM] Vionyx#5804
+NO
+
+
+[12-Dec-22 05:16 PM] Vionyx#5804
+Dont
+
+
+[12-Dec-22 05:17 PM] dumit#6548
+annd the kids
+
+
+[12-Dec-22 05:17 PM] buggie#0811
+NOOOO
+
+
+[12-Dec-22 05:18 PM] buggie#0811
+i wanted to go to highschooo with him
+
+
+[12-Dec-22 05:18 PM] Vionyx#5804
+NAHH YOU SHOULDNT HAVE TO GO THOUGH
+
+
+[12-Dec-22 05:18 PM] dumit#6548
+I KNOW
+
+
+[12-Dec-22 05:18 PM] buggie#0811
+TELL HIM TO MAN UP
+
+
+[12-Dec-22 05:18 PM] buggie#0811
+TOXIC MASCULINITY
+
+
+[12-Dec-22 05:18 PM] dumit#6548
+POOL
+
+
+[12-Dec-22 05:20 PM] Eta#9425
+bruv
+
+
+[12-Dec-22 05:20 PM] dumit#6548
+real
+
+
+[12-Dec-22 05:21 PM] dumit#6548
+owo crate
+
+
+[12-Dec-22 05:21 PM] OwO#8456
+:erstaff: **| dumit** opens a weapon crate
+:crateopen: **|** and finds a `6KCHMM` :epic: :erstaff: :edischarge: 77%
+
+
+[12-Dec-22 05:21 PM] Eta#9425
+no way
+
+
+[12-Dec-22 05:21 PM] dumit#6548
+owo help
+
+
+[12-Dec-22 05:21 PM] OwO#8456
+
+
+{Embed}
+Command List
+Here is the list of commands!
+For more info on a specific command, use `owo help {command}`
+Need more help? Come join our [guild](https://discord.com/invite/owobot)
+🎖 Rankings
+`top`  `my`
+💰 Economy
+`cowoncy`  `give`  `daily`  `vote`  `quest`  `checklist`  `shop`  `buy`
+🌱 Animals
+`zoo`  `hunt`  `sell`  `sacrifice`  `battle`  `inv`  `equip`  `autohunt`  `owodex`  `lootbox`  `crate`  `battlesetting`  `team`  `weapon`  `rename` `dismantle`
+🎲 Gambling
+`slots`  `coinflip`  `lottery`  `blackjack`
+🎱 Fun
+`8b`  `define`  `gif`  `pic`  `translate`  `roll`  `choose`  `bell`
+🎭 Social
+`cookie` `ship`  `pray`  `curse`  `marry`  `emoji`  `profile`  `level`  `wallpaper`  `owoify`  `avatar`
+😂 Meme Generation
+`spongebobchicken`  `slapcar`  `isthisa`  `drake`  `distractedbf`  `communismcat`  `eject`  `emergencymeeting`  `headpat`  `tradeoffer`  `waddle`
+🙂 Emotes
+`blush`  `cry`  `dance`  `lewd`  `pout`  `shrug`  `sleepy`  `smile`  `smug`  `thumbsup`  `wag`  `thinking`  `triggered`  `teehee`  `deredere`  `thonking`  `scoff`  `happy`  `thumbs`  `grin`
+🤗 Actions
+`cuddle`  `hug`  `kiss`  `lick`  `nom`  `pat`  `poke`  `slap`  `stare`  `highfive`  `bite`  `greet`  `punch`  `handholding`  `tickle`  `kill`  `hold`  `pats`  `wave`  `boop`  `snuggle`  `bully`
+🔧 Utility
+`ping`  `stats`  `link`  `guildlink`  `disable`  `censor`  `patreon`  `announcement`  `rules`  `suggest`  `shards`  `math`  `color`  `prefix`
+
+
+[12-Dec-22 05:21 PM] dumit#6548
+owo equip
+
+
+[12-Dec-22 05:21 PM] OwO#8456
+This message is now inactive
+
+{Embed}
+dumit's weapons
+Description: `owo weapon {weaponID}`
+Equip: `owo weapon {weaponID} {animal}`
+Unequip: `owo weapon unequip {weaponID}`
+Reroll: `owo w rr {weaponID} [passive|stat]`
+Sell: `owo sell {weaponID|commonweapons,rareweapons...}`
+Dismantle: `owo dismantle {weaponID|commonweapons,rareweapons...}`
+
+`6KCHMM` :epic::erstaff::edischarge: **Resurrection Staff** | Quality: 77%
+`4WZ94D` :rare::rgaxe::edischarge: **Glacial Axe** | Quality: 49%
+`4WNQKP` :rare::rgreatsword::clifesteal: **Great Sword** | Quality: 55% | 🐕 
+`4WGA51` :common::cascept::cdischarge: **Arcane Scepter** | Quality: 19%
+`4WF72A` :rare::rgaxe::cmr: **Glacial Axe** | Quality: 51% | 🐓 
+`4WF300` :uncommon::uhealstaff::rdischarge: **Healing Staff** | Quality: 38% | 🐈 
+`4W6CHW` :rare::rfstaff::uwgen: **Flame Staff** | Quality: 46% | 🐁 
+`4VWOLV` :epic::evban::fthorns: **Vanguard's Banner** | Quality: 77% | 🐿 
+`4VKJXE` :uncommon::ugaxe::esafeguard: **Glacial Axe** | Quality: 38%
+Page 1/1 | Sorting by id
+
+{Reactions}
+⬅️ ➡️ 🔃 
+
+[12-Dec-22 05:21 PM] buggie#0811
+owo suck my allmy balls
+
+
+[12-Dec-22 05:22 PM] Eta#9425
+owo i will eat your dog
+
+
+[12-Dec-22 05:22 PM] dumit#6548
+owo team
+
+
+[12-Dec-22 05:22 PM] OwO#8456
+This message is now inactive.
+
+{Embed}
+dumit's team
+`owo team add {animal} {pos}` Add an animal to your team
+`owo team remove {pos}` Removes an animal from your team
+`owo team rename {name}` Renames your team
+`owo rename {animal} {name}` Rename an animal
+`owo setteam {teamNum}` to set multiple teams
+[1] 🐓 **chicken**
+Lvl 10 `[487/11,000]`
+:hp: `560` :wp: `540`
+:att: `140` :mag: `120`
+:pr: `37%` :mr: `34%`
+`4WF72A` :rare: :rgaxe: :cmr: 51%
+[2] 🐈 **cat**
+Lvl 10 `[492/11,000]`
+:hp: `560` :wp: `620`
+:att: `110` :mag: `130`
+:pr: `25%` :mr: `37%`
+`4WF300` :uncommon: :uhealstaff: :rdischarge: 38%
+[3] 🐕 **dog**
+Lvl 10 `[496/11,000]`
+:hp: `580` :wp: `520`
+:att: `160` :mag: `110`
+:pr: `37%` :mr: `32%`
+`4WNQKP` :rare: :rgreatsword: :clifesteal: 55%
+Current Streak: 1 | Highest Streak: 1 | Page 1/2 ⭐
+
+
+[12-Dec-22 05:22 PM] dumit#6548
+owo weapon 6KCHMM cat
+
+
+[12-Dec-22 05:22 PM] OwO#8456
+**🗡 | dumit**, 🐈 **cat** is now wielding :erstaff: **Resurrection Staff**!
+
+
+[12-Dec-22 05:24 PM] Arsøn#3353
+WHAT NO
+
+
+[12-Dec-22 05:26 PM] buggie#0811
+ew
+
+
+[12-Dec-22 05:53 PM] iceboxx#9891
+You guys know squid can see this right
+
+
+[12-Dec-22 05:53 PM] iceboxx#9891
+And me
+
+
+[12-Dec-22 05:53 PM] buggie#0811
+get out bitch
+
+
+[12-Dec-22 05:54 PM] iceboxx#9891
+No thanks
+
+
+[12-Dec-22 05:54 PM] iceboxx#9891
+I deleted your messages with locations btw
+
+
+[12-Dec-22 05:54 PM] iceboxx#9891
+Cause like
+
+
+[12-Dec-22 05:54 PM] iceboxx#9891
+Yeah
+
+
+[12-Dec-22 05:54 PM] buggie#0811
+squid already knows where we all live i think
+
+
+[12-Dec-22 05:54 PM] iceboxx#9891
+I think he only knows the state
+
+
+[12-Dec-22 05:57 PM] iceboxx#9891
+I would suggest making a group chat or something or a separate server for school stuff
+
+
+[12-Dec-22 05:58 PM] buggie#0811
+we got a server i just got banned tho
+
+
+[12-Dec-22 05:58 PM] iceboxx#9891
+What about a gc
+
+
+[12-Dec-22 05:59 PM] buggie#0811
+nah too many people
+
+
+[12-Dec-22 06:00 PM] iceboxx#9891
+Well I wouldn’t do anything here when a lot of the people here are from squids school
+
+
+[12-Dec-22 06:28 PM] pëp#1005
+As far as I’m aware he only knows the state
+
+
+[12-Dec-22 06:28 PM] pëp#1005
+I don’t think we should have this here
+
+
+[12-Dec-22 06:28 PM] pëp#1005
+Squid can see it
+
+
+[12-Dec-22 06:29 PM] pëp#1005
+As well as any admin who gives themself the role
+
+
+[12-Dec-22 06:30 PM] buggie#0811
+fun ruiner !!!
+
+
+[12-Dec-22 06:33 PM] dumit#6548
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/1051982666154639420/1052005228918091857/image.png
+
+
+[12-Dec-22 06:33 PM] dumit#6548
+when did this happen
+
+
+[12-Dec-22 06:33 PM] pëp#1005
+Like I said
+
+
+[12-Dec-22 06:33 PM] pëp#1005
+Any admin can do that
+
+
+[12-Dec-22 06:33 PM] dumit#6548
+I know
+
+
+[12-Dec-22 06:33 PM] pëp#1005
+Anyone with power at that
+
+
+[12-Dec-22 06:33 PM] dumit#6548
+but why did iceboxx need the role
+
+
+[12-Dec-22 06:34 PM] pëp#1005
+Admins can’t see this place without pep district
+
+
+[12-Dec-22 06:34 PM] pëp#1005
+Swuid can tho
+
+
+[12-Dec-22 06:34 PM] buggie#0811
+i dont really care if quid finds out where i live
+
+
+[12-Dec-22 06:34 PM] buggie#0811
+he already has my ip lmao
+
+
+[12-Dec-22 06:34 PM] pëp#1005
+Wait how
+
+
+[12-Dec-22 06:35 PM] dumit#6548
+and he can use it to know where everyone else lives ROFLcopter
+
+
+[12-Dec-22 06:35 PM] buggie#0811
+dumit ill post your adress
+
+
+[12-Dec-22 06:36 PM] pëp#1005
+Don’t do that
+
+
+[12-Dec-22 06:36 PM] buggie#0811
+why no?
+
+
+[12-Dec-22 06:36 PM] pëp#1005
+Ok how did swuid get your ip
+
+
+[12-Dec-22 06:36 PM] buggie#0811
+dont even worry about it
+
+
+[12-Dec-22 06:37 PM] pëp#1005
+Does he actually have it
+
+
+[12-Dec-22 06:37 PM] buggie#0811
+yea
+
+
+[12-Dec-22 06:37 PM] buggie#0811
+i think
+
+
+[12-Dec-22 06:37 PM] pëp#1005
+If you aren’t 100% don’t say any locations
+
+
+[12-Dec-22 06:38 PM] pëp#1005
+I know where he lives and I don’t want him knowing where I live
+
+
+[12-Dec-22 06:38 PM] buggie#0811
+OK ZADDY
+
+
+[12-Dec-22 07:01 PM] HybridHamster#5864
+yo did I get pep district?
+
+
+[12-Dec-22 07:01 PM] HybridHamster#5864
+Ok cool I guess lol
+
+
+[12-Dec-22 07:08 PM] HybridHamster#5864
+Can I buy the pep district with the money I got from penguin?
+
+
+[12-Dec-22 07:08 PM] HybridHamster#5864
+What do I do with mone
+
+
+[12-Dec-22 07:53 PM] HybridHamster#5864
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/1051982666154639420/1052025488228487219/IMG_1328.jpg
+
+
+[17-Dec-22 03:48 PM] buggie#0811
+https://tenor.com/view/viewing-profile-pep-guardiola-manchester-city-tinder-tinder-profile-gif-16638767
+
+{Embed}
+https://tenor.com/view/viewing-profile-pep-guardiola-manchester-city-tinder-tinder-profile-gif-16638767
+https://images-ext-1.discordapp.net/external/BmBmM1NxZQlU2ybZmEvtStx-S4TX4QKd62pdSIJvJ4E/https/media.tenor.com/u-F5xvhytQkAAAAD/viewing-profile-pep-guardiola.png
+
+
+[17-Dec-22 04:04 PM] Vionyx#5804
+OH
+
+
+[17-Dec-22 05:35 PM] buggie#0811
+don’t search pepnation with no spaces in the gif bar
+
+
+[17-Dec-22 05:50 PM] dumit#6548
+this is inaccurate
+
+
+[17-Dec-22 05:50 PM] dumit#6548
+switch pep bot and wombot
+
+
+[17-Dec-22 09:01 PM] HybridHamster#5864
+I would but I meant that Wombot got deleted
+
+
+[17-Dec-22 09:01 PM] WomBot#8458
+
+
+{Embed}
+wombot
+Heres a wombat
+https://images-ext-1.discordapp.net/external/R8csXBe-fHsDWYlKfeu4xEsWm9OutHw7jwYpWSq9uG4/https/wildlife.org/wp-content/uploads/2021/05/0504_Bare-nosed-wombat.jpg
+sponsered by wombats
+
+
+[17-Dec-22 09:01 PM] HybridHamster#5864
+oh
+
+
+[17-Dec-22 09:02 PM] HybridHamster#5864
+oh nvm
+
+
+[17-Dec-22 09:02 PM] HybridHamster#5864
+I thought miles did the funni
+
+
+[17-Dec-22 09:02 PM] HybridHamster#5864
+owo slap @HybridHamster
+
+
+[17-Dec-22 09:02 PM] OwO#8456
+Don't do that to yourself, HybridHamster!
+
+
+[17-Dec-22 09:02 PM] HybridHamster#5864
+Ok I can do that irl
+
+
+[02-Jan-23 04:03 PM] HybridHamster#5864
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/1051982666154639420/1059577683119460373/trim.3E21C828-8E97-40D3-BC29-A58A683EA623.mov
+
+
+[03-Jan-23 02:04 PM] buggie#0811
+https://tenor.com/view/skeleton-boomerang-skeleboom-skeleton-boomerang-gif-26191631
+
+{Embed}
+https://tenor.com/view/skeleton-boomerang-skeleboom-skeleton-boomerang-gif-26191631
+https://images-ext-1.discordapp.net/external/TBkvSvR_IZH3KgFg2H6eUSqgbUJGKvpUl_hlMwr7NRU/https/media.tenor.com/phWDZc_-_5sAAAAD/skeleton-boomerang-skeleboom.png
+
+
+[03-Jan-23 07:53 PM] HybridHamster#5864
+
+
+{Attachments}
+https://cdn.discordapp.com/attachments/1051982666154639420/1059997850190225468/morbius_meal.mov
+
+
+==============================================================
+Exported 98 message(s)
+==============================================================
