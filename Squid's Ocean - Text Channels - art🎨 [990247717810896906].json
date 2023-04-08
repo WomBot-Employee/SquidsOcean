@@ -1,0 +1,2066 @@
+{
+  "guild": {
+    "id": "934633266378604574",
+    "name": "Squid's Ocean",
+    "iconUrl": "https://cdn.discordapp.com/icons/934633266378604574/a89d22119ffa352cd7802d80292a0c28.png?size=512"
+  },
+  "channel": {
+    "id": "990247717810896906",
+    "type": "GuildTextChat",
+    "categoryId": "934633266378604575",
+    "category": "Text Channels",
+    "name": "art\uD83C\uDFA8",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "992468884034691172",
+      "type": "Default",
+      "timestamp": "2022-07-01T16:37:01.134+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I don’t know how I’m here. But I hope to stay perhaps I’ll learn to draw better here. I suck obviously. Maybe I’ll even draw and post. I expect great things here. -E",
+      "author": {
+        "id": "914995910365302904",
+        "name": "parzival",
+        "discriminator": "8652",
+        "nickname": "parzival",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/914995910365302904/c19b64ef6a835b55424b97ed1142c31b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "992468981606776832",
+      "type": "Default",
+      "timestamp": "2022-07-01T16:37:24.397+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "what the hek",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "992468997012459601",
+      "type": "Default",
+      "timestamp": "2022-07-01T16:37:28.07+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Huh",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "992469115363152062",
+      "type": "Default",
+      "timestamp": "2022-07-01T16:37:56.287+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "There aren’t any restrictions for this channel",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "992469135218978837",
+      "type": "Default",
+      "timestamp": "2022-07-01T16:38:01.021+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Who made it?",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "992469177224929391",
+      "type": "Default",
+      "timestamp": "2022-07-01T16:38:11.036+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'll check",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "992469255801028678",
+      "type": "Default",
+      "timestamp": "2022-07-01T16:38:29.77+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Arson",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "992469275593932820",
+      "type": "Default",
+      "timestamp": "2022-07-01T16:38:34.489+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Last Saturday",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "992469299220451378",
+      "type": "Default",
+      "timestamp": "2022-07-01T16:38:40.122+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Interesting",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "992469349208162304",
+      "type": "Default",
+      "timestamp": "2022-07-01T16:38:52.04+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "odd",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "992469378912231444",
+      "type": "Default",
+      "timestamp": "2022-07-01T16:38:59.122+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Anywho",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "992469446365040670",
+      "type": "Default",
+      "timestamp": "2022-07-01T16:39:15.204+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "god and me are playing skyblock you want to join pep?",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "992469539331768330",
+      "type": "Default",
+      "timestamp": "2022-07-01T16:39:37.369+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Can’t I’m setting something up and then im gonna play over watch",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "992469557048520714",
+      "type": "Default",
+      "timestamp": "2022-07-01T16:39:41.593+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "k",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "992812414456303647",
+      "type": "Reply",
+      "timestamp": "2022-07-02T15:22:05.169+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "That’s me",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "726195055349727313",
+          "name": "pëp",
+          "discriminator": "1005",
+          "nickname": "pëp",
+          "color": "#1ABC9C",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "992469255801028678",
+        "channelId": "990247717810896906",
+        "guildId": "934633266378604574"
+      }
+    },
+    {
+      "id": "992819767255769248",
+      "type": "Default",
+      "timestamp": "2022-07-02T15:51:18.213+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "correct",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1010256846751281213",
+      "type": "Default",
+      "timestamp": "2022-08-19T18:40:01.93+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1010256846310875206",
+          "url": "https://cdn.discordapp.com/attachments/990247717810896906/1010256846310875206/C09EFE3A-974D-4EE3-81C3-BC69CD94BD7B.jpg",
+          "fileName": "C09EFE3A-974D-4EE3-81C3-BC69CD94BD7B.jpg",
+          "fileSizeBytes": 3759349
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1010388239615529020",
+      "type": "Default",
+      "timestamp": "2022-08-20T03:22:08.43+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "bear",
+      "author": {
+        "id": "585090261840035860",
+        "name": "buggie",
+        "discriminator": "0811",
+        "nickname": "bug gay",
+        "color": "#FF00CE",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/585090261840035860/c3fdc4235240a28b7b8d58cc06fc99b5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1010558106012495963",
+      "type": "Default",
+      "timestamp": "2022-08-20T14:37:07.735+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Bear C:",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1010562521075290254",
+      "type": "Default",
+      "timestamp": "2022-08-20T14:54:40.368+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ba ba bear",
+      "author": {
+        "id": "585090261840035860",
+        "name": "buggie",
+        "discriminator": "0811",
+        "nickname": "bug gay",
+        "color": "#FF00CE",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/585090261840035860/c3fdc4235240a28b7b8d58cc06fc99b5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1010633148184395897",
+      "type": "Default",
+      "timestamp": "2022-08-20T19:35:19.183+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ber c:",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1010633167834726480",
+      "type": "Default",
+      "timestamp": "2022-08-20T19:35:23.868+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ber",
+      "author": {
+        "id": "585090261840035860",
+        "name": "buggie",
+        "discriminator": "0811",
+        "nickname": "bug gay",
+        "color": "#FF00CE",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/585090261840035860/c3fdc4235240a28b7b8d58cc06fc99b5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1010633177854910614",
+      "type": "Default",
+      "timestamp": "2022-08-20T19:35:26.257+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "be",
+      "author": {
+        "id": "585090261840035860",
+        "name": "buggie",
+        "discriminator": "0811",
+        "nickname": "bug gay",
+        "color": "#FF00CE",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/585090261840035860/c3fdc4235240a28b7b8d58cc06fc99b5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1010685035864674344",
+      "type": "Reply",
+      "timestamp": "2022-08-20T23:01:30.17+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Wow that’s really good",
+      "author": {
+        "id": "1006974133063663650",
+        "name": "iceboxx",
+        "discriminator": "9891",
+        "nickname": "iceboxx",
+        "color": "#FFB6F8",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1006974133063663650/82b6884ee4ae6cc6262edd1431ae1488.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "793665293565165610",
+          "name": "Arsøn",
+          "discriminator": "3353",
+          "nickname": "Arsøn",
+          "color": "#1A53FF",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1010256846751281213",
+        "channelId": "990247717810896906",
+        "guildId": "934633266378604574"
+      }
+    },
+    {
+      "id": "1010685199950024754",
+      "type": "Default",
+      "timestamp": "2022-08-20T23:02:09.291+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ty!!!",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1018187441829584906",
+      "type": "Default",
+      "timestamp": "2022-09-10T15:53:23.14+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "shaggy",
+      "author": {
+        "id": "604428023118430239",
+        "name": "09Miles",
+        "discriminator": "8861",
+        "nickname": "09Miles",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1018187441628262440",
+          "url": "https://cdn.discordapp.com/attachments/990247717810896906/1018187441628262440/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 49426
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1018187654543720600",
+      "type": "Reply",
+      "timestamp": "2022-09-10T15:54:13.855+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "that's me",
+      "author": {
+        "id": "604428023118430239",
+        "name": "09Miles",
+        "discriminator": "8861",
+        "nickname": "09Miles",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1018187441829584906",
+        "channelId": "990247717810896906",
+        "guildId": "934633266378604574"
+      }
+    },
+    {
+      "id": "1018192779643465838",
+      "type": "Default",
+      "timestamp": "2022-09-10T16:14:35.774+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "No",
+      "author": {
+        "id": "914995910365302904",
+        "name": "parzival",
+        "discriminator": "8652",
+        "nickname": "parzival",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/914995910365302904/c19b64ef6a835b55424b97ed1142c31b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1018195647091978421",
+      "type": "Default",
+      "timestamp": "2022-09-10T16:25:59.427+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "what do you mean",
+      "author": {
+        "id": "604428023118430239",
+        "name": "09Miles",
+        "discriminator": "8861",
+        "nickname": "09Miles",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1018195654901760071",
+      "type": "Default",
+      "timestamp": "2022-09-10T16:26:01.289+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it's me",
+      "author": {
+        "id": "604428023118430239",
+        "name": "09Miles",
+        "discriminator": "8861",
+        "nickname": "09Miles",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1018195721964490823",
+      "type": "Default",
+      "timestamp": "2022-09-10T16:26:17.278+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "604428023118430239",
+        "name": "09Miles",
+        "discriminator": "8861",
+        "nickname": "09Miles",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1018195721649922048",
+          "url": "https://cdn.discordapp.com/attachments/990247717810896906/1018195721649922048/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 49953
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1018196314003083486",
+      "type": "Default",
+      "timestamp": "2022-09-10T16:28:38.431+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "right @parzival",
+      "author": {
+        "id": "604428023118430239",
+        "name": "09Miles",
+        "discriminator": "8861",
+        "nickname": "09Miles",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "914995910365302904",
+          "name": "parzival",
+          "discriminator": "8652",
+          "nickname": "parzival",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/914995910365302904/c19b64ef6a835b55424b97ed1142c31b.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1018211554539360327",
+      "type": "Default",
+      "timestamp": "2022-09-10T17:29:12.058+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "parzival is just r/woooooosh as a person",
+      "author": {
+        "id": "797658613920825374",
+        "name": "dumit",
+        "discriminator": "6548",
+        "nickname": "dumit",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/797658613920825374/fa4f4b5ab504ad28d6fd38d01f4889ad.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1018212966107205773",
+      "type": "Default",
+      "timestamp": "2022-09-10T17:34:48.602+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "YEAH",
+      "author": {
+        "id": "604428023118430239",
+        "name": "09Miles",
+        "discriminator": "8861",
+        "nickname": "09Miles",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1019026274871685161",
+      "type": "Reply",
+      "timestamp": "2022-09-12T23:26:36.522+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "858376910388199474",
+        "name": "HybridHamster",
+        "discriminator": "5864",
+        "nickname": "HybridHamster",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/858376910388199474/3069763c7600cbb66d6886e077a26248.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1019026274678739025",
+          "url": "https://cdn.discordapp.com/attachments/990247717810896906/1019026274678739025/IMG_7500.png",
+          "fileName": "IMG_7500.png",
+          "fileSizeBytes": 172880
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "914995910365302904",
+          "name": "parzival",
+          "discriminator": "8652",
+          "nickname": "parzival",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/914995910365302904/c19b64ef6a835b55424b97ed1142c31b.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1018192779643465838",
+        "channelId": "990247717810896906",
+        "guildId": "934633266378604574"
+      }
+    },
+    {
+      "id": "1019026323903090698",
+      "type": "Default",
+      "timestamp": "2022-09-12T23:26:48.212+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "DNJSJSDJ",
+      "author": {
+        "id": "922200164381360250",
+        "name": "Vionyx",
+        "discriminator": "5804",
+        "nickname": "Vionyx",
+        "color": "#FFB6F8",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/922200164381360250/2377bf353b62bdbe635344da84be083d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1019398842099183656",
+      "type": "Default",
+      "timestamp": "2022-09-14T00:07:03.471+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1019398841927208970",
+          "url": "https://cdn.discordapp.com/attachments/990247717810896906/1019398841927208970/IMG_5318.jpg",
+          "fileName": "IMG_5318.jpg",
+          "fileSizeBytes": 69531
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1019398905001148477",
+      "type": "Default",
+      "timestamp": "2022-09-14T00:07:18.468+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "how do draw hair",
+      "author": {
+        "id": "585090261840035860",
+        "name": "buggie",
+        "discriminator": "0811",
+        "nickname": "bug gay",
+        "color": "#FF00CE",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/585090261840035860/c3fdc4235240a28b7b8d58cc06fc99b5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1019398921509945455",
+      "type": "Default",
+      "timestamp": "2022-09-14T00:07:22.404+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "me confused",
+      "author": {
+        "id": "585090261840035860",
+        "name": "buggie",
+        "discriminator": "0811",
+        "nickname": "bug gay",
+        "color": "#FF00CE",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/585090261840035860/c3fdc4235240a28b7b8d58cc06fc99b5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1019398941881671782",
+      "type": "Default",
+      "timestamp": "2022-09-14T00:07:27.261+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "idk",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1019398987540869170",
+      "type": "Default",
+      "timestamp": "2022-09-14T00:07:38.147+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it just swoops idk\uD83D\uDE2D",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1019399017555300372",
+      "type": "Default",
+      "timestamp": "2022-09-14T00:07:45.303+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "thanks for the info",
+      "author": {
+        "id": "585090261840035860",
+        "name": "buggie",
+        "discriminator": "0811",
+        "nickname": "bug gay",
+        "color": "#FF00CE",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/585090261840035860/c3fdc4235240a28b7b8d58cc06fc99b5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1019399036140269672",
+      "type": "Default",
+      "timestamp": "2022-09-14T00:07:49.734+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It's a nightmare",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1019399060844711976",
+      "type": "Default",
+      "timestamp": "2022-09-14T00:07:55.624+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I hate drawing taht",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1019399109871939715",
+      "type": "Default",
+      "timestamp": "2022-09-14T00:08:07.313+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "just draw hair",
+      "author": {
+        "id": "604428023118430239",
+        "name": "09Miles",
+        "discriminator": "8861",
+        "nickname": "09Miles",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1019399110291361913",
+      "type": "Default",
+      "timestamp": "2022-09-14T00:08:07.413+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "once i figure out how to draw i might draw everyone in our friend group @Arsøn",
+      "author": {
+        "id": "585090261840035860",
+        "name": "buggie",
+        "discriminator": "0811",
+        "nickname": "bug gay",
+        "color": "#FF00CE",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/585090261840035860/c3fdc4235240a28b7b8d58cc06fc99b5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "793665293565165610",
+          "name": "Arsøn",
+          "discriminator": "3353",
+          "nickname": "Arsøn",
+          "color": "#1A53FF",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1019399135968894996",
+      "type": "Default",
+      "timestamp": "2022-09-14T00:08:13.535+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "THANKS MIKES",
+      "author": {
+        "id": "585090261840035860",
+        "name": "buggie",
+        "discriminator": "0811",
+        "nickname": "bug gay",
+        "color": "#FF00CE",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/585090261840035860/c3fdc4235240a28b7b8d58cc06fc99b5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1019399192935940187",
+      "type": "Default",
+      "timestamp": "2022-09-14T00:08:27.117+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDC4F\uD83D\uDC4F\uD83D\uDC4F\uD83D\uDC4F",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1019399225890578433",
+      "type": "Reply",
+      "timestamp": "2022-09-14T00:08:34.974+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "WOOOOO",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "604428023118430239",
+          "name": "09Miles",
+          "discriminator": "8861",
+          "nickname": "09Miles",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1019399109871939715",
+        "channelId": "990247717810896906",
+        "guildId": "934633266378604574"
+      }
+    },
+    {
+      "id": "1019399260158054400",
+      "type": "Reply",
+      "timestamp": "2022-09-14T00:08:43.144+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "YAAAAAAAAAAAY",
+      "author": {
+        "id": "585090261840035860",
+        "name": "buggie",
+        "discriminator": "0811",
+        "nickname": "bug gay",
+        "color": "#FF00CE",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/585090261840035860/c3fdc4235240a28b7b8d58cc06fc99b5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "604428023118430239",
+          "name": "09Miles",
+          "discriminator": "8861",
+          "nickname": "09Miles",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1019399109871939715",
+        "channelId": "990247717810896906",
+        "guildId": "934633266378604574"
+      }
+    },
+    {
+      "id": "1019399278130634763",
+      "type": "Default",
+      "timestamp": "2022-09-14T00:08:47.429+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "WOOOOO HOOOOOOOO",
+      "author": {
+        "id": "585090261840035860",
+        "name": "buggie",
+        "discriminator": "0811",
+        "nickname": "bug gay",
+        "color": "#FF00CE",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/585090261840035860/c3fdc4235240a28b7b8d58cc06fc99b5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1019399303279681616",
+      "type": "Default",
+      "timestamp": "2022-09-14T00:08:53.425+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I NEED A NOBEL PRIVE",
+      "author": {
+        "id": "604428023118430239",
+        "name": "09Miles",
+        "discriminator": "8861",
+        "nickname": "09Miles",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1019399354097864704",
+      "type": "Default",
+      "timestamp": "2022-09-14T00:09:05.541+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*gives*",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1019399423228379217",
+      "type": "Default",
+      "timestamp": "2022-09-14T00:09:22.023+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "WOOOO THANK YOU",
+      "author": {
+        "id": "604428023118430239",
+        "name": "09Miles",
+        "discriminator": "8861",
+        "nickname": "09Miles",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1019399447857352704",
+      "type": "Default",
+      "timestamp": "2022-09-14T00:09:27.895+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "YEAHH",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1019399485161484378",
+      "type": "Default",
+      "timestamp": "2022-09-14T00:09:36.789+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ANYWAYS IMA GO",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1019399618586497184",
+      "type": "Default",
+      "timestamp": "2022-09-14T00:10:08.6+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ok",
+      "author": {
+        "id": "585090261840035860",
+        "name": "buggie",
+        "discriminator": "0811",
+        "nickname": "bug gay",
+        "color": "#FF00CE",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/585090261840035860/c3fdc4235240a28b7b8d58cc06fc99b5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1019399635296604201",
+      "type": "Default",
+      "timestamp": "2022-09-14T00:10:12.584+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "585090261840035860",
+        "name": "buggie",
+        "discriminator": "0811",
+        "nickname": "bug gay",
+        "color": "#FF00CE",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/585090261840035860/c3fdc4235240a28b7b8d58cc06fc99b5.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1019399635162370048",
+          "url": "https://cdn.discordapp.com/attachments/990247717810896906/1019399635162370048/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 1592110
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1037149254017351781",
+      "type": "Default",
+      "timestamp": "2022-11-01T23:40:51.459+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i made the world with 190 gambias",
+      "author": {
+        "id": "604428023118430239",
+        "name": "09Miles",
+        "discriminator": "8861",
+        "nickname": "09Miles",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1037149253732151466",
+          "url": "https://cdn.discordapp.com/attachments/990247717810896906/1037149253732151466/gambian_world.png",
+          "fileName": "gambian_world.png",
+          "fileSizeBytes": 2062394
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1037149309231181864",
+      "type": "Default",
+      "timestamp": "2022-11-01T23:41:04.623+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "gambia's",
+      "author": {
+        "id": "604428023118430239",
+        "name": "09Miles",
+        "discriminator": "8861",
+        "nickname": "09Miles",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1037149398544683088",
+      "type": "Default",
+      "timestamp": "2022-11-01T23:41:25.917+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Underrated country",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1052010990948057129",
+      "type": "Default",
+      "timestamp": "2022-12-12T23:56:05.661+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "here's a mock of the public void album cover i might use for a project or something",
+      "author": {
+        "id": "604428023118430239",
+        "name": "09Miles",
+        "discriminator": "8861",
+        "nickname": "09Miles",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1052010990499278879",
+          "url": "https://cdn.discordapp.com/attachments/990247717810896906/1052010990499278879/static_void_print.png",
+          "fileName": "static_void_print.png",
+          "fileSizeBytes": 23208
+        },
+        {
+          "id": "1052010990843203594",
+          "url": "https://cdn.discordapp.com/attachments/990247717810896906/1052010990843203594/ab67616d0000b273512ced983959d4b2e259e907.png",
+          "fileName": "ab67616d0000b273512ced983959d4b2e259e907.png",
+          "fileSizeBytes": 45075
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1052049928546959420",
+      "type": "Default",
+      "timestamp": "2022-12-13T02:30:49.108+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Can somone draw hello kitty with a straight line as a nose 4 me? \uD83D\uDC49☺️\uD83D\uDC48",
+      "author": {
+        "id": "858376910388199474",
+        "name": "HybridHamster",
+        "discriminator": "5864",
+        "nickname": "HybridHamster",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/858376910388199474/3069763c7600cbb66d6886e077a26248.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1052050978901344277",
+      "type": "Default",
+      "timestamp": "2022-12-13T02:34:59.532+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "What",
+      "author": {
+        "id": "922200164381360250",
+        "name": "Vionyx",
+        "discriminator": "5804",
+        "nickname": "Vionyx",
+        "color": "#FFB6F8",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/922200164381360250/2377bf353b62bdbe635344da84be083d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1052195140116168754",
+      "type": "Default",
+      "timestamp": "2022-12-13T12:07:50.244+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i would if knew exactly what that entailed",
+      "author": {
+        "id": "604428023118430239",
+        "name": "09Miles",
+        "discriminator": "8861",
+        "nickname": "09Miles",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1052201564170887200",
+      "type": "Default",
+      "timestamp": "2022-12-13T12:33:21.858+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Uhm you would have to pay me money",
+      "author": {
+        "id": "922200164381360250",
+        "name": "Vionyx",
+        "discriminator": "5804",
+        "nickname": "Vionyx",
+        "color": "#FFB6F8",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/922200164381360250/2377bf353b62bdbe635344da84be083d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1052700193159651409",
+      "type": "Default",
+      "timestamp": "2022-12-14T21:34:44.273+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://tenor.com/view/hello-kitty-kitty-sweet-you-make-me-happy-happy-gif-25583671",
+      "author": {
+        "id": "858376910388199474",
+        "name": "HybridHamster",
+        "discriminator": "5864",
+        "nickname": "HybridHamster",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/858376910388199474/3069763c7600cbb66d6886e077a26248.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://tenor.com/view/hello-kitty-kitty-sweet-you-make-me-happy-happy-gif-25583671",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/Ziw91TnjmJo5_Z-LgcqNm_vmhMn4XQF7quJAgcPbxNM/https/media.tenor.com/22-1kgTYOTQAAAAD/hello-kitty-kitty.png",
+            "width": 640,
+            "height": 640
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1052700278513733733",
+      "type": "Default",
+      "timestamp": "2022-12-14T21:35:04.623+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Now imsgine their nose is a Steiger line instead of a circle",
+      "author": {
+        "id": "858376910388199474",
+        "name": "HybridHamster",
+        "discriminator": "5864",
+        "nickname": "HybridHamster",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/858376910388199474/3069763c7600cbb66d6886e077a26248.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1052700345802965043",
+      "type": "Default",
+      "timestamp": "2022-12-14T21:35:20.666+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "why",
+      "author": {
+        "id": "797658613920825374",
+        "name": "dumit",
+        "discriminator": "6548",
+        "nickname": "dumit",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/797658613920825374/fa4f4b5ab504ad28d6fd38d01f4889ad.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1052710595817902211",
+      "type": "Default",
+      "timestamp": "2022-12-14T22:16:04.46+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Give me money and i will",
+      "author": {
+        "id": "922200164381360250",
+        "name": "Vionyx",
+        "discriminator": "5804",
+        "nickname": "Vionyx",
+        "color": "#FFB6F8",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/922200164381360250/2377bf353b62bdbe635344da84be083d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1052719583565455440",
+      "type": "Default",
+      "timestamp": "2022-12-14T22:51:47.306+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "wtfd is a steiger line",
+      "author": {
+        "id": "585090261840035860",
+        "name": "buggie",
+        "discriminator": "0811",
+        "nickname": "bug gay",
+        "color": "#FF00CE",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/585090261840035860/c3fdc4235240a28b7b8d58cc06fc99b5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1052755593733087352",
+      "type": "Default",
+      "timestamp": "2022-12-15T01:14:52.799+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I think its supposed to be straighter line but hes too fruity to write it forrectlty",
+      "author": {
+        "id": "922200164381360250",
+        "name": "Vionyx",
+        "discriminator": "5804",
+        "nickname": "Vionyx",
+        "color": "#FFB6F8",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/922200164381360250/2377bf353b62bdbe635344da84be083d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1056684659569860680",
+      "type": "Reply",
+      "timestamp": "2022-12-25T21:27:35.093+00:00",
+      "timestampEdited": "2022-12-25T21:27:45.867+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“I’m so gay I can’t even wright steight”",
+      "author": {
+        "id": "858376910388199474",
+        "name": "HybridHamster",
+        "discriminator": "5864",
+        "nickname": "HybridHamster",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/858376910388199474/3069763c7600cbb66d6886e077a26248.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "922200164381360250",
+          "name": "Vionyx",
+          "discriminator": "5804",
+          "nickname": "Vionyx",
+          "color": "#FFB6F8",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/922200164381360250/2377bf353b62bdbe635344da84be083d.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1052755593733087352",
+        "channelId": "990247717810896906",
+        "guildId": "934633266378604574"
+      }
+    },
+    {
+      "id": "1056684762116395049",
+      "type": "Default",
+      "timestamp": "2022-12-25T21:27:59.542+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Good for you",
+      "author": {
+        "id": "922200164381360250",
+        "name": "Vionyx",
+        "discriminator": "5804",
+        "nickname": "Vionyx",
+        "color": "#FFB6F8",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/922200164381360250/2377bf353b62bdbe635344da84be083d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1056684773612990504",
+      "type": "Reply",
+      "timestamp": "2022-12-25T21:28:02.283+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "write*",
+      "author": {
+        "id": "797658613920825374",
+        "name": "dumit",
+        "discriminator": "6548",
+        "nickname": "dumit",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/797658613920825374/fa4f4b5ab504ad28d6fd38d01f4889ad.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "858376910388199474",
+          "name": "HybridHamster",
+          "discriminator": "5864",
+          "nickname": "HybridHamster",
+          "color": "#E91E63",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/858376910388199474/3069763c7600cbb66d6886e077a26248.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1056684659569860680",
+        "channelId": "990247717810896906",
+        "guildId": "934633266378604574"
+      }
+    },
+    {
+      "id": "1056685793772584963",
+      "type": "Default",
+      "timestamp": "2022-12-25T21:32:05.508+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "bro's being silenced \uD83D\uDC80",
+      "author": {
+        "id": "797658613920825374",
+        "name": "dumit",
+        "discriminator": "6548",
+        "nickname": "dumit",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/797658613920825374/fa4f4b5ab504ad28d6fd38d01f4889ad.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1057024952248832152",
+      "type": "Default",
+      "timestamp": "2022-12-26T19:59:47.19+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yo can someone post this in another server",
+      "author": {
+        "id": "858376910388199474",
+        "name": "HybridHamster",
+        "discriminator": "5864",
+        "nickname": "HybridHamster",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/858376910388199474/3069763c7600cbb66d6886e077a26248.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1057024952303362148",
+          "url": "https://cdn.discordapp.com/attachments/990247717810896906/1057024952303362148/IMG_1415.png",
+          "fileName": "IMG_1415.png",
+          "fileSizeBytes": 277691
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1060361455968456724",
+      "type": "Default",
+      "timestamp": "2023-01-05T00:57:51.666+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "604428023118430239",
+        "name": "09Miles",
+        "discriminator": "8861",
+        "nickname": "09Miles",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1060361455662280824",
+          "url": "https://cdn.discordapp.com/attachments/990247717810896906/1060361455662280824/image.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 97288
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1060367683272572949",
+      "type": "Default",
+      "timestamp": "2023-01-05T01:22:36.371+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "604428023118430239",
+        "name": "09Miles",
+        "discriminator": "8861",
+        "nickname": "09Miles",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1060367682970603580",
+          "url": "https://cdn.discordapp.com/attachments/990247717810896906/1060367682970603580/image.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 582743
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 79
+}

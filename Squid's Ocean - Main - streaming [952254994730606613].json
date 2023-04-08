@@ -1,0 +1,442 @@
+{
+  "guild": {
+    "id": "934633266378604574",
+    "name": "Squid's Ocean",
+    "iconUrl": "https://cdn.discordapp.com/icons/934633266378604574/a89d22119ffa352cd7802d80292a0c28.png?size=512"
+  },
+  "channel": {
+    "id": "952254994730606613",
+    "type": "GuildTextChat",
+    "categoryId": "941870757561126932",
+    "category": "Main",
+    "name": "streaming",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "952255336750923858",
+      "type": "Default",
+      "timestamp": "2022-03-12T17:22:44.33+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'm gonna do a stream in roblox uno if you want to join just make sure to @Squid in general and join general vc and I will add you.",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "817240170096623656",
+          "name": "Squid",
+          "discriminator": "0064",
+          "nickname": "Squid™",
+          "color": "#1ABC9C",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "952255583363407972",
+      "type": "Default",
+      "timestamp": "2022-03-12T17:23:43.127+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "scartch that just join streaming vc if you want to be in it",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "952255647100051516",
+      "type": "Default",
+      "timestamp": "2022-03-12T17:23:58.323+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@here",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "952255951765921862",
+      "type": "Default",
+      "timestamp": "2022-03-12T17:25:10.961+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "g",
+      "author": {
+        "id": "604428023118430239",
+        "name": "09Miles",
+        "discriminator": "8861",
+        "nickname": "09Miles",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "952255952705421362",
+      "type": "Default",
+      "timestamp": "2022-03-12T17:25:11.185+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "true",
+      "author": {
+        "id": "604428023118430239",
+        "name": "09Miles",
+        "discriminator": "8861",
+        "nickname": "09Miles",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "952256008045080627",
+      "type": "Default",
+      "timestamp": "2022-03-12T17:25:24.379+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "??",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "952256097312464976",
+      "type": "Default",
+      "timestamp": "2022-03-12T17:25:45.662+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "cool",
+      "author": {
+        "id": "604428023118430239",
+        "name": "09Miles",
+        "discriminator": "8861",
+        "nickname": "09Miles",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "952257686249046026",
+      "type": "Default",
+      "timestamp": "2022-03-12T17:32:04.494+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.twitch.tv/thetiredsquid",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "TheTiredSquid - Twitch",
+          "url": "https://www.twitch.tv/thetiredsquid",
+          "timestamp": null,
+          "description": "Hi I don't know what to put here at like 1am. I'm a twitch streamer that makes streams with other people mostly playing Genshin impact, untitled killing game, or Cookie Run",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/v6nHqy8WrDG9D-9GXkSMvf4eSIdi0X6fqOZZNaiphjU/https/static-cdn.jtvnw.net/jtv_user_pictures/1b909324-8b2a-4679-aeb5-bd0b5e9937c6-profile_image-300x300.png",
+            "width": 300,
+            "height": 300
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "952259307548852274",
+      "type": "Default",
+      "timestamp": "2022-03-12T17:38:31.042+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@here I'm live join streaming to be in it.",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "952270289344020480",
+      "type": "Default",
+      "timestamp": "2022-03-12T18:22:09.306+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I be back to stream later",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "952270336781586472",
+      "type": "Default",
+      "timestamp": "2022-03-12T18:22:20.616+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Byeeee!!",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "952279170812100648",
+      "type": "Default",
+      "timestamp": "2022-03-12T18:57:26.813+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "im streaming in a few min",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "952282952891498547",
+      "type": "Default",
+      "timestamp": "2022-03-12T19:12:28.531+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@here",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "952282959199760444",
+      "type": "Default",
+      "timestamp": "2022-03-12T19:12:30.035+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "im live",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "952283023737516033",
+      "type": "Default",
+      "timestamp": "2022-03-12T19:12:45.422+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.twitch.tv/PeepGaming_YT",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "PeepGaming_YT - Twitch",
+          "url": "https://www.twitch.tv/PeepGaming_YT",
+          "timestamp": null,
+          "description": "Cookie Clicker Speedrunning |Vtuber|",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/6VI_opAiQc1PB1Aksq1m0OxCIjETYe21otsMz3oWJKw/https/static-cdn.jtvnw.net/jtv_user_pictures/5ba25b54-01b5-4e4d-9147-fd2f7c857966-profile_image-300x300.png",
+            "width": 300,
+            "height": 300
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "952289698750021702",
+      "type": "Default",
+      "timestamp": "2022-03-12T19:39:16.869+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://web.roblox.com/games/1689414409?privateServerLinkCode=75677484564779175261266222768581",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Roblox Uno",
+          "url": "https://web.roblox.com/games/1689414409?privateServerLinkCode=75677484564779175261266222768581",
+          "timestamp": null,
+          "description": "Check out Roblox Uno. It’s one of the millions of unique, user-generated 3D experiences created on Roblox. Play your favorite tabletop game, Roblox Uno, the #1 Uno game on Roblox! Go against NPCs, Friends, or Foes. Featuring card animations, tons of customization, and professionally made cards, this game is made to be easy to learn & fun to play...",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/Tj99_dS8iD6pfCVn-SWLowAEoBRJQN5L04UHyBQ4plI/https/tr.rbxcdn.com/d0a8b57effac3202c5362114918664e4/500/280/Image/Jpeg",
+            "width": 498,
+            "height": 280
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 16
+}

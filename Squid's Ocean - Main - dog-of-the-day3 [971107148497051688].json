@@ -1,0 +1,253 @@
+{
+  "guild": {
+    "id": "934633266378604574",
+    "name": "Squid's Ocean",
+    "iconUrl": "https://cdn.discordapp.com/icons/934633266378604574/a89d22119ffa352cd7802d80292a0c28.png?size=512"
+  },
+  "channel": {
+    "id": "971107148497051688",
+    "type": "GuildTextChat",
+    "categoryId": "941870757561126932",
+    "category": "Main",
+    "name": "dog-of-the-day3",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "971107260333973544",
+      "type": "Default",
+      "timestamp": "2022-05-03T17:53:33.164+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "My friends dog<3",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "971107260145209414",
+          "url": "https://cdn.discordapp.com/attachments/971107148497051688/971107260145209414/IMG_1423.png",
+          "fileName": "IMG_1423.png",
+          "fileSizeBytes": 539930
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "971368112505110558",
+      "type": "Default",
+      "timestamp": "2022-05-04T11:10:05.168+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "971368112291184670",
+          "url": "https://cdn.discordapp.com/attachments/971107148497051688/971368112291184670/IMG_1428.jpg",
+          "fileName": "IMG_1428.jpg",
+          "fileSizeBytes": 807847
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "972627246982520842",
+      "type": "Default",
+      "timestamp": "2022-05-07T22:33:26.221+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "972627246483386439",
+          "url": "https://cdn.discordapp.com/attachments/971107148497051688/972627246483386439/IMG_1465.jpg",
+          "fileName": "IMG_1465.jpg",
+          "fileSizeBytes": 667301
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDEC\uD83C\uDDF1",
+            "code": "flag_gl",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1ec-1f1f1.svg"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDE7\uD83C\uDDFB",
+            "code": "flag_bv",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1e7-1f1fb.svg"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "3️⃣",
+            "code": "three",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/33-20e3.svg"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDF3\uD83C\uDDF4",
+            "code": "flag_no",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1f3-1f1f4.svg"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "936380146162761818",
+            "name": "beeboi",
+            "code": "beeboi",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/936380146162761818.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE80",
+            "code": "rocket",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f680.svg"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD55",
+            "code": "clock6",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f555.svg"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "956632512724086884",
+            "name": "flobba",
+            "code": "flobba",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/956632512724086884.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDDD8",
+            "code": "person_in_lotus_position",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f9d8.svg"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "934654784223449088",
+            "name": "heeheetler",
+            "code": "heeheetler",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/934654784223449088.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "1016084103742894140",
+            "name": "rumple",
+            "code": "rumple",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/1016084103742894140.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1029186038620491776",
+      "type": "Default",
+      "timestamp": "2022-10-11T00:17:52.959+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "858376910388199474",
+        "name": "HybridHamster",
+        "discriminator": "5864",
+        "nickname": "HybridHamster",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/858376910388199474/3069763c7600cbb66d6886e077a26248.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1029186038402392154",
+          "url": "https://cdn.discordapp.com/attachments/971107148497051688/1029186038402392154/SPOILER_SPOILER_pranked.png",
+          "fileName": "SPOILER_SPOILER_pranked.png",
+          "fileSizeBytes": 122954
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 4
+}

@@ -1,0 +1,554 @@
+{
+  "guild": {
+    "id": "934633266378604574",
+    "name": "Squid's Ocean",
+    "iconUrl": "https://cdn.discordapp.com/icons/934633266378604574/a89d22119ffa352cd7802d80292a0c28.png?size=512"
+  },
+  "channel": {
+    "id": "987167247380414504",
+    "type": "GuildTextChat",
+    "categoryId": "941870757561126932",
+    "category": "Main",
+    "name": "sextuple-baka-squad",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "991437067949187223",
+      "type": "Default",
+      "timestamp": "2022-06-28T20:16:57.009+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "There's four people here",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "991726359338557553",
+      "type": "Default",
+      "timestamp": "2022-06-29T15:26:29.451+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "wait what",
+      "author": {
+        "id": "797658613920825374",
+        "name": "dumit",
+        "discriminator": "6548",
+        "nickname": "dumit",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/797658613920825374/fa4f4b5ab504ad28d6fd38d01f4889ad.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "991728859189878796",
+      "type": "Default",
+      "timestamp": "2022-06-29T15:36:25.462+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Triple baka is a song or smth like that I think",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "991729118435614790",
+      "type": "Default",
+      "timestamp": "2022-06-29T15:37:27.271+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "squad means four",
+      "author": {
+        "id": "797658613920825374",
+        "name": "dumit",
+        "discriminator": "6548",
+        "nickname": "dumit",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/797658613920825374/fa4f4b5ab504ad28d6fd38d01f4889ad.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "991745191620919356",
+      "type": "Default",
+      "timestamp": "2022-06-29T16:41:19.417+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "And it says triple.",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "991745988660314204",
+      "type": "Default",
+      "timestamp": "2022-06-29T16:44:29.446+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Which states 3.",
+      "author": {
+        "id": "695489224920662047",
+        "name": "jw",
+        "discriminator": "9314",
+        "nickname": "jw",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/695489224920662047/21019cdca2c4d65aaf18b6c1c1cc30c5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "991746098521706576",
+      "type": "Default",
+      "timestamp": "2022-06-29T16:44:55.639+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the name",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "991887064838721567",
+      "type": "Default",
+      "timestamp": "2022-06-30T02:05:04.628+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yes.",
+      "author": {
+        "id": "695489224920662047",
+        "name": "jw",
+        "discriminator": "9314",
+        "nickname": "jw",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/695489224920662047/21019cdca2c4d65aaf18b6c1c1cc30c5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999808608822898788",
+      "type": "Default",
+      "timestamp": "2022-07-21T22:42:27.889+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "oh",
+      "author": {
+        "id": "640545322086694956",
+        "name": "repreh",
+        "discriminator": "4406",
+        "nickname": "repreh",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/640545322086694956/d32620068db63d3e6dffbae4ce498658.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1001870411790815282",
+      "type": "Default",
+      "timestamp": "2022-07-27T15:15:20.023+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "well now there's six people here",
+      "author": {
+        "id": "797658613920825374",
+        "name": "dumit",
+        "discriminator": "6548",
+        "nickname": "dumit",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/797658613920825374/fa4f4b5ab504ad28d6fd38d01f4889ad.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1001870419307008162",
+      "type": "Default",
+      "timestamp": "2022-07-27T15:15:21.815+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83C\uDF89 **| Dumit \uD83E\uDE91** leveled up!\n:blank: **|** Extra rewards were added for missing levels",
+      "author": {
+        "id": "408785106942164992",
+        "name": "OwO",
+        "discriminator": "8456",
+        "nickname": "Pep bot",
+        "color": "#206694",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/408785106942164992/731e901db9feef1ccf5bbfe6a4ee87db.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1001870419437035540",
+          "url": "https://cdn.discordapp.com/attachments/987167247380414504/1001870419437035540/levelup.png",
+          "fileName": "levelup.png",
+          "fileSizeBytes": 42140
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1008160786377617419",
+      "type": "Default",
+      "timestamp": "2022-08-13T23:51:02.194+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**sex**tuple",
+      "author": {
+        "id": "797658613920825374",
+        "name": "dumit",
+        "discriminator": "6548",
+        "nickname": "dumit",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/797658613920825374/fa4f4b5ab504ad28d6fd38d01f4889ad.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1008172395502260254",
+      "type": "Default",
+      "timestamp": "2022-08-14T00:37:10.025+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "sextu**p**le",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1012167996585824276",
+      "type": "Default",
+      "timestamp": "2022-08-25T01:14:15.558+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "wooo",
+      "author": {
+        "id": "604428023118430239",
+        "name": "09Miles",
+        "discriminator": "8861",
+        "nickname": "09Miles",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1012911846682001530",
+      "type": "Default",
+      "timestamp": "2022-08-27T02:30:03.241+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "SEX",
+      "author": {
+        "id": "640545322086694956",
+        "name": "repreh",
+        "discriminator": "4406",
+        "nickname": "repreh",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/640545322086694956/d32620068db63d3e6dffbae4ce498658.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1012911856098230303",
+      "type": "Default",
+      "timestamp": "2022-08-27T02:30:05.486+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "YOOOOOOOOOOOOOOO",
+      "author": {
+        "id": "640545322086694956",
+        "name": "repreh",
+        "discriminator": "4406",
+        "nickname": "repreh",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/640545322086694956/d32620068db63d3e6dffbae4ce498658.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1012911873961754754",
+      "type": "Default",
+      "timestamp": "2022-08-27T02:30:09.745+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "IT SAYS SEX",
+      "author": {
+        "id": "640545322086694956",
+        "name": "repreh",
+        "discriminator": "4406",
+        "nickname": "repreh",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/640545322086694956/d32620068db63d3e6dffbae4ce498658.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1012911889883344926",
+      "type": "Default",
+      "timestamp": "2022-08-27T02:30:13.541+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "IN THE NAME",
+      "author": {
+        "id": "640545322086694956",
+        "name": "repreh",
+        "discriminator": "4406",
+        "nickname": "repreh",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/640545322086694956/d32620068db63d3e6dffbae4ce498658.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1012941080641155072",
+      "type": "Default",
+      "timestamp": "2022-08-27T04:26:13.16+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Banned",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1013142184767275129",
+      "type": "Default",
+      "timestamp": "2022-08-27T17:45:20.12+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "lmao",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1013146791820132362",
+      "type": "Default",
+      "timestamp": "2022-08-27T18:03:38.527+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "dead chat",
+      "author": {
+        "id": "797658613920825374",
+        "name": "dumit",
+        "discriminator": "6548",
+        "nickname": "dumit",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/797658613920825374/fa4f4b5ab504ad28d6fd38d01f4889ad.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1016088432138801272",
+      "type": "Default",
+      "timestamp": "2022-09-04T20:52:40.232+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=qrk4UoGo33g",
+      "author": {
+        "id": "797658613920825374",
+        "name": "dumit",
+        "discriminator": "6548",
+        "nickname": "dumit",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/797658613920825374/fa4f4b5ab504ad28d6fd38d01f4889ad.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "15 minutes of discord memes",
+          "url": "https://www.youtube.com/watch?v=qrk4UoGo33g",
+          "timestamp": null,
+          "description": "",
+          "color": "#FF0000",
+          "author": {
+            "name": "Dumit",
+            "url": "https://www.youtube.com/channel/UCEorswEy6fiPdNs3UM0YYXQ"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/1bQGxyeH6ERNpi4gAXr0T4_3_Dt_LEuDGFBqPBinBUw/https/i.ytimg.com/vi/qrk4UoGo33g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 22
+}

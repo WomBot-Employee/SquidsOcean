@@ -1,0 +1,1305 @@
+{
+  "guild": {
+    "id": "934633266378604574",
+    "name": "Squid's Ocean",
+    "iconUrl": "https://cdn.discordapp.com/icons/934633266378604574/a89d22119ffa352cd7802d80292a0c28.png?size=512"
+  },
+  "channel": {
+    "id": "954881426438905897",
+    "type": "GuildTextChat",
+    "categoryId": "941870757561126932",
+    "category": "Main",
+    "name": "penguinboi-joke-of-the-day",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "955095281823805450",
+      "type": "Default",
+      "timestamp": "2022-03-20T13:27:39.999+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Well…",
+      "author": {
+        "id": "936737775301050379",
+        "name": "PenguinBoi",
+        "discriminator": "4463",
+        "nickname": "PiplupPingPenguin©",
+        "color": "#FFB6F8",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/936737775301050379/1f466d802c1545f0792a79613772dfe2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "955095463122595950",
+      "type": "Default",
+      "timestamp": "2022-03-20T13:28:23.224+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The joke of the day IS…",
+      "author": {
+        "id": "936737775301050379",
+        "name": "PenguinBoi",
+        "discriminator": "4463",
+        "nickname": "PiplupPingPenguin©",
+        "color": "#FFB6F8",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/936737775301050379/1f466d802c1545f0792a79613772dfe2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "955095517824696340",
+      "type": "Default",
+      "timestamp": "2022-03-20T13:28:36.266+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "(drumroll pls)",
+      "author": {
+        "id": "936737775301050379",
+        "name": "PenguinBoi",
+        "discriminator": "4463",
+        "nickname": "PiplupPingPenguin©",
+        "color": "#FFB6F8",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/936737775301050379/1f466d802c1545f0792a79613772dfe2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "955095537290477618",
+      "type": "Default",
+      "timestamp": "2022-03-20T13:28:40.907+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ur face!",
+      "author": {
+        "id": "936737775301050379",
+        "name": "PenguinBoi",
+        "discriminator": "4463",
+        "nickname": "PiplupPingPenguin©",
+        "color": "#FFB6F8",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/936737775301050379/1f466d802c1545f0792a79613772dfe2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "955095573059489795",
+      "type": "Default",
+      "timestamp": "2022-03-20T13:28:49.435+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Jk jk",
+      "author": {
+        "id": "936737775301050379",
+        "name": "PenguinBoi",
+        "discriminator": "4463",
+        "nickname": "PiplupPingPenguin©",
+        "color": "#FFB6F8",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/936737775301050379/1f466d802c1545f0792a79613772dfe2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "955095635500081274",
+      "type": "Default",
+      "timestamp": "2022-03-20T13:29:04.322+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Just mine",
+      "author": {
+        "id": "936737775301050379",
+        "name": "PenguinBoi",
+        "discriminator": "4463",
+        "nickname": "PiplupPingPenguin©",
+        "color": "#FFB6F8",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/936737775301050379/1f466d802c1545f0792a79613772dfe2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "955103254927253555",
+      "type": "Default",
+      "timestamp": "2022-03-20T13:59:20.935+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "My face:",
+      "author": {
+        "id": "936737775301050379",
+        "name": "PenguinBoi",
+        "discriminator": "4463",
+        "nickname": "PiplupPingPenguin©",
+        "color": "#FFB6F8",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/936737775301050379/1f466d802c1545f0792a79613772dfe2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "955103459827392523",
+      "type": "Default",
+      "timestamp": "2022-03-20T14:00:09.787+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://tenor.com/view/%ED%8E%AD%EC%88%98-feng-su-penguin-cute-gif-15616261",
+      "author": {
+        "id": "936737775301050379",
+        "name": "PenguinBoi",
+        "discriminator": "4463",
+        "nickname": "PiplupPingPenguin©",
+        "color": "#FFB6F8",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/936737775301050379/1f466d802c1545f0792a79613772dfe2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://tenor.com/view/%ED%8E%AD%EC%88%98-feng-su-penguin-cute-gif-15616261",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/5avkHgOlgvRHtTjbCBbHjY_j1YU43kM3WQU10H5Cwh8/%3Fc%3DVjFfZGlzY29yZA/https/media.tenor.com/AyHcg9d9aNsAAAAD/%25ED%258E%25AD%25EC%2588%2598-feng-su.png",
+            "width": 640,
+            "height": 356
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "955103546121003028",
+      "type": "Default",
+      "timestamp": "2022-03-20T14:00:30.361+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://tenor.com/view/puffybear-puffy-cute-lol-happy-gif-12628636",
+      "author": {
+        "id": "936737775301050379",
+        "name": "PenguinBoi",
+        "discriminator": "4463",
+        "nickname": "PiplupPingPenguin©",
+        "color": "#FFB6F8",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/936737775301050379/1f466d802c1545f0792a79613772dfe2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://tenor.com/view/puffybear-puffy-cute-lol-happy-gif-12628636",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/c9Du9htEIX1WzArq0Kt5TWh9S9B2gMaB2cmiVrEsPnY/%3Fc%3DVjFfZGlzY29yZA/https/media.tenor.com/5KyNp4vd81YAAAAD/puffybear-puffy.png",
+            "width": 370,
+            "height": 300
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "955173093142306856",
+      "type": "Default",
+      "timestamp": "2022-03-20T18:36:51.663+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [
+        {
+          "id": "951709978169851924",
+          "name": "Kokomi+100",
+          "format": "Png",
+          "sourceUrl": "https://cdn.discordapp.com/stickers/951709978169851924.png"
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "955173108103409775",
+      "type": "Default",
+      "timestamp": "2022-03-20T18:36:55.23+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "stOnks",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "955173122103984179",
+      "type": "Default",
+      "timestamp": "2022-03-20T18:36:58.568+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [
+        {
+          "id": "951709931604688966",
+          "name": "Kokomi-100",
+          "format": "Png",
+          "sourceUrl": "https://cdn.discordapp.com/stickers/951709931604688966.png"
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "955173133193740338",
+      "type": "Default",
+      "timestamp": "2022-03-20T18:37:01.212+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "no stOnks",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "955200497726423040",
+      "type": "Default",
+      "timestamp": "2022-03-20T20:25:45.425+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ay",
+      "author": {
+        "id": "936737775301050379",
+        "name": "PenguinBoi",
+        "discriminator": "4463",
+        "nickname": "PiplupPingPenguin©",
+        "color": "#FFB6F8",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/936737775301050379/1f466d802c1545f0792a79613772dfe2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "955200540218904596",
+      "type": "Default",
+      "timestamp": "2022-03-20T20:25:55.556+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "well",
+      "author": {
+        "id": "936737775301050379",
+        "name": "PenguinBoi",
+        "discriminator": "4463",
+        "nickname": "PiplupPingPenguin©",
+        "color": "#FFB6F8",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/936737775301050379/1f466d802c1545f0792a79613772dfe2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "955200791935873054",
+      "type": "Default",
+      "timestamp": "2022-03-20T20:26:55.57+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "155149108183695360",
+        "name": "Dyno",
+        "discriminator": "3861",
+        "nickname": "Dyno",
+        "color": "#206694",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/155149108183695360/19a5ee4114b47195fcecc6646f2380b1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "How good was the joke?",
+          "url": null,
+          "timestamp": "2022-03-20T20:26:55.505+00:00",
+          "description": "1️⃣ Joke was very good!\n\n2️⃣ The joke was mid.\n\n3️⃣ The joke was absolutely terrible.",
+          "color": "#337FD5",
+          "footer": {
+            "text": "Poll by PenguinBoi#4463"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "1️⃣",
+            "code": "one",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/31-20e3.svg"
+          },
+          "count": 5
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "4️⃣",
+            "code": "four",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/34-20e3.svg"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "3️⃣",
+            "code": "three",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/33-20e3.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "955202369099010078",
+      "type": "Default",
+      "timestamp": "2022-03-20T20:33:11.595+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "4: The joke was the best of the best.",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "955629014809210981",
+      "type": "Default",
+      "timestamp": "2022-03-22T00:48:31.859+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I heard @Squid no longer wanted to BEE alive!",
+      "author": {
+        "id": "936737775301050379",
+        "name": "PenguinBoi",
+        "discriminator": "4463",
+        "nickname": "PiplupPingPenguin©",
+        "color": "#FFB6F8",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/936737775301050379/1f466d802c1545f0792a79613772dfe2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "817240170096623656",
+          "name": "Squid",
+          "discriminator": "0064",
+          "nickname": "Squid™",
+          "color": "#1ABC9C",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "955629100637224990",
+      "type": "Default",
+      "timestamp": "2022-03-22T00:48:52.322+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://tenor.com/view/laughing-muttley-laugh-lmao-gif-9280955",
+      "author": {
+        "id": "936737775301050379",
+        "name": "PenguinBoi",
+        "discriminator": "4463",
+        "nickname": "PiplupPingPenguin©",
+        "color": "#FFB6F8",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/936737775301050379/1f466d802c1545f0792a79613772dfe2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://tenor.com/view/laughing-muttley-laugh-lmao-gif-9280955",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/NXwwxy1VyeAcqWfuWp0rZyn6EJ8xy4vPkMraZI1C5rE/%3Fc%3DVjFfZGlzY29yZA/https/media.tenor.com/1XK65EXHK_AAAAAD/laughing-muttley.png",
+            "width": 480,
+            "height": 360
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "955629120027525150",
+      "type": "Default",
+      "timestamp": "2022-03-22T00:48:56.945+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I thought this was joke of the day.",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "955629156400496652",
+      "type": "Default",
+      "timestamp": "2022-03-22T00:49:05.617+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "955629156492795924",
+          "url": "https://cdn.discordapp.com/attachments/954881426438905897/955629156492795924/3E8E31D4-E5FA-4370-BFFF-E22D644B6A7F.jpg",
+          "fileName": "3E8E31D4-E5FA-4370-BFFF-E22D644B6A7F.jpg",
+          "fileSizeBytes": 89279
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "955629171332223067",
+      "type": "Default",
+      "timestamp": "2022-03-22T00:49:09.177+00:00",
+      "timestampEdited": "2022-03-22T00:49:13.613+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sans",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "955629193608196186",
+      "type": "Default",
+      "timestamp": "2022-03-22T00:49:14.488+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "nvm",
+      "author": {
+        "id": "936737775301050379",
+        "name": "PenguinBoi",
+        "discriminator": "4463",
+        "nickname": "PiplupPingPenguin©",
+        "color": "#FFB6F8",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/936737775301050379/1f466d802c1545f0792a79613772dfe2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "955629212205711390",
+      "type": "Default",
+      "timestamp": "2022-03-22T00:49:18.922+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "this isn't the joke of the day",
+      "author": {
+        "id": "936737775301050379",
+        "name": "PenguinBoi",
+        "discriminator": "4463",
+        "nickname": "PiplupPingPenguin©",
+        "color": "#FFB6F8",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/936737775301050379/1f466d802c1545f0792a79613772dfe2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "955629221777125467",
+      "type": "Default",
+      "timestamp": "2022-03-22T00:49:21.204+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "this is the fact of the day",
+      "author": {
+        "id": "936737775301050379",
+        "name": "PenguinBoi",
+        "discriminator": "4463",
+        "nickname": "PiplupPingPenguin©",
+        "color": "#FFB6F8",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/936737775301050379/1f466d802c1545f0792a79613772dfe2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "955629253754503218",
+      "type": "Default",
+      "timestamp": "2022-03-22T00:49:28.828+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "jk jk",
+      "author": {
+        "id": "936737775301050379",
+        "name": "PenguinBoi",
+        "discriminator": "4463",
+        "nickname": "PiplupPingPenguin©",
+        "color": "#FFB6F8",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/936737775301050379/1f466d802c1545f0792a79613772dfe2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "955630369112219658",
+      "type": "Default",
+      "timestamp": "2022-03-22T00:53:54.75+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "this is the new joke of the day",
+      "author": {
+        "id": "936737775301050379",
+        "name": "PenguinBoi",
+        "discriminator": "4463",
+        "nickname": "PiplupPingPenguin©",
+        "color": "#FFB6F8",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/936737775301050379/1f466d802c1545f0792a79613772dfe2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "955630421708795935",
+      "type": "Default",
+      "timestamp": "2022-03-22T00:54:07.29+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Why does every actor get told to break their leg?",
+      "author": {
+        "id": "936737775301050379",
+        "name": "PenguinBoi",
+        "discriminator": "4463",
+        "nickname": "PiplupPingPenguin©",
+        "color": "#FFB6F8",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/936737775301050379/1f466d802c1545f0792a79613772dfe2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "955630467619647599",
+      "type": "Default",
+      "timestamp": "2022-03-22T00:54:18.236+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Because every play has a cast.",
+      "author": {
+        "id": "936737775301050379",
+        "name": "PenguinBoi",
+        "discriminator": "4463",
+        "nickname": "PiplupPingPenguin©",
+        "color": "#FFB6F8",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/936737775301050379/1f466d802c1545f0792a79613772dfe2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "955630500976951336",
+      "type": "Default",
+      "timestamp": "2022-03-22T00:54:26.189+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://tenor.com/view/lizard-laughing-laughinglizard-hehehe-gif-5215392",
+      "author": {
+        "id": "936737775301050379",
+        "name": "PenguinBoi",
+        "discriminator": "4463",
+        "nickname": "PiplupPingPenguin©",
+        "color": "#FFB6F8",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/936737775301050379/1f466d802c1545f0792a79613772dfe2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://tenor.com/view/lizard-laughing-laughinglizard-hehehe-gif-5215392",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/--0KDvhW_g9udCOKJT6vaOjzFm9RzxtPx9RL9cs7znw/%3Fc%3DVjFfZGlzY29yZA/https/media.tenor.com/xBvmaRsl7okAAAAD/lizard-laughing.png",
+            "width": 640,
+            "height": 426
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "955638825638576178",
+      "type": "Default",
+      "timestamp": "2022-03-22T01:27:30.943+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "155149108183695360",
+        "name": "Dyno",
+        "discriminator": "3861",
+        "nickname": "Dyno",
+        "color": "#206694",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/155149108183695360/19a5ee4114b47195fcecc6646f2380b1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "How was the joke today?",
+          "url": null,
+          "timestamp": "2022-03-22T01:27:30.889+00:00",
+          "description": "1️⃣ Super good, I would like more of these kinds of jokes.\n\n2️⃣ The joke was ok. (Not the best, not the worst.)\n\n3️⃣ The joke was absolute garbage.",
+          "color": "#337FD5",
+          "footer": {
+            "text": "Poll by PenguinBoi#4463"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "1️⃣",
+            "code": "one",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/31-20e3.svg"
+          },
+          "count": 5
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "2️⃣",
+            "code": "two",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/32-20e3.svg"
+          },
+          "count": 5
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "3️⃣",
+            "code": "three",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/33-20e3.svg"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC27",
+            "code": "penguin",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f427.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD2B",
+            "code": "gun",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f52b.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "958329427194953758",
+      "type": "Default",
+      "timestamp": "2022-03-29T11:39:00.343+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ahhh",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "967409440452124723",
+      "type": "Default",
+      "timestamp": "2022-04-23T12:59:44.202+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ok",
+      "author": {
+        "id": "936737775301050379",
+        "name": "PenguinBoi",
+        "discriminator": "4463",
+        "nickname": "PiplupPingPenguin©",
+        "color": "#FFB6F8",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/936737775301050379/1f466d802c1545f0792a79613772dfe2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "967409489491943454",
+      "type": "Default",
+      "timestamp": "2022-04-23T12:59:55.894+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I know it’s been a while since the last joke of the day",
+      "author": {
+        "id": "936737775301050379",
+        "name": "PenguinBoi",
+        "discriminator": "4463",
+        "nickname": "PiplupPingPenguin©",
+        "color": "#FFB6F8",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/936737775301050379/1f466d802c1545f0792a79613772dfe2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "967409497209454632",
+      "type": "Default",
+      "timestamp": "2022-04-23T12:59:57.734+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "So",
+      "author": {
+        "id": "936737775301050379",
+        "name": "PenguinBoi",
+        "discriminator": "4463",
+        "nickname": "PiplupPingPenguin©",
+        "color": "#FFB6F8",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/936737775301050379/1f466d802c1545f0792a79613772dfe2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "967409537021792316",
+      "type": "Default",
+      "timestamp": "2022-04-23T13:00:07.226+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Here’s a new joke!!!",
+      "author": {
+        "id": "936737775301050379",
+        "name": "PenguinBoi",
+        "discriminator": "4463",
+        "nickname": "PiplupPingPenguin©",
+        "color": "#FFB6F8",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/936737775301050379/1f466d802c1545f0792a79613772dfe2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "967409556223320124",
+      "type": "Default",
+      "timestamp": "2022-04-23T13:00:11.804+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The joke is…",
+      "author": {
+        "id": "936737775301050379",
+        "name": "PenguinBoi",
+        "discriminator": "4463",
+        "nickname": "PiplupPingPenguin©",
+        "color": "#FFB6F8",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/936737775301050379/1f466d802c1545f0792a79613772dfe2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "967409629015461969",
+      "type": "Default",
+      "timestamp": "2022-04-23T13:00:29.159+00:00",
+      "timestampEdited": "2022-04-23T13:02:37.452+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "What do you call a pig that does karate?",
+      "author": {
+        "id": "936737775301050379",
+        "name": "PenguinBoi",
+        "discriminator": "4463",
+        "nickname": "PiplupPingPenguin©",
+        "color": "#FFB6F8",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/936737775301050379/1f466d802c1545f0792a79613772dfe2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "967409652751007814",
+      "type": "Default",
+      "timestamp": "2022-04-23T13:00:34.818+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "A pork chop.",
+      "author": {
+        "id": "936737775301050379",
+        "name": "PenguinBoi",
+        "discriminator": "4463",
+        "nickname": "PiplupPingPenguin©",
+        "color": "#FFB6F8",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/936737775301050379/1f466d802c1545f0792a79613772dfe2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "967410023456190514",
+      "type": "Default",
+      "timestamp": "2022-04-23T13:02:03.201+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "155149108183695360",
+        "name": "Dyno",
+        "discriminator": "3861",
+        "nickname": "Dyno",
+        "color": "#206694",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/155149108183695360/19a5ee4114b47195fcecc6646f2380b1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "How did you feel about today’s joke?",
+          "url": null,
+          "timestamp": "2022-04-23T13:02:03.102+00:00",
+          "description": "1️⃣ This is an absolute masterpiece.\n\n2️⃣ The joke was kind of good.\n\n3️⃣ The joke was trash.\n\n4️⃣ EMOTIONAL DAMAGE.",
+          "color": "#337FD5",
+          "footer": {
+            "text": "Poll by PenguinBoi#4463"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "1️⃣",
+            "code": "one",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/31-20e3.svg"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "2️⃣",
+            "code": "two",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/32-20e3.svg"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "3️⃣",
+            "code": "three",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/33-20e3.svg"
+          },
+          "count": 5
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "4️⃣",
+            "code": "four",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/34-20e3.svg"
+          },
+          "count": 6
+        },
+        {
+          "emoji": {
+            "id": "912521619522592798",
+            "name": "emodharman",
+            "code": "emodharman",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/912521619522592798.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE2D",
+            "code": "sob",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f62d.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "972627790631403572",
+      "type": "Default",
+      "timestamp": "2022-05-07T22:35:35.837+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "No damsels??",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE0E",
+            "code": "sunglasses",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f60e.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDDFF",
+            "code": "moyai",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f5ff.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD52",
+            "code": "cucumber",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f952.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDE7\uD83C\uDDFB",
+            "code": "flag_bv",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1e7-1f1fb.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDEC\uD83C\uDDF1",
+            "code": "flag_gl",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1ec-1f1f1.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD67",
+            "code": "clock1230",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f567.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "956632512724086884",
+            "name": "flobba",
+            "code": "flobba",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/956632512724086884.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 41
+}

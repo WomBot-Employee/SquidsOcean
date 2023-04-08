@@ -1,0 +1,3547 @@
+{
+  "guild": {
+    "id": "934633266378604574",
+    "name": "Squid's Ocean",
+    "iconUrl": "https://cdn.discordapp.com/icons/934633266378604574/a89d22119ffa352cd7802d80292a0c28.png?size=512"
+  },
+  "channel": {
+    "id": "944043407993618432",
+    "type": "GuildTextChat",
+    "categoryId": "941870531085484052",
+    "category": "Music",
+    "name": "suggestions",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "944047178190585896",
+      "type": "Default",
+      "timestamp": "2022-02-18T01:46:26.829+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://open.spotify.com/track/6Tsu3OsuMz4KEGKbOYd6A0?si=3BYk8LNhSEKXfuUuwO9KMw",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Hypnotize - 2007 Remaster",
+          "url": "https://open.spotify.com/track/6Tsu3OsuMz4KEGKbOYd6A0?si=3BYk8LNhSEKXfuUuwO9KMw",
+          "timestamp": null,
+          "description": "The Notorious B.I.G. · Song · 2007",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/4mjigplpvgwgUl7W6jgn837W5N3UcRe9fytqlDMN73s/https/i.scdn.co/image/ab67616d0000b273639fea4197e676cfe9512e04",
+            "width": 640,
+            "height": 640
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "944047458168737802",
+      "type": "Default",
+      "timestamp": "2022-02-18T01:47:33.581+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://open.spotify.com/track/63vL5oxWrlvaJ0ayNaQnbX?si=R_Ua1IblSFCQioJxhmtrpw",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Istanbul (Not Constantinople)",
+          "url": "https://open.spotify.com/track/63vL5oxWrlvaJ0ayNaQnbX?si=R_Ua1IblSFCQioJxhmtrpw",
+          "timestamp": null,
+          "description": "They Might Be Giants · Song · 1990",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/v9GxHj3vEdM2v8_GuNUStIR03rccLAR9FUQr871h7HU/https/i.scdn.co/image/ab67616d0000b2737bf5a21b4cf1d79d08397539",
+            "width": 640,
+            "height": 640
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "944609355771297852",
+      "type": "Default",
+      "timestamp": "2022-02-19T15:00:20.409+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://open.spotify.com/track/7gARZ2i5u5DHC1b1n1fML5?si=zXPFJflQQRWJ23BMrguLsg",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Breezeblocks",
+          "url": "https://open.spotify.com/track/7gARZ2i5u5DHC1b1n1fML5?si=zXPFJflQQRWJ23BMrguLsg",
+          "timestamp": null,
+          "description": "alt-J · Song · 2012",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/W7EAyi_C6S7E_g3PjuQhGqp9ZgilvFn24UdQxjQhEzU/https/i.scdn.co/image/ab67616d0000b273d381b6e0d9ffb31c47080079",
+            "width": 640,
+            "height": 640
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "946211234821341234",
+      "type": "Default",
+      "timestamp": "2022-02-24T01:05:38.136+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://open.spotify.com/track/448D6btwFKJAFstjlyTNJv?si=pSqZHvlrQ3qCdHg_R3gLDA",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "To the Bone",
+          "url": "https://open.spotify.com/track/448D6btwFKJAFstjlyTNJv?si=pSqZHvlrQ3qCdHg_R3gLDA",
+          "timestamp": null,
+          "description": "J.T. Machinima · Song · 2016",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/xT3phwV4vA45tKx5TI41N2AP2ZD351tBD5JB4KSoLnY/https/i.scdn.co/image/ab67616d0000b2737a7f0e7c0f209bdd8188ad14",
+            "width": 640,
+            "height": 640
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "947611367882510336",
+      "type": "Default",
+      "timestamp": "2022-02-27T21:49:15.871+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://open.spotify.com/playlist/1jXjnMyaTV7tuVgKqpqx93?si=54770365b8f44220",
+      "author": {
+        "id": "936737775301050379",
+        "name": "PenguinBoi",
+        "discriminator": "4463",
+        "nickname": "PiplupPingPenguin©",
+        "color": "#FFB6F8",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/936737775301050379/1f466d802c1545f0792a79613772dfe2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Asian Pop Music + Rock Music + R&B Music + Ballad Music + Indie Music",
+          "url": "https://open.spotify.com/playlist/1jXjnMyaTV7tuVgKqpqx93?si=54770365b8f44220",
+          "timestamp": null,
+          "description": "P1ngu_Tin · Playlist · 71 songs · 4 likes",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/9duJeGO4N9G7GB9deCvskGqukRyg9O25acQ1e7_zRY0/https/i.scdn.co/image/ab67706c0000bebb3b6555efd67bfbb0b178ff2c",
+            "width": 640,
+            "height": 359
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "953675945565368330",
+      "type": "Default",
+      "timestamp": "2022-03-16T15:27:43.865+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://open.spotify.com/track/4IlqQhaxrGPxmg35YcXXuS?si=TRgrtfubRJaKSjAU9lccHw&context=spotify%3Asearch%3Adancin",
+      "author": {
+        "id": "797658613920825374",
+        "name": "dumit",
+        "discriminator": "6548",
+        "nickname": "dumit",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/797658613920825374/fa4f4b5ab504ad28d6fd38d01f4889ad.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Dancin - Krono Remix",
+          "url": "https://open.spotify.com/track/4IlqQhaxrGPxmg35YcXXuS?si=TRgrtfubRJaKSjAU9lccHw&context=spotify%3Asearch%3Adancin",
+          "timestamp": null,
+          "description": "Aaron Smith · Song · 2019",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/2xJ4bvx64f4jnxmQAm8cIPAzJdpQ6G24bYfDMfld5iY/https/i.scdn.co/image/ab67616d0000b2738e434692f8d330ad8f5d933a",
+            "width": 600,
+            "height": 600
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "960860251727470622",
+      "type": "Default",
+      "timestamp": "2022-04-05T11:15:35.932+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://pandora.app.link/4xRrkb6FYob",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Honeypie",
+          "url": "https://pandora.app.link/4xRrkb6FYob",
+          "timestamp": null,
+          "description": "Discover JAWNY's top songs & albums, curated artist radio stations & more. Listen to JAWNY on Pandora today!",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/SEF3radvk-z_26X2XxS21Xy9IZuJXYVxcmGKN2dDfig/https/content-images.p-cdn.com/images/87/1f/9a/8f/b74d46b5b144d811050d3b34/_500W_500H.jpg",
+            "width": 500,
+            "height": 500
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "960860941455609866",
+      "type": "Default",
+      "timestamp": "2022-04-05T11:18:20.376+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://pandora.app.link/91n6mYiGYob",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Useless",
+          "url": "https://pandora.app.link/91n6mYiGYob",
+          "timestamp": null,
+          "description": "Discover Omar Apollo's top songs & albums, curated artist radio stations & more. Listen to Omar Apollo on Pandora today!",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/1XQHDhnpahWuiH8XNchCZdxpKM3XMhr9pxql1Tz4XBU/https/content-images.p-cdn.com/images/cf/64/33/bd/50504c5b9edaf1a69eb6bfd1/_500W_500H.jpg",
+            "width": 500,
+            "height": 500
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "973907458231762954",
+      "type": "Default",
+      "timestamp": "2022-05-11T11:20:32.368+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://open.spotify.com/track/7mixldCBjh3Mb03W9drOVu?si=mgxAlFNrSRSxBNsdlSoVHw",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Really Cool Wig",
+          "url": "https://open.spotify.com/track/7mixldCBjh3Mb03W9drOVu?si=mgxAlFNrSRSxBNsdlSoVHw",
+          "timestamp": null,
+          "description": "Lemon Demon · Song · 2014",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/Oz_kXzt8azym1vKB0AazSVt21uSJ8q_sE0sEl1J8HSo/https/i.scdn.co/image/ab67616d0000b27361b3be79f762377a297b9e8c",
+            "width": 640,
+            "height": 640
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "975197537801732137",
+      "type": "Default",
+      "timestamp": "2022-05-15T00:46:51.306+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://open.spotify.com/track/4c2S2MELHhh3nspK1Rmef7?si=5TfXU-rsTLudbDX_pxeacQ",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Bitchboy",
+          "url": "https://open.spotify.com/track/4c2S2MELHhh3nspK1Rmef7?si=5TfXU-rsTLudbDX_pxeacQ",
+          "timestamp": null,
+          "description": "The Oozes · Song · 2021",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/uXnN_jh41YnbdMD6h-sMKqrkYH6WSs8F3Z_kEAVjib4/https/i.scdn.co/image/ab67616d0000b27368b92d01a1cdb3bccc67e79a",
+            "width": 640,
+            "height": 640
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "975197697281757194",
+      "type": "Default",
+      "timestamp": "2022-05-15T00:47:29.329+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://open.spotify.com/track/16D5bGymrzpi9ZlnYXB5ql?si=tFyr8puiRempfCp5s0dHeQ",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Gimme Chocolate!!",
+          "url": "https://open.spotify.com/track/16D5bGymrzpi9ZlnYXB5ql?si=tFyr8puiRempfCp5s0dHeQ",
+          "timestamp": null,
+          "description": "BABYMETAL · Song · 2015",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/ZZItjkwLncQtkBSzP8OJ9oSV5QbGdcZ6aVFaJ9SVsPw/https/i.scdn.co/image/ab67616d0000b273d01512173f11eec708e1768f",
+            "width": 640,
+            "height": 640
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "975197797013917696",
+      "type": "Default",
+      "timestamp": "2022-05-15T00:47:53.107+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://open.spotify.com/track/22FniXvTKV9IC6IhxCpYve?si=3py9g4zBRdyqvj-711U4iw",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Hello Kitty",
+          "url": "https://open.spotify.com/track/22FniXvTKV9IC6IhxCpYve?si=3py9g4zBRdyqvj-711U4iw",
+          "timestamp": null,
+          "description": "Jazmin Bean · Song · 2020",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/Aidh3-FQFkLr9lqgqvxv4zHc94X41lCZbVneAPPXcOY/https/i.scdn.co/image/ab67616d0000b273eea4d8ef4ad2b9b0a7f00d37",
+            "width": 640,
+            "height": 640
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "975197971694104576",
+      "type": "Reply",
+      "timestamp": "2022-05-15T00:48:34.754+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@buggie likes too",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "585090261840035860",
+          "name": "buggie",
+          "discriminator": "0811",
+          "nickname": "bug gay",
+          "color": "#FF00CE",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/585090261840035860/c3fdc4235240a28b7b8d58cc06fc99b5.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "975197797013917696",
+        "channelId": "944043407993618432",
+        "guildId": "934633266378604574"
+      }
+    },
+    {
+      "id": "975198011087007784",
+      "type": "Default",
+      "timestamp": "2022-05-15T00:48:44.146+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "604428023118430239",
+        "name": "09Miles",
+        "discriminator": "8861",
+        "nickname": "09Miles",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "975198010696953866",
+          "url": "https://cdn.discordapp.com/attachments/944043407993618432/975198010696953866/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 4623
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "975198076480393327",
+      "type": "Default",
+      "timestamp": "2022-05-15T00:48:59.737+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "No damsels?",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "975198076312645652",
+          "url": "https://cdn.discordapp.com/attachments/944043407993618432/975198076312645652/20220513_184038.jpg",
+          "fileName": "20220513_184038.jpg",
+          "fileSizeBytes": 357811
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "975198113511899136",
+      "type": "Default",
+      "timestamp": "2022-05-15T00:49:08.566+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "is that carter",
+      "author": {
+        "id": "604428023118430239",
+        "name": "09Miles",
+        "discriminator": "8861",
+        "nickname": "09Miles",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "975198134378582016",
+      "type": "Default",
+      "timestamp": "2022-05-15T00:49:13.541+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Idk",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "975198174924931082",
+      "type": "Default",
+      "timestamp": "2022-05-15T00:49:23.208+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "You guys know them",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "975198183347064832",
+      "type": "Reply",
+      "timestamp": "2022-05-15T00:49:25.216+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it is",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "604428023118430239",
+          "name": "09Miles",
+          "discriminator": "8861",
+          "nickname": "09Miles",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "975198113511899136",
+        "channelId": "944043407993618432",
+        "guildId": "934633266378604574"
+      }
+    },
+    {
+      "id": "975198890116657152",
+      "type": "Default",
+      "timestamp": "2022-05-15T00:52:13.723+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://open.spotify.com/track/2dURQIBrw3XcHyVZlfdpC1?si=DQzFpKHUSpWH9x87zDrh3Q",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Two of Hearts",
+          "url": "https://open.spotify.com/track/2dURQIBrw3XcHyVZlfdpC1?si=DQzFpKHUSpWH9x87zDrh3Q",
+          "timestamp": null,
+          "description": "Stacey Q · Song · 1986",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/o1NsEC_e00GEL0U2id8FdfRZjGJidoYoOP0PDhq1xiA/https/i.scdn.co/image/ab67616d0000b2734fbef9faaac04982d6170c85",
+            "width": 640,
+            "height": 640
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "975198934148476988",
+      "type": "Reply",
+      "timestamp": "2022-05-15T00:52:24.221+00:00",
+      "timestampEdited": "2022-05-15T00:52:34.25+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "that's a jojo reference",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "793665293565165610",
+          "name": "Arsøn",
+          "discriminator": "3353",
+          "nickname": "Arsøn",
+          "color": "#1A53FF",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "975198890116657152",
+        "channelId": "944043407993618432",
+        "guildId": "934633266378604574"
+      }
+    },
+    {
+      "id": "975199016868511795",
+      "type": "Reply",
+      "timestamp": "2022-05-15T00:52:43.943+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It’s is?!!!",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "817240170096623656",
+          "name": "Squid",
+          "discriminator": "0064",
+          "nickname": "Squid™",
+          "color": "#1ABC9C",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "975198934148476988",
+        "channelId": "944043407993618432",
+        "guildId": "934633266378604574"
+      }
+    },
+    {
+      "id": "975199445274742804",
+      "type": "Default",
+      "timestamp": "2022-05-15T00:54:26.083+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Aw man",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "975199460323889192",
+      "type": "Default",
+      "timestamp": "2022-05-15T00:54:29.671+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "now move to general",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "975199487779799100",
+      "type": "Default",
+      "timestamp": "2022-05-15T00:54:36.217+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#hmmmmm",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "975199515944550430",
+      "type": "Default",
+      "timestamp": "2022-05-15T00:54:42.932+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#do I?",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "975199529894830100",
+      "type": "Default",
+      "timestamp": "2022-05-15T00:54:46.258+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#mmmmm",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "975199545480867940",
+      "type": "Default",
+      "timestamp": "2022-05-15T00:54:49.974+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#idk",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "975199549121507388",
+      "type": "Default",
+      "timestamp": "2022-05-15T00:54:50.842+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#icanremoveyouradmin",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "975199599646081086",
+      "type": "Default",
+      "timestamp": "2022-05-15T00:55:02.888+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#…",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "975199607497842708",
+      "type": "Default",
+      "timestamp": "2022-05-15T00:55:04.76+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#hehehehh balls",
+      "author": {
+        "id": "585090261840035860",
+        "name": "buggie",
+        "discriminator": "0811",
+        "nickname": "bug gay",
+        "color": "#FF00CE",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/585090261840035860/c3fdc4235240a28b7b8d58cc06fc99b5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "975199625227173968",
+      "type": "Default",
+      "timestamp": "2022-05-15T00:55:08.987+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://tenor.com/view/pure-vanilla-cookie-cant-take-shit-cookie-run-kingdom-gif-25063662",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://tenor.com/view/pure-vanilla-cookie-cant-take-shit-cookie-run-kingdom-gif-25063662",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/W3KHDAPf4BFYsWD28LpQo4WRa_THBynSbfrM0AngXYk/https/media.tenor.com/7G68_GnK9mcAAAAD/pure-vanilla-cookie-cant-take-shit.png",
+            "width": 640,
+            "height": 424
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "975199648748802099",
+      "type": "Default",
+      "timestamp": "2022-05-15T00:55:14.595+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ok im done withj this",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "975199662283817021",
+      "type": "Default",
+      "timestamp": "2022-05-15T00:55:17.822+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "squid good luck",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "975199681820901486",
+      "type": "Reply",
+      "timestamp": "2022-05-15T00:55:22.48+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#MMMM SOY RELATABLE",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "585090261840035860",
+          "name": "buggie",
+          "discriminator": "0811",
+          "nickname": "bug gay",
+          "color": "#FF00CE",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/585090261840035860/c3fdc4235240a28b7b8d58cc06fc99b5.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "975199607497842708",
+        "channelId": "944043407993618432",
+        "guildId": "934633266378604574"
+      }
+    },
+    {
+      "id": "975199688498241586",
+      "type": "Default",
+      "timestamp": "2022-05-15T00:55:24.072+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "waht",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "975199750452297798",
+      "type": "Reply",
+      "timestamp": "2022-05-15T00:55:38.843+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Bai",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "726195055349727313",
+          "name": "pëp",
+          "discriminator": "1005",
+          "nickname": "pëp",
+          "color": "#1ABC9C",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "975199648748802099",
+        "channelId": "944043407993618432",
+        "guildId": "934633266378604574"
+      }
+    },
+    {
+      "id": "982265487528435732",
+      "type": "Default",
+      "timestamp": "2022-06-03T12:52:21.837+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP?si=89Xl-WgwTIOXTCGkYye5vA&context=spotify%3Aplaylist%3A0HBYqtYISyjPVWtdr3j2Qc",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Running Up That Hill (A Deal With God) - 2018 Remaster",
+          "url": "https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP?si=89Xl-WgwTIOXTCGkYye5vA&context=spotify%3Aplaylist%3A0HBYqtYISyjPVWtdr3j2Qc",
+          "timestamp": null,
+          "description": "Kate Bush · Song · 1985",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/k8K77S05HoNUb9mGlpKLFjZ_-Ccq4h5uOI2BAzTTVRk/https/i.scdn.co/image/ab67616d0000b2735c390e413e27798edd4d18b4",
+            "width": 640,
+            "height": 640
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "982273770209288192",
+      "type": "Default",
+      "timestamp": "2022-06-03T13:25:16.582+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://open.spotify.com/track/31ZTP0DkLaJLNY9EAXGaa9?si=oKyAqqSHS8ujPx_FP-FoCg",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Nimbasa CORE",
+          "url": "https://open.spotify.com/track/31ZTP0DkLaJLNY9EAXGaa9?si=oKyAqqSHS8ujPx_FP-FoCg",
+          "timestamp": null,
+          "description": "plasterbrain · Song · 2013",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/bLlQ0IRq6eN8TfMl3DLr8Dsed-zoljFIMweVtHttmWc/https/i.scdn.co/image/ab67616d0000b273c39ad978e02cc8e93729a0f0",
+            "width": 640,
+            "height": 640
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "982669552737456168",
+      "type": "Default",
+      "timestamp": "2022-06-04T15:37:58.49+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://open.spotify.com/track/31ZTP0DkLaJLNY9EAXGaa9?si=2yImJB8oQCuULuEvdPBTlg",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Nimbasa CORE",
+          "url": "https://open.spotify.com/track/31ZTP0DkLaJLNY9EAXGaa9?si=2yImJB8oQCuULuEvdPBTlg",
+          "timestamp": null,
+          "description": "plasterbrain · Song · 2013",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/bLlQ0IRq6eN8TfMl3DLr8Dsed-zoljFIMweVtHttmWc/https/i.scdn.co/image/ab67616d0000b273c39ad978e02cc8e93729a0f0",
+            "width": 640,
+            "height": 640
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "982669573071446036",
+      "type": "Default",
+      "timestamp": "2022-06-04T15:38:03.338+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://open.spotify.com/track/31ZTP0DkLaJLNY9EAXGaa9?si=2yImJB8oQCuULuEvdPBTlg",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Nimbasa CORE",
+          "url": "https://open.spotify.com/track/31ZTP0DkLaJLNY9EAXGaa9?si=2yImJB8oQCuULuEvdPBTlg",
+          "timestamp": null,
+          "description": "plasterbrain · Song · 2013",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/bLlQ0IRq6eN8TfMl3DLr8Dsed-zoljFIMweVtHttmWc/https/i.scdn.co/image/ab67616d0000b273c39ad978e02cc8e93729a0f0",
+            "width": 640,
+            "height": 640
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "982669582714167306",
+      "type": "Default",
+      "timestamp": "2022-06-04T15:38:05.637+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://open.spotify.com/track/31ZTP0DkLaJLNY9EAXGaa9?si=2yImJB8oQCuULuEvdPBTlg",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Nimbasa CORE",
+          "url": "https://open.spotify.com/track/31ZTP0DkLaJLNY9EAXGaa9?si=2yImJB8oQCuULuEvdPBTlg",
+          "timestamp": null,
+          "description": "plasterbrain · Song · 2013",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/bLlQ0IRq6eN8TfMl3DLr8Dsed-zoljFIMweVtHttmWc/https/i.scdn.co/image/ab67616d0000b273c39ad978e02cc8e93729a0f0",
+            "width": 640,
+            "height": 640
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "983461905689636884",
+      "type": "Default",
+      "timestamp": "2022-06-06T20:06:30.155+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://open.spotify.com/track/16uUyqLww609rlIChLCRTb?si=1b37a80548054e87",
+      "author": {
+        "id": "871767059351097345",
+        "name": "Tabmow",
+        "discriminator": "0054",
+        "nickname": "Tabmow",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/871767059351097345/ad46cedb04ef9643f9fa6c322b4fe5ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "In the Court of the Crimson King - Abridged",
+          "url": "https://open.spotify.com/track/16uUyqLww609rlIChLCRTb?si=1b37a80548054e87",
+          "timestamp": null,
+          "description": "King Crimson · Song · 2006",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/H_nE4Z0ZBqIHO30rNiWKhwi7M3RLQ8wYzSlusQ30ZVA/https/i.scdn.co/image/ab67616d0000b27345e18ea770a25e5acea7b783",
+            "width": 640,
+            "height": 640
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "983461908113928272",
+      "type": "Default",
+      "timestamp": "2022-06-06T20:06:30.733+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://open.spotify.com/track/16uUyqLww609rlIChLCRTb?si=1b37a80548054e87",
+      "author": {
+        "id": "871767059351097345",
+        "name": "Tabmow",
+        "discriminator": "0054",
+        "nickname": "Tabmow",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/871767059351097345/ad46cedb04ef9643f9fa6c322b4fe5ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "In the Court of the Crimson King - Abridged",
+          "url": "https://open.spotify.com/track/16uUyqLww609rlIChLCRTb?si=1b37a80548054e87",
+          "timestamp": null,
+          "description": "King Crimson · Song · 2006",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/H_nE4Z0ZBqIHO30rNiWKhwi7M3RLQ8wYzSlusQ30ZVA/https/i.scdn.co/image/ab67616d0000b27345e18ea770a25e5acea7b783",
+            "width": 640,
+            "height": 640
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "983461912295645266",
+      "type": "Default",
+      "timestamp": "2022-06-06T20:06:31.73+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://open.spotify.com/track/16uUyqLww609rlIChLCRTb?si=1b37a80548054e87",
+      "author": {
+        "id": "871767059351097345",
+        "name": "Tabmow",
+        "discriminator": "0054",
+        "nickname": "Tabmow",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/871767059351097345/ad46cedb04ef9643f9fa6c322b4fe5ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "In the Court of the Crimson King - Abridged",
+          "url": "https://open.spotify.com/track/16uUyqLww609rlIChLCRTb?si=1b37a80548054e87",
+          "timestamp": null,
+          "description": "King Crimson · Song · 2006",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/H_nE4Z0ZBqIHO30rNiWKhwi7M3RLQ8wYzSlusQ30ZVA/https/i.scdn.co/image/ab67616d0000b27345e18ea770a25e5acea7b783",
+            "width": 640,
+            "height": 640
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "983462349732192277",
+      "type": "Default",
+      "timestamp": "2022-06-06T20:08:16.023+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "IM SHOWING MY LOVE FOR MY MUSIC NOW",
+      "author": {
+        "id": "871767059351097345",
+        "name": "Tabmow",
+        "discriminator": "0054",
+        "nickname": "Tabmow",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/871767059351097345/ad46cedb04ef9643f9fa6c322b4fe5ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "983462355801362544",
+      "type": "Default",
+      "timestamp": "2022-06-06T20:08:17.47+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://open.spotify.com/track/3XhyafaTVD6ViaRFIL4bNo?si=1b3f2f4ad89d48f5",
+      "author": {
+        "id": "871767059351097345",
+        "name": "Tabmow",
+        "discriminator": "0054",
+        "nickname": "Tabmow",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/871767059351097345/ad46cedb04ef9643f9fa6c322b4fe5ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Like a Surgeon",
+          "url": "https://open.spotify.com/track/3XhyafaTVD6ViaRFIL4bNo?si=1b3f2f4ad89d48f5",
+          "timestamp": null,
+          "description": "\"Weird Al\" Yankovic · Song · 2009",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/uAvsm9fQ00L_0ykyTW0T4I6sMOzOGsxfJRBEsfEpd3E/https/i.scdn.co/image/ab67616d0000b273e840912a60b4d50e0b75154b",
+            "width": 640,
+            "height": 640
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "983462431013609502",
+      "type": "Default",
+      "timestamp": "2022-06-06T20:08:35.402+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://open.spotify.com/track/0j3p1p06deJ7f9xmJ9yG22?si=5c9945a7eacb4f00",
+      "author": {
+        "id": "871767059351097345",
+        "name": "Tabmow",
+        "discriminator": "0054",
+        "nickname": "Tabmow",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/871767059351097345/ad46cedb04ef9643f9fa6c322b4fe5ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Back In The U.S.S.R. - Remastered 2009",
+          "url": "https://open.spotify.com/track/0j3p1p06deJ7f9xmJ9yG22?si=5c9945a7eacb4f00",
+          "timestamp": null,
+          "description": "The Beatles · Song · 1968",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/zGN5WWtSj4BYZ_sGjwv-Jgguqw7AqxkTO6zuqcUyyRc/https/i.scdn.co/image/ab67616d0000b2734ce8b4e42588bf18182a1ad2",
+            "width": 640,
+            "height": 640
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "983462501511471134",
+      "type": "Default",
+      "timestamp": "2022-06-06T20:08:52.21+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://open.spotify.com/track/0hqjsgWRfMBf2s8xsvRq1M?si=333cf7cbbfbe415a",
+      "author": {
+        "id": "871767059351097345",
+        "name": "Tabmow",
+        "discriminator": "0054",
+        "nickname": "Tabmow",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/871767059351097345/ad46cedb04ef9643f9fa6c322b4fe5ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Hello, Goodbye - Remastered 2015",
+          "url": "https://open.spotify.com/track/0hqjsgWRfMBf2s8xsvRq1M?si=333cf7cbbfbe415a",
+          "timestamp": null,
+          "description": "The Beatles · Song · 2000",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/FvwIfl5-GBEqR9u0Uz6dKOOLW4u3RkUmVint7rNgSNY/https/i.scdn.co/image/ab67616d0000b273582d56ce20fe0146ffa0e5cf",
+            "width": 640,
+            "height": 640
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "983462830961471508",
+      "type": "Default",
+      "timestamp": "2022-06-06T20:10:10.757+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://open.spotify.com/track/6FsXPr00DJIGSMRLNrmmZy?si=dfb0a9cbb0904d1e",
+      "author": {
+        "id": "871767059351097345",
+        "name": "Tabmow",
+        "discriminator": "0054",
+        "nickname": "Tabmow",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/871767059351097345/ad46cedb04ef9643f9fa6c322b4fe5ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Hey Hey Rise Up - feat. Andriy Khlyvnyuk of Boombox",
+          "url": "https://open.spotify.com/track/6FsXPr00DJIGSMRLNrmmZy?si=dfb0a9cbb0904d1e",
+          "timestamp": null,
+          "description": "Pink Floyd · Song · 2022",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/fNUdaGEluZJpNfmiCw7ypWa16zySuknc8Xt7TPUUEwc/https/i.scdn.co/image/ab67616d0000b2738311aed8897abbdc39bd8354",
+            "width": 640,
+            "height": 640
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "983472193428140032",
+      "type": "Default",
+      "timestamp": "2022-06-06T20:47:22.943+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "K",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "984798636019949608",
+      "type": "Default",
+      "timestamp": "2022-06-10T12:38:11.501+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://open.spotify.com/track/3xpdefOloYCBXd3UR6MVyM?si=YQ38TIKDT_KwCvpdsys_CA",
+      "author": {
+        "id": "797658613920825374",
+        "name": "dumit",
+        "discriminator": "6548",
+        "nickname": "dumit",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/797658613920825374/fa4f4b5ab504ad28d6fd38d01f4889ad.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Turn the Lights Off",
+          "url": "https://open.spotify.com/track/3xpdefOloYCBXd3UR6MVyM?si=YQ38TIKDT_KwCvpdsys_CA",
+          "timestamp": null,
+          "description": "Tally Hall · Song · 2011",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/WBNc9rzXJd6C9b0yvo9VRFK7qDK2DJGG8VkDJ1mLWQk/https/i.scdn.co/image/ab67616d0000b27325a5a1ed28871e8e53e62d59",
+            "width": 640,
+            "height": 640
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "984798639094366231",
+      "type": "Default",
+      "timestamp": "2022-06-10T12:38:12.234+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83C\uDF89 **| Dumitio** leveled up!",
+      "author": {
+        "id": "408785106942164992",
+        "name": "OwO",
+        "discriminator": "8456",
+        "nickname": "Pep bot",
+        "color": "#206694",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/408785106942164992/731e901db9feef1ccf5bbfe6a4ee87db.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "984798639257960508",
+          "url": "https://cdn.discordapp.com/attachments/944043407993618432/984798639257960508/levelup.png",
+          "fileName": "levelup.png",
+          "fileSizeBytes": 41934
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "984939014811418664",
+      "type": "Default",
+      "timestamp": "2022-06-10T21:56:00.413+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://open.spotify.com/track/28MKy2umF5roXSqmUQ9eB7?si=Itr1dzwvQHGqorckjci_-A",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Re:Re:",
+          "url": "https://open.spotify.com/track/28MKy2umF5roXSqmUQ9eB7?si=Itr1dzwvQHGqorckjci_-A",
+          "timestamp": null,
+          "description": "ASIAN KUNG-FU GENERATION · Song · 2004",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/YpiFVUmDCV4m0PAbvjbYjD4TiMQfrgazY6LPEt7s-ME/https/i.scdn.co/image/ab67616d0000b2731ad7b6eb6b0410e10402edeb",
+            "width": 640,
+            "height": 640
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "988859595130806382",
+      "type": "Default",
+      "timestamp": "2022-06-21T17:34:59.602+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://open.spotify.com/track/5zFxjJddzJ4QVf7AS1CQMi?si=gDxIuN_8Ry2AouifHugZYA",
+      "author": {
+        "id": "797658613920825374",
+        "name": "dumit",
+        "discriminator": "6548",
+        "nickname": "dumit",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/797658613920825374/fa4f4b5ab504ad28d6fd38d01f4889ad.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Heheheha",
+          "url": "https://open.spotify.com/track/5zFxjJddzJ4QVf7AS1CQMi?si=gDxIuN_8Ry2AouifHugZYA",
+          "timestamp": null,
+          "description": "Turbo Thomas · Song · 2021",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/oOPB0JFX84FecWnWR3FOjPJlOPpwxnaDg1zwMhoYVFY/https/i.scdn.co/image/ab67616d0000b273b34ee1730f4eaf35f83655d8",
+            "width": 640,
+            "height": 640
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "988859646167093298",
+      "type": "Default",
+      "timestamp": "2022-06-21T17:35:11.77+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fire",
+      "author": {
+        "id": "585090261840035860",
+        "name": "buggie",
+        "discriminator": "0811",
+        "nickname": "bug gay",
+        "color": "#FF00CE",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/585090261840035860/c3fdc4235240a28b7b8d58cc06fc99b5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "988859707756261466",
+      "type": "Default",
+      "timestamp": "2022-06-21T17:35:26.454+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "completely",
+      "author": {
+        "id": "797658613920825374",
+        "name": "dumit",
+        "discriminator": "6548",
+        "nickname": "dumit",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/797658613920825374/fa4f4b5ab504ad28d6fd38d01f4889ad.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "988901542721630228",
+      "type": "Default",
+      "timestamp": "2022-06-21T20:21:40.687+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://open.spotify.com/track/7b4Ph8ow3EyQNZMuKdVN43?si=vq9MPV_kRCKZWnsbYbuK0w",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "988909132096622692",
+      "type": "Default",
+      "timestamp": "2022-06-21T20:51:50.135+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://open.spotify.com/track/3ZuNNlfkW5uemJek0UtEG0?si=hqb-DXiDRtGziuB5SykTgg",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "989635059868901397",
+      "type": "Default",
+      "timestamp": "2022-06-23T20:56:24.803+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://open.spotify.com/track/5SXM4OsHpWqgNUfvZRI2m6?si=KxFaSQJqSiud8_6g_MOwAw",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Somniphobia",
+          "url": "https://open.spotify.com/track/5SXM4OsHpWqgNUfvZRI2m6?si=KxFaSQJqSiud8_6g_MOwAw",
+          "timestamp": null,
+          "description": "Afourteen · Song · 2019",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/Xv2J4St2ufcu2TaUslNbCHgA8CyJgdQzXG5Cq9ret98/https/i.scdn.co/image/ab67616d0000b273ec82dd650511bfacaef8a5e0",
+            "width": 640,
+            "height": 640
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "990278356027187230",
+      "type": "Default",
+      "timestamp": "2022-06-25T15:32:38.559+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://open.spotify.com/track/7xLfmCx9jcZNgzlIK7NupN?si=1yUwG44TS3a1EcTq4gJ6bg",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Stress Relief",
+          "url": "https://open.spotify.com/track/7xLfmCx9jcZNgzlIK7NupN?si=1yUwG44TS3a1EcTq4gJ6bg",
+          "timestamp": null,
+          "description": "late night drive home · Song · 2021",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/Nw7ooHdPbs3mM-3Ql_J0hRuM9ciwVsXzBFOSoP2sIf8/https/i.scdn.co/image/ab67616d0000b27377c339de2168c8b893a64407",
+            "width": 640,
+            "height": 640
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "990328165710856214",
+      "type": "Default",
+      "timestamp": "2022-06-25T18:50:34.113+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://open.spotify.com/track/051nqR620urZn0vaTzAzoz?si=7kVtutTXTG-klKOIpj_2ag",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "I Hate My Mom",
+          "url": "https://open.spotify.com/track/051nqR620urZn0vaTzAzoz?si=7kVtutTXTG-klKOIpj_2ag",
+          "timestamp": null,
+          "description": "GRLwood · Song · 2019",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/c7pDB-ERgjjoF-rhXU4HJzmmfRYB2ejSyvc7ix8LEOA/https/i.scdn.co/image/ab67616d0000b273792da882c2fc2f3b419b4ad6",
+            "width": 640,
+            "height": 640
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "992040752907554847",
+      "type": "Default",
+      "timestamp": "2022-06-30T12:15:46.719+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://open.spotify.com/track/5o5akY9xnEk6lpMkD8RwD9?si=xCpj_KhZQt2Y0meh28R3uw",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Teacher's Pet",
+          "url": "https://open.spotify.com/track/5o5akY9xnEk6lpMkD8RwD9?si=xCpj_KhZQt2Y0meh28R3uw",
+          "timestamp": null,
+          "description": "Melanie Martinez · Song · 2019",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/fshXuhxQzr5QgbU1Eb4xpw5-3gVZSjA9j4elFwglmNM/https/i.scdn.co/image/ab67616d0000b2735945e0dce1af45d640cf06ea",
+            "width": 640,
+            "height": 640
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "992187196842967101",
+      "type": "Default",
+      "timestamp": "2022-06-30T21:57:41.674+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://open.spotify.com/track/2gQPv5jvVPqU2a9HhMNO1v?si=RjU2rqr5RxqxenKrrv2Nyg",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Toxic",
+          "url": "https://open.spotify.com/track/2gQPv5jvVPqU2a9HhMNO1v?si=RjU2rqr5RxqxenKrrv2Nyg",
+          "timestamp": null,
+          "description": "BoyWithUke · Song · 2021",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/M28sEd1xAJAlSwy0CudXQJJIaPT_l31pwguz4HSG7pM/https/i.scdn.co/image/ab67616d0000b27382a18aa0d3374049c6b78f6a",
+            "width": 640,
+            "height": 640
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "992238480694464532",
+      "type": "Default",
+      "timestamp": "2022-07-01T01:21:28.697+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "wait i like that sojng",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "992431931851554867",
+      "type": "Default",
+      "timestamp": "2022-07-01T14:10:11.047+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "That’s cool",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "992432045752078356",
+      "type": "Default",
+      "timestamp": "2022-07-01T14:10:38.203+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://open.spotify.com/track/7dJN4NWQuqCjWwIT3UwOps?si=HMUDwDOWRku1IHv-0X5BbQ",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Useless",
+          "url": "https://open.spotify.com/track/7dJN4NWQuqCjWwIT3UwOps?si=HMUDwDOWRku1IHv-0X5BbQ",
+          "timestamp": null,
+          "description": "Omar Apollo · Song · 2020",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/uTZCYHtPP6-_f0QkxN2qxLqIMQQoDW7yvwbJ08UMEJg/https/i.scdn.co/image/ab67616d0000b27373f6df727a4167d26d7b7f45",
+            "width": 640,
+            "height": 640
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "992432358735233024",
+      "type": "Default",
+      "timestamp": "2022-07-01T14:11:52.824+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://open.spotify.com/track/0lHMuZwVCrH5RZzybJ7WDw?si=5vKVysa3TkGwbIUu4zoK2g",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "A mayonnaise on a escaltor",
+          "url": "https://open.spotify.com/track/0lHMuZwVCrH5RZzybJ7WDw?si=5vKVysa3TkGwbIUu4zoK2g",
+          "timestamp": null,
+          "description": "BoomTchaGong · Song · 2022",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/8VddM6l1OfoNtbGgeq6shbhux_8dNuP0wyYlsvrlGm8/https/i.scdn.co/image/ab67616d0000b273369750fb012c3a3c05c059a7",
+            "width": 640,
+            "height": 640
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "992432443682459828",
+      "type": "Default",
+      "timestamp": "2022-07-01T14:12:13.077+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Rumor has it the original band that made this song is called MA/YO",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "992432465790652506",
+      "type": "Default",
+      "timestamp": "2022-07-01T14:12:18.348+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If you get the joke cool",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "992433766037454949",
+      "type": "Default",
+      "timestamp": "2022-07-01T14:17:28.351+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Lol",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "992433772161142886",
+      "type": "Default",
+      "timestamp": "2022-07-01T14:17:29.811+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://open.spotify.com/track/3hezVtcUqncXSpBbV4dTCQ?si=YR5M2Bg2Qnep4tJY8x5eKA",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Песня о привязанности",
+          "url": "https://open.spotify.com/track/3hezVtcUqncXSpBbV4dTCQ?si=YR5M2Bg2Qnep4tJY8x5eKA",
+          "timestamp": null,
+          "description": "Автоспорт · Song · 2018",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/T2hc_mUIJZtLtergj5V-bmtt5pgh_7ZWfBkPFAkmwFE/https/i.scdn.co/image/ab67616d0000b27382f002dff5a835d30aa1f50a",
+            "width": 640,
+            "height": 640
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "994247506919698462",
+      "type": "Default",
+      "timestamp": "2022-07-06T14:24:37.875+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://open.spotify.com/track/7iocNjLrxPHLl8njgRlv5U?si=OR0lIVGmTGeQUsy-KgDZ6g",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Married Life",
+          "url": "https://open.spotify.com/track/7iocNjLrxPHLl8njgRlv5U?si=OR0lIVGmTGeQUsy-KgDZ6g",
+          "timestamp": null,
+          "description": "Michael Giacchino · Song · 2009",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/bIFZWX6HK2-03mRKaZp_UrKf_mi7vncUfaniJ4rAhz8/https/i.scdn.co/image/ab67616d0000b2733a609870fc2c2db46144d56f",
+            "width": 640,
+            "height": 640
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "994249018630746203",
+      "type": "Default",
+      "timestamp": "2022-07-06T14:30:38.295+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://open.spotify.com/track/79lzbYqczF4oLoOkxx9mHK?si=3WpoX37bQ--AiDWJpV49ow",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Yer Killin' Me",
+          "url": "https://open.spotify.com/track/79lzbYqczF4oLoOkxx9mHK?si=3WpoX37bQ--AiDWJpV49ow",
+          "timestamp": null,
+          "description": "Remo Drive · Song · 2017",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/14erZ2lzVbn-XOK07kQ-crsSnZ21ohBySfn31JIfKw4/https/i.scdn.co/image/ab67616d0000b273ae438d8574ff902c88f7d0e6",
+            "width": 640,
+            "height": 640
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "994249053888057454",
+      "type": "Default",
+      "timestamp": "2022-07-06T14:30:46.701+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fire so0ng",
+      "author": {
+        "id": "585090261840035860",
+        "name": "buggie",
+        "discriminator": "0811",
+        "nickname": "bug gay",
+        "color": "#FF00CE",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/585090261840035860/c3fdc4235240a28b7b8d58cc06fc99b5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "994249102512635964",
+      "type": "Default",
+      "timestamp": "2022-07-06T14:30:58.294+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Buggie do you wanna talk in dms",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "994249131524632647",
+      "type": "Default",
+      "timestamp": "2022-07-06T14:31:05.211+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "sure",
+      "author": {
+        "id": "585090261840035860",
+        "name": "buggie",
+        "discriminator": "0811",
+        "nickname": "bug gay",
+        "color": "#FF00CE",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/585090261840035860/c3fdc4235240a28b7b8d58cc06fc99b5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "994249146766721114",
+      "type": "Default",
+      "timestamp": "2022-07-06T14:31:08.845+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yayayayaya",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "997297085307174912",
+      "type": "Default",
+      "timestamp": "2022-07-15T00:22:34.021+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://open.spotify.com/track/5MMLS3xm12D7N26xlfFApr?si=9krcvDBeQeyGbFltOVzwrQ",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Runaway Baby",
+          "url": "https://open.spotify.com/track/5MMLS3xm12D7N26xlfFApr?si=9krcvDBeQeyGbFltOVzwrQ",
+          "timestamp": null,
+          "description": "Bruno Mars · Song · 2010",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/UmoVBqRUH6HtOKGx06qKkIH_KkLm0A9JW1Rds1pJC5k/https/i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b",
+            "width": 640,
+            "height": 636
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "997298878133051392",
+      "type": "Default",
+      "timestamp": "2022-07-15T00:29:41.464+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://open.spotify.com/track/1qwno7xb5mJe71xtMS6jl2?si=9hDrFGStSASX3IplZkL9Xg",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "High Enough",
+          "url": "https://open.spotify.com/track/1qwno7xb5mJe71xtMS6jl2?si=9hDrFGStSASX3IplZkL9Xg",
+          "timestamp": null,
+          "description": "K.Flay · Song · 2017",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/tr3yRKByHgZbVC6VAUDLqAyyjnKG-KxKcuJgH-mIiZQ/https/i.scdn.co/image/ab67616d0000b273be9f834ad14e0d95a35a6981",
+            "width": 640,
+            "height": 640
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999123392391282799",
+      "type": "Default",
+      "timestamp": "2022-07-20T01:19:39.561+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://open.spotify.com/track/7DIomsJM0rF1ShYFFGa2am?si=cnDKDB6WQDqlCa8yPfqQ2w",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "压倒性的",
+          "url": "https://open.spotify.com/track/7DIomsJM0rF1ShYFFGa2am?si=cnDKDB6WQDqlCa8yPfqQ2w",
+          "timestamp": null,
+          "description": "低的 · Song · 1986",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/F9AGhFdqQqXwX8zmXCuD25AzIMKdnDYUKxhttn_5Szs/https/i.scdn.co/image/ab67616d0000b273c8809b272d212957b47ffd6a",
+            "width": 640,
+            "height": 640
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999123469109301268",
+      "type": "Default",
+      "timestamp": "2022-07-20T01:19:57.852+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fire",
+      "author": {
+        "id": "585090261840035860",
+        "name": "buggie",
+        "discriminator": "0811",
+        "nickname": "bug gay",
+        "color": "#FF00CE",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/585090261840035860/c3fdc4235240a28b7b8d58cc06fc99b5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999123473223921755",
+      "type": "Default",
+      "timestamp": "2022-07-20T01:19:58.833+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83C\uDF89 **| ♡buggie♡** leveled up!",
+      "author": {
+        "id": "408785106942164992",
+        "name": "OwO",
+        "discriminator": "8456",
+        "nickname": "Pep bot",
+        "color": "#206694",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/408785106942164992/731e901db9feef1ccf5bbfe6a4ee87db.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "999123473270063174",
+          "url": "https://cdn.discordapp.com/attachments/944043407993618432/999123473270063174/levelup.png",
+          "fileName": "levelup.png",
+          "fileSizeBytes": 48118
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999124229956050994",
+      "type": "Default",
+      "timestamp": "2022-07-20T01:22:59.252+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://open.spotify.com/track/5f1j3h5DBkLpGfb90QGFvR?si=MdezZ06DRAazFTkmSfcoOg",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Below the Surface",
+          "url": "https://open.spotify.com/track/5f1j3h5DBkLpGfb90QGFvR?si=MdezZ06DRAazFTkmSfcoOg",
+          "timestamp": null,
+          "description": "Griffinilla · Song · 2016",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/V5Z04htnb1HRg8AIXmg0-8j9K_yf4abArzkS1GVPlxI/https/i.scdn.co/image/ab67616d0000b2731d79f81f6b934aea3546e546",
+            "width": 640,
+            "height": 640
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1000933724663320626",
+      "type": "Default",
+      "timestamp": "2022-07-25T01:13:16.409+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK?si=a4d0eb7cd77a47d6",
+      "author": {
+        "id": "585090261840035860",
+        "name": "buggie",
+        "discriminator": "0811",
+        "nickname": "bug gay",
+        "color": "#FF00CE",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/585090261840035860/c3fdc4235240a28b7b8d58cc06fc99b5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Pass The Dutchie",
+          "url": "https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK?si=a4d0eb7cd77a47d6",
+          "timestamp": null,
+          "description": "Musical Youth · Song · 1994",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/u2412DZ9mpIO5pbdBUJIxHckqULkjMnSk2r9_orxg80/https/i.scdn.co/image/ab67616d0000b27392a9d95df51a8d84f90166a6",
+            "width": 640,
+            "height": 640
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1000933771278815363",
+      "type": "Default",
+      "timestamp": "2022-07-25T01:13:27.523+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I love that song!",
+      "author": {
+        "id": "897575574321643531",
+        "name": "it hurts to move\uD83E\uDD72",
+        "discriminator": "7420",
+        "nickname": "it hurts to move\uD83E\uDD72",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/897575574321643531/eb79a8630774731d9cbbcfee58cde4dc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1000933794804666438",
+      "type": "Default",
+      "timestamp": "2022-07-25T01:13:33.132+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "stfu",
+      "author": {
+        "id": "585090261840035860",
+        "name": "buggie",
+        "discriminator": "0811",
+        "nickname": "bug gay",
+        "color": "#FF00CE",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/585090261840035860/c3fdc4235240a28b7b8d58cc06fc99b5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1000933823665680467",
+      "type": "Default",
+      "timestamp": "2022-07-25T01:13:40.013+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Why",
+      "author": {
+        "id": "897575574321643531",
+        "name": "it hurts to move\uD83E\uDD72",
+        "discriminator": "7420",
+        "nickname": "it hurts to move\uD83E\uDD72",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/897575574321643531/eb79a8630774731d9cbbcfee58cde4dc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1000933864690155580",
+      "type": "Default",
+      "timestamp": "2022-07-25T01:13:49.794+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "pass dutchie",
+      "author": {
+        "id": "585090261840035860",
+        "name": "buggie",
+        "discriminator": "0811",
+        "nickname": "bug gay",
+        "color": "#FF00CE",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/585090261840035860/c3fdc4235240a28b7b8d58cc06fc99b5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1000933867718443049",
+      "type": "Default",
+      "timestamp": "2022-07-25T01:13:50.516+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "☹️",
+      "author": {
+        "id": "897575574321643531",
+        "name": "it hurts to move\uD83E\uDD72",
+        "discriminator": "7420",
+        "nickname": "it hurts to move\uD83E\uDD72",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/897575574321643531/eb79a8630774731d9cbbcfee58cde4dc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1000933905794347028",
+      "type": "Default",
+      "timestamp": "2022-07-25T01:13:59.594+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@buggie 1. Don't be rude to people,",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "585090261840035860",
+          "name": "buggie",
+          "discriminator": "0811",
+          "nickname": "bug gay",
+          "color": "#FF00CE",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/585090261840035860/c3fdc4235240a28b7b8d58cc06fc99b5.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1000933936408563835",
+      "type": "Default",
+      "timestamp": "2022-07-25T01:14:06.893+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ty pep",
+      "author": {
+        "id": "897575574321643531",
+        "name": "it hurts to move\uD83E\uDD72",
+        "discriminator": "7420",
+        "nickname": "it hurts to move\uD83E\uDD72",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/897575574321643531/eb79a8630774731d9cbbcfee58cde4dc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1000934023650095236",
+      "type": "Default",
+      "timestamp": "2022-07-25T01:14:27.693+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "wait who timed out",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1000934057846255646",
+      "type": "Default",
+      "timestamp": "2022-07-25T01:14:35.846+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Wdym",
+      "author": {
+        "id": "897575574321643531",
+        "name": "it hurts to move\uD83E\uDD72",
+        "discriminator": "7420",
+        "nickname": "it hurts to move\uD83E\uDD72",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/897575574321643531/eb79a8630774731d9cbbcfee58cde4dc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1000934091677515867",
+      "type": "Default",
+      "timestamp": "2022-07-25T01:14:43.912+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i didnt time out buggie",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1000934101001445407",
+      "type": "Default",
+      "timestamp": "2022-07-25T01:14:46.135+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "someone else did",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1000934191346761819",
+      "type": "Default",
+      "timestamp": "2022-07-25T01:15:07.675+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Well it wasn’t me obviously I don’t have mod",
+      "author": {
+        "id": "897575574321643531",
+        "name": "it hurts to move\uD83E\uDD72",
+        "discriminator": "7420",
+        "nickname": "it hurts to move\uD83E\uDD72",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/897575574321643531/eb79a8630774731d9cbbcfee58cde4dc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1000934278227566622",
+      "type": "Default",
+      "timestamp": "2022-07-25T01:15:28.389+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "who gave miles admin",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1000934298200854618",
+      "type": "Default",
+      "timestamp": "2022-07-25T01:15:33.151+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "again",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1000934312570540052",
+      "type": "Default",
+      "timestamp": "2022-07-25T01:15:36.577+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I don't have mod",
+      "author": {
+        "id": "797658613920825374",
+        "name": "dumit",
+        "discriminator": "6548",
+        "nickname": "dumit",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/797658613920825374/fa4f4b5ab504ad28d6fd38d01f4889ad.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1000934332367650887",
+      "type": "Default",
+      "timestamp": "2022-07-25T01:15:41.297+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it was mikes",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1000934335496597584",
+      "type": "Default",
+      "timestamp": "2022-07-25T01:15:42.043+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "BLAME @Eta",
+      "author": {
+        "id": "797658613920825374",
+        "name": "dumit",
+        "discriminator": "6548",
+        "nickname": "dumit",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/797658613920825374/fa4f4b5ab504ad28d6fd38d01f4889ad.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "971907312119865344",
+          "name": "Eta",
+          "discriminator": "9425",
+          "nickname": "Eta",
+          "color": "#3498DB",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/971907312119865344/3ed4363c465eedb9e16369c9e8f1adab.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1000934503600099470",
+      "type": "Default",
+      "timestamp": "2022-07-25T01:16:22.122+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Who ever did it please untime him he didn’t deserve that all he said was “stfu” it’s not that bad",
+      "author": {
+        "id": "897575574321643531",
+        "name": "it hurts to move\uD83E\uDD72",
+        "discriminator": "7420",
+        "nickname": "it hurts to move\uD83E\uDD72",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/897575574321643531/eb79a8630774731d9cbbcfee58cde4dc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1000934540996526180",
+      "type": "Default",
+      "timestamp": "2022-07-25T01:16:31.038+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i untimed him out",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1000934585472909393",
+      "type": "Default",
+      "timestamp": "2022-07-25T01:16:41.642+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ty once again",
+      "author": {
+        "id": "897575574321643531",
+        "name": "it hurts to move\uD83E\uDD72",
+        "discriminator": "7420",
+        "nickname": "it hurts to move\uD83E\uDD72",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/897575574321643531/eb79a8630774731d9cbbcfee58cde4dc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1000934624802906162",
+      "type": "Default",
+      "timestamp": "2022-07-25T01:16:51.019+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i love men",
+      "author": {
+        "id": "585090261840035860",
+        "name": "buggie",
+        "discriminator": "0811",
+        "nickname": "bug gay",
+        "color": "#FF00CE",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/585090261840035860/c3fdc4235240a28b7b8d58cc06fc99b5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1000934655513604118",
+      "type": "Default",
+      "timestamp": "2022-07-25T01:16:58.341+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I love women",
+      "author": {
+        "id": "897575574321643531",
+        "name": "it hurts to move\uD83E\uDD72",
+        "discriminator": "7420",
+        "nickname": "it hurts to move\uD83E\uDD72",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/897575574321643531/eb79a8630774731d9cbbcfee58cde4dc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1000934752993427456",
+      "type": "Default",
+      "timestamp": "2022-07-25T01:17:21.582+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "also stfu mean Stop The Fire tUnes",
+      "author": {
+        "id": "585090261840035860",
+        "name": "buggie",
+        "discriminator": "0811",
+        "nickname": "bug gay",
+        "color": "#FF00CE",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/585090261840035860/c3fdc4235240a28b7b8d58cc06fc99b5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1000934843196117022",
+      "type": "Default",
+      "timestamp": "2022-07-25T01:17:43.088+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oh I only knew the one way",
+      "author": {
+        "id": "897575574321643531",
+        "name": "it hurts to move\uD83E\uDD72",
+        "discriminator": "7420",
+        "nickname": "it hurts to move\uD83E\uDD72",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/897575574321643531/eb79a8630774731d9cbbcfee58cde4dc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1000935040932384878",
+      "type": "Reply",
+      "timestamp": "2022-07-25T01:18:30.232+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "never heard that before",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "585090261840035860",
+          "name": "buggie",
+          "discriminator": "0811",
+          "nickname": "bug gay",
+          "color": "#FF00CE",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/585090261840035860/c3fdc4235240a28b7b8d58cc06fc99b5.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1000934752993427456",
+        "channelId": "944043407993618432",
+        "guildId": "934633266378604574"
+      }
+    },
+    {
+      "id": "1000935052412211211",
+      "type": "Default",
+      "timestamp": "2022-07-25T01:18:32.969+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "interesting",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1000935117134508123",
+      "type": "Default",
+      "timestamp": "2022-07-25T01:18:48.4+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "anyway i stop exist",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1000935163812921395",
+      "type": "Default",
+      "timestamp": "2022-07-25T01:18:59.529+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "What-",
+      "author": {
+        "id": "897575574321643531",
+        "name": "it hurts to move\uD83E\uDD72",
+        "discriminator": "7420",
+        "nickname": "it hurts to move\uD83E\uDD72",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/897575574321643531/eb79a8630774731d9cbbcfee58cde4dc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1000935638834630846",
+      "type": "Default",
+      "timestamp": "2022-07-25T01:20:52.783+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yessor",
+      "author": {
+        "id": "585090261840035860",
+        "name": "buggie",
+        "discriminator": "0811",
+        "nickname": "bug gay",
+        "color": "#FF00CE",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/585090261840035860/c3fdc4235240a28b7b8d58cc06fc99b5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1004057308868911145",
+      "type": "Default",
+      "timestamp": "2022-08-02T16:05:16.917+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://open.spotify.com/track/5eEmVNuqo4oKDh9MDeCAmt?si=G8DZhSqWTfKmfn-5S8DFRQ",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "It's On - From \"Camp Rock 2: The Final Jam\"",
+          "url": "https://open.spotify.com/track/5eEmVNuqo4oKDh9MDeCAmt?si=G8DZhSqWTfKmfn-5S8DFRQ",
+          "timestamp": null,
+          "description": "Demi Lovato · Song · 2010",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/NsUC2RStpTuLUgusy8d0JYqx-9zMW3NH5-eJP0U8f5c/https/i.scdn.co/image/ab67616d0000b273e0f3cba015a03c59e2f7dd61",
+            "width": 640,
+            "height": 640
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1004139919406534776",
+      "type": "Default",
+      "timestamp": "2022-08-02T21:33:32.804+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i was listing to thast earlier",
+      "author": {
+        "id": "585090261840035860",
+        "name": "buggie",
+        "discriminator": "0811",
+        "nickname": "bug gay",
+        "color": "#FF00CE",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/585090261840035860/c3fdc4235240a28b7b8d58cc06fc99b5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1004440583445692486",
+      "type": "Default",
+      "timestamp": "2022-08-03T17:28:16.697+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK?si=1U1MHyU1SGiL3lEv6HrVBA",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Bad Habit",
+          "url": "https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK?si=1U1MHyU1SGiL3lEv6HrVBA",
+          "timestamp": null,
+          "description": "Steve Lacy · Song · 2022",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/o7hQi1MzfgDmxufRtL6JGQxIcl6N2qVxYfuYmXD4Q4c/https/i.scdn.co/image/ab67616d0000b2739904ecb0b1148a128bdd5e36",
+            "width": 640,
+            "height": 640
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1010558175625355345",
+      "type": "Default",
+      "timestamp": "2022-08-20T14:37:24.332+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://open.spotify.com/track/1dEy9Pl81QopSxNsPxXQxv?si=QiZDVvkwThyKhBLb98XgZw",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Stay",
+          "url": "https://open.spotify.com/track/1dEy9Pl81QopSxNsPxXQxv?si=QiZDVvkwThyKhBLb98XgZw",
+          "timestamp": null,
+          "description": "Rihanna · Song · 2012",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/27yva1Hr-Wi3cm0f6VPOPrV_ue9PSJ_ysWiPpBfi2Lk/https/i.scdn.co/image/ab67616d0000b2730e6cedee56e37a9a65f2164d",
+            "width": 640,
+            "height": 640
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 118
+}

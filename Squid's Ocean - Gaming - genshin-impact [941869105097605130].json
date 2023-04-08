@@ -1,0 +1,193 @@
+{
+  "guild": {
+    "id": "934633266378604574",
+    "name": "Squid's Ocean",
+    "iconUrl": "https://cdn.discordapp.com/icons/934633266378604574/a89d22119ffa352cd7802d80292a0c28.png?size=512"
+  },
+  "channel": {
+    "id": "941869105097605130",
+    "type": "GuildTextChat",
+    "categoryId": "941871293211500545",
+    "category": "Gaming",
+    "name": "genshin-impact",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "951673731955167242",
+      "type": "Default",
+      "timestamp": "2022-03-11T02:51:38.941+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://tenor.com/view/yeah-i-play-genshin-impact-running-gif-22461505",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://tenor.com/view/yeah-i-play-genshin-impact-running-gif-22461505",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/qPPc-YFN1zlK7QWs__tKHtRSKBmXaOywc6lWFQvunns/%3Fc%3DVjFfZGlzY29yZA/https/media.tenor.com/-W1Cd3G2-iIAAAAD/yeah-i-play.png",
+            "width": 640,
+            "height": 640
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1034214813880045598",
+      "type": "Default",
+      "timestamp": "2022-10-24T21:20:26.411+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://tenor.com/view/xiao-xiao-reaction-my-reaction-to-that-information-xiao-reaction-to-that-information-genshin-impact-bthem-gif-25967761",
+      "author": {
+        "id": "858376910388199474",
+        "name": "HybridHamster",
+        "discriminator": "5864",
+        "nickname": "HybridHamster",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/858376910388199474/3069763c7600cbb66d6886e077a26248.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://tenor.com/view/xiao-xiao-reaction-my-reaction-to-that-information-xiao-reaction-to-that-information-genshin-impact-bthem-gif-25967761",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/q6Al6l2JzvZB7hCr_z3PRWL3y-XTq8Tv8CG_LodpbtA/https/media.tenor.com/AYzCghdtJKsAAAAD/xiao-xiao-reaction.png",
+            "width": 538,
+            "height": 640
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1034215088741163089",
+      "type": "Default",
+      "timestamp": "2022-10-24T21:21:31.943+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "literal",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1034243582346928158",
+      "type": "Default",
+      "timestamp": "2022-10-24T23:14:45.348+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://tenor.com/view/scaramouche-genshin-impact-kunikuzushi-scara-genshin-meme-gif-25595039",
+      "author": {
+        "id": "922200164381360250",
+        "name": "Vionyx",
+        "discriminator": "5804",
+        "nickname": "Vionyx",
+        "color": "#FFB6F8",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/922200164381360250/2377bf353b62bdbe635344da84be083d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://tenor.com/view/scaramouche-genshin-impact-kunikuzushi-scara-genshin-meme-gif-25595039",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/BguYLdcZq7ShqWrdmx-U_MrcZSoPIco4EwWXXgSg2FQ/https/media.tenor.com/SUCmSDR65_cAAAAD/scaramouche-genshin-impact.png",
+            "width": 640,
+            "height": 360
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1034943460580540426",
+      "type": "Default",
+      "timestamp": "2022-10-26T21:35:49.322+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://tenor.com/view/ltg-low-tier-god-meme-gif-23851809",
+      "author": {
+        "id": "797658613920825374",
+        "name": "dumit",
+        "discriminator": "6548",
+        "nickname": "dumit",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/797658613920825374/fa4f4b5ab504ad28d6fd38d01f4889ad.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://tenor.com/view/ltg-low-tier-god-meme-gif-23851809",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/JrtgZ_TiQ4pANlb70c8Zl12PC0u80kI-hyv6v5RSyqQ/https/media.tenor.com/yXv-cTSFY-UAAAAD/ltg-low-tier-god.png",
+            "width": 420,
+            "height": 640
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 5
+}

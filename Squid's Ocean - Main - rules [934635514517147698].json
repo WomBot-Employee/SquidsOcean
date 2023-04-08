@@ -1,0 +1,310 @@
+{
+  "guild": {
+    "id": "934633266378604574",
+    "name": "Squid's Ocean",
+    "iconUrl": "https://cdn.discordapp.com/icons/934633266378604574/a89d22119ffa352cd7802d80292a0c28.png?size=512"
+  },
+  "channel": {
+    "id": "934635514517147698",
+    "type": "GuildTextChat",
+    "categoryId": "941870757561126932",
+    "category": "Main",
+    "name": "rules",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "961767230591340636",
+      "type": "Default",
+      "timestamp": "2022-04-07T23:19:36.544+00:00",
+      "timestampEdited": "2022-06-09T23:23:29.626+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "1. Don't be rude to people, spamming, swearing, @ing, etc.\n\n2. Don't act stupid and/or use loopholes\n\n3. Don't abuse power or ask for power.\n\n4. Don't react with rude, annoying, or frankly unnecessary things to any messages",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC06",
+            "code": "leopard",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f406.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "934640968043475075",
+            "name": "Communismpotato",
+            "code": "Communismpotato",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/934640968043475075.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "964639803759030383",
+      "type": "Default",
+      "timestamp": "2022-04-15T21:34:11.357+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "React with :Communismpotato: to accept the rules.",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "934640968043475075",
+            "name": "Communismpotato",
+            "code": "Communismpotato",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/934640968043475075.png"
+          },
+          "count": 48
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "972630910937739304",
+      "type": "Default",
+      "timestamp": "2022-05-07T22:47:59.776+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "old rules still apply",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1006686278957412373",
+      "type": "Default",
+      "timestamp": "2022-08-09T22:11:52.23+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "What are the old rules for new ppl",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1012134243327017170",
+      "type": "Default",
+      "timestamp": "2022-08-24T23:00:08.154+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Make sure to check your balls before entering hell",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1012134420502806598",
+      "type": "Reply",
+      "timestamp": "2022-08-24T23:00:50.396+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "they only apply to people who have been here to see them",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "793665293565165610",
+          "name": "Arsøn",
+          "discriminator": "3353",
+          "nickname": "Arsøn",
+          "color": "#1A53FF",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1006686278957412373",
+        "channelId": "934635514517147698",
+        "guildId": "934633266378604574"
+      }
+    },
+    {
+      "id": "1012134499301212170",
+      "type": "Default",
+      "timestamp": "2022-08-24T23:01:09.183+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ok",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1028679696386379866",
+      "type": "Default",
+      "timestamp": "2022-10-09T14:45:51.563+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "||@here||sorry that access to all channels doesn’t exist anymore buggie thought it was funny to do that, we will add back everyone’s member and permissions soon",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1028679717173338183",
+      "type": "Default",
+      "timestamp": "2022-10-09T14:45:56.519+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Also sorry for ping",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1028730030152503337",
+      "type": "Default",
+      "timestamp": "2022-10-09T18:05:52.068+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "1. Don't be rude to people, spamming, swearing, @ing, etc.\n\n2. Don't act stupid and/or use loopholes\n\n3. Don't abuse power or ask for power.\n\n4. Don't react with rude, annoying, or frankly unnecessary things to any messages\n\n(old rules still apply to people who were there to see them)\n\nReact with :Communismpotato: to accept the rules",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "934640968043475075",
+            "name": "Communismpotato",
+            "code": "Communismpotato",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/934640968043475075.png"
+          },
+          "count": 20
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 10
+}

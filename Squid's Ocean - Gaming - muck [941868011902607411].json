@@ -1,0 +1,274 @@
+{
+  "guild": {
+    "id": "934633266378604574",
+    "name": "Squid's Ocean",
+    "iconUrl": "https://cdn.discordapp.com/icons/934633266378604574/a89d22119ffa352cd7802d80292a0c28.png?size=512"
+  },
+  "channel": {
+    "id": "941868011902607411",
+    "type": "GuildTextChat",
+    "categoryId": "941871293211500545",
+    "category": "Gaming",
+    "name": "muck",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "947479858328514570",
+      "type": "Default",
+      "timestamp": "2022-02-27T13:06:41.55+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Muck",
+      "author": {
+        "id": "858376910388199474",
+        "name": "HybridHamster",
+        "discriminator": "5864",
+        "nickname": "HybridHamster",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/858376910388199474/3069763c7600cbb66d6886e077a26248.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "947479894147870730",
+      "type": "Default",
+      "timestamp": "2022-02-27T13:06:50.09+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I like muck",
+      "author": {
+        "id": "858376910388199474",
+        "name": "HybridHamster",
+        "discriminator": "5864",
+        "nickname": "HybridHamster",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/858376910388199474/3069763c7600cbb66d6886e077a26248.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "947479984619004005",
+      "type": "Default",
+      "timestamp": "2022-02-27T13:07:11.66+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "But the best comeputer in my house is 5 yr old laptop",
+      "author": {
+        "id": "858376910388199474",
+        "name": "HybridHamster",
+        "discriminator": "5864",
+        "nickname": "HybridHamster",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/858376910388199474/3069763c7600cbb66d6886e077a26248.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "947480046480810024",
+      "type": "Default",
+      "timestamp": "2022-02-27T13:07:26.409+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "So don’t expect to see me playing muck",
+      "author": {
+        "id": "858376910388199474",
+        "name": "HybridHamster",
+        "discriminator": "5864",
+        "nickname": "HybridHamster",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/858376910388199474/3069763c7600cbb66d6886e077a26248.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "947480070639984651",
+      "type": "Default",
+      "timestamp": "2022-02-27T13:07:32.169+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Much",
+      "author": {
+        "id": "858376910388199474",
+        "name": "HybridHamster",
+        "discriminator": "5864",
+        "nickname": "HybridHamster",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/858376910388199474/3069763c7600cbb66d6886e077a26248.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1027343259015577720",
+      "type": "Default",
+      "timestamp": "2022-10-05T22:15:20.064+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Muck",
+      "author": {
+        "id": "914995910365302904",
+        "name": "parzival",
+        "discriminator": "8652",
+        "nickname": "parzival",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/914995910365302904/c19b64ef6a835b55424b97ed1142c31b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1027343302141423677",
+      "type": "Default",
+      "timestamp": "2022-10-05T22:15:30.346+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "muck backwards",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1027343351013445642",
+      "type": "Default",
+      "timestamp": "2022-10-05T22:15:41.998+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "No",
+      "author": {
+        "id": "914995910365302904",
+        "name": "parzival",
+        "discriminator": "8652",
+        "nickname": "parzival",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/914995910365302904/c19b64ef6a835b55424b97ed1142c31b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1027343382974046362",
+      "type": "Default",
+      "timestamp": "2022-10-05T22:15:49.618+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yes",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1033858547856977960",
+      "type": "Reply",
+      "timestamp": "2022-10-23T21:44:45.972+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "858376910388199474",
+        "name": "HybridHamster",
+        "discriminator": "5864",
+        "nickname": "HybridHamster",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/858376910388199474/3069763c7600cbb66d6886e077a26248.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1033858547601113169",
+          "url": "https://cdn.discordapp.com/attachments/941868011902607411/1033858547601113169/image0.jpg",
+          "fileName": "image0.jpg",
+          "fileSizeBytes": 17316
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "726195055349727313",
+          "name": "pëp",
+          "discriminator": "1005",
+          "nickname": "pëp",
+          "color": "#1ABC9C",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1027343302141423677",
+        "channelId": "941868011902607411",
+        "guildId": "934633266378604574"
+      }
+    }
+  ],
+  "messageCount": 10
+}

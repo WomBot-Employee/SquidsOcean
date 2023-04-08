@@ -1,0 +1,434 @@
+{
+  "guild": {
+    "id": "934633266378604574",
+    "name": "Squid's Ocean",
+    "iconUrl": "https://cdn.discordapp.com/icons/934633266378604574/a89d22119ffa352cd7802d80292a0c28.png?size=512"
+  },
+  "channel": {
+    "id": "957797958173196348",
+    "type": "GuildTextChat",
+    "categoryId": "941870757561126932",
+    "category": "Main",
+    "name": "memorial",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "957802201487655013",
+      "type": "Default",
+      "timestamp": "2022-03-28T00:43:59.939+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "welcome",
+      "author": {
+        "id": "604428023118430239",
+        "name": "09Miles",
+        "discriminator": "8861",
+        "nickname": "09Miles",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "957802299458216036",
+      "type": "Default",
+      "timestamp": "2022-03-28T00:44:23.297+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "we need to give back to those who gave",
+      "author": {
+        "id": "604428023118430239",
+        "name": "09Miles",
+        "discriminator": "8861",
+        "nickname": "09Miles",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "957802373537996850",
+      "type": "Default",
+      "timestamp": "2022-03-28T00:44:40.959+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "so we made a memorial",
+      "author": {
+        "id": "604428023118430239",
+        "name": "09Miles",
+        "discriminator": "8861",
+        "nickname": "09Miles",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "957802373294743653",
+          "url": "https://cdn.discordapp.com/attachments/957797958173196348/957802373294743653/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 66331
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "957802393364484146",
+      "type": "Default",
+      "timestamp": "2022-03-28T00:44:45.686+00:00",
+      "timestampEdited": "2022-03-28T00:44:50.347+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and a flower",
+      "author": {
+        "id": "604428023118430239",
+        "name": "09Miles",
+        "discriminator": "8861",
+        "nickname": "09Miles",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "957802393205112882",
+          "url": "https://cdn.discordapp.com/attachments/957797958173196348/957802393205112882/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 26192
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "957802475358928926",
+      "type": "Default",
+      "timestamp": "2022-03-28T00:45:05.235+00:00",
+      "timestampEdited": "2022-03-28T00:45:12.673+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "we need to benefit the server in some way",
+      "author": {
+        "id": "604428023118430239",
+        "name": "09Miles",
+        "discriminator": "8861",
+        "nickname": "09Miles",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "957802534926422096",
+      "type": "Default",
+      "timestamp": "2022-03-28T00:45:19.437+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "if it's changing rules",
+      "author": {
+        "id": "604428023118430239",
+        "name": "09Miles",
+        "discriminator": "8861",
+        "nickname": "09Miles",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "957802573228810270",
+      "type": "Default",
+      "timestamp": "2022-03-28T00:45:28.569+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "or making a more inclusive community",
+      "author": {
+        "id": "604428023118430239",
+        "name": "09Miles",
+        "discriminator": "8861",
+        "nickname": "09Miles",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "957802615352209448",
+      "type": "Default",
+      "timestamp": "2022-03-28T00:45:38.612+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "you need to change the server for the better",
+      "author": {
+        "id": "604428023118430239",
+        "name": "09Miles",
+        "discriminator": "8861",
+        "nickname": "09Miles",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "957802648172658708",
+      "type": "Default",
+      "timestamp": "2022-03-28T00:45:46.437+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "please do it",
+      "author": {
+        "id": "604428023118430239",
+        "name": "09Miles",
+        "discriminator": "8861",
+        "nickname": "09Miles",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "957802827508486145",
+      "type": "Default",
+      "timestamp": "2022-03-28T00:46:29.194+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "this concludes my presentation",
+      "author": {
+        "id": "604428023118430239",
+        "name": "09Miles",
+        "discriminator": "8861",
+        "nickname": "09Miles",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1025817632957538334",
+      "type": "Reply",
+      "timestamp": "2022-10-01T17:13:02.467+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "wtf",
+      "author": {
+        "id": "871767059351097345",
+        "name": "Tabmow",
+        "discriminator": "0054",
+        "nickname": "Tabmow",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/871767059351097345/ad46cedb04ef9643f9fa6c322b4fe5ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "604428023118430239",
+          "name": "09Miles",
+          "discriminator": "8861",
+          "nickname": "09Miles",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "957802373537996850",
+        "channelId": "957797958173196348",
+        "guildId": "934633266378604574"
+      }
+    },
+    {
+      "id": "1025817660937740329",
+      "type": "Default",
+      "timestamp": "2022-10-01T17:13:09.138+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "excuse me",
+      "author": {
+        "id": "871767059351097345",
+        "name": "Tabmow",
+        "discriminator": "0054",
+        "nickname": "Tabmow",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/871767059351097345/ad46cedb04ef9643f9fa6c322b4fe5ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1025817993332133918",
+      "type": "Reply",
+      "timestamp": "2022-10-01T17:14:28.387+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yeah alr when did i die",
+      "author": {
+        "id": "871767059351097345",
+        "name": "Tabmow",
+        "discriminator": "0054",
+        "nickname": "Tabmow",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/871767059351097345/ad46cedb04ef9643f9fa6c322b4fe5ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "604428023118430239",
+          "name": "09Miles",
+          "discriminator": "8861",
+          "nickname": "09Miles",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "957802827508486145",
+        "channelId": "957797958173196348",
+        "guildId": "934633266378604574"
+      }
+    },
+    {
+      "id": "1025818011313119274",
+      "type": "Default",
+      "timestamp": "2022-10-01T17:14:32.674+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "huh",
+      "author": {
+        "id": "871767059351097345",
+        "name": "Tabmow",
+        "discriminator": "0054",
+        "nickname": "Tabmow",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/871767059351097345/ad46cedb04ef9643f9fa6c322b4fe5ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1025818024244154449",
+      "type": "Default",
+      "timestamp": "2022-10-01T17:14:35.757+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hm?",
+      "author": {
+        "id": "871767059351097345",
+        "name": "Tabmow",
+        "discriminator": "0054",
+        "nickname": "Tabmow",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/871767059351097345/ad46cedb04ef9643f9fa6c322b4fe5ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1025818036076298352",
+      "type": "Default",
+      "timestamp": "2022-10-01T17:14:38.578+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "HM?",
+      "author": {
+        "id": "871767059351097345",
+        "name": "Tabmow",
+        "discriminator": "0054",
+        "nickname": "Tabmow",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/871767059351097345/ad46cedb04ef9643f9fa6c322b4fe5ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 16
+}

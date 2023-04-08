@@ -1,0 +1,248 @@
+{
+  "guild": {
+    "id": "934633266378604574",
+    "name": "Squid's Ocean",
+    "iconUrl": "https://cdn.discordapp.com/icons/934633266378604574/a89d22119ffa352cd7802d80292a0c28.png?size=512"
+  },
+  "channel": {
+    "id": "1068959970625855539",
+    "type": "GuildTextChat",
+    "categoryId": "934633266378604575",
+    "category": "Text Channels",
+    "name": "cat-photos",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "1068960870018850917",
+      "type": "Default",
+      "timestamp": "2023-01-28T18:28:51.745+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "797658613920825374",
+        "name": "dumit",
+        "discriminator": "6548",
+        "nickname": "dumit",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/797658613920825374/fa4f4b5ab504ad28d6fd38d01f4889ad.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1068960869582635130",
+          "url": "https://cdn.discordapp.com/attachments/1068959970625855539/1068960869582635130/CC7F1865-6D13-4230-83A4-B1C723855E59.jpg",
+          "fileName": "CC7F1865-6D13-4230-83A4-B1C723855E59.jpg",
+          "fileSizeBytes": 6711063
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1069028436863103106",
+      "type": "Default",
+      "timestamp": "2023-01-28T22:57:20.936+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "858376910388199474",
+        "name": "HybridHamster",
+        "discriminator": "5864",
+        "nickname": "HybridHamster",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/858376910388199474/3069763c7600cbb66d6886e077a26248.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1069028436665978980",
+          "url": "https://cdn.discordapp.com/attachments/1068959970625855539/1069028436665978980/5AA64773-AF86-4BDA-8EAB-11E6207E37F9.jpg",
+          "fileName": "5AA64773-AF86-4BDA-8EAB-11E6207E37F9.jpg",
+          "fileSizeBytes": 99346
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1069314066574737510",
+      "type": "Default",
+      "timestamp": "2023-01-29T17:52:20.366+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "797658613920825374",
+        "name": "dumit",
+        "discriminator": "6548",
+        "nickname": "dumit",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/797658613920825374/fa4f4b5ab504ad28d6fd38d01f4889ad.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1069314066063052971",
+          "url": "https://cdn.discordapp.com/attachments/1068959970625855539/1069314066063052971/F41359D1-BE8B-40EE-A232-3BC05442429D.jpg",
+          "fileName": "F41359D1-BE8B-40EE-A232-3BC05442429D.jpg",
+          "fileSizeBytes": 5164180
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1069338906874621983",
+      "type": "Default",
+      "timestamp": "2023-01-29T19:31:02.755+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1069338906635542528",
+          "url": "https://cdn.discordapp.com/attachments/1068959970625855539/1069338906635542528/IMG_1553.jpg",
+          "fileName": "IMG_1553.jpg",
+          "fileSizeBytes": 719564
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1069392427611328512",
+      "type": "Default",
+      "timestamp": "2023-01-29T23:03:43.093+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "bro why do the cat sit like that",
+      "author": {
+        "id": "585090261840035860",
+        "name": "buggie",
+        "discriminator": "0811",
+        "nickname": "bug gay",
+        "color": "#FF00CE",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/585090261840035860/c3fdc4235240a28b7b8d58cc06fc99b5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1070080939012669652",
+      "type": "Default",
+      "timestamp": "2023-01-31T20:39:37.003+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "858376910388199474",
+        "name": "HybridHamster",
+        "discriminator": "5864",
+        "nickname": "HybridHamster",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/858376910388199474/3069763c7600cbb66d6886e077a26248.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1070080938769387711",
+          "url": "https://cdn.discordapp.com/attachments/1068959970625855539/1070080938769387711/IMG_0582.png",
+          "fileName": "IMG_0582.png",
+          "fileSizeBytes": 237540
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1075588637221195776",
+      "type": "Default",
+      "timestamp": "2023-02-16T01:25:14.584+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "858376910388199474",
+        "name": "HybridHamster",
+        "discriminator": "5864",
+        "nickname": "HybridHamster",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/858376910388199474/3069763c7600cbb66d6886e077a26248.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1075588636952776845",
+          "url": "https://cdn.discordapp.com/attachments/1068959970625855539/1075588636952776845/IMG_3464.png",
+          "fileName": "IMG_3464.png",
+          "fileSizeBytes": 370985
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1075588696633524274",
+      "type": "Default",
+      "timestamp": "2023-02-16T01:25:28.749+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "battle cats irl",
+      "author": {
+        "id": "858376910388199474",
+        "name": "HybridHamster",
+        "discriminator": "5864",
+        "nickname": "HybridHamster",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/858376910388199474/3069763c7600cbb66d6886e077a26248.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 8
+}

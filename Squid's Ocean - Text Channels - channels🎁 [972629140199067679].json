@@ -1,0 +1,336 @@
+{
+  "guild": {
+    "id": "934633266378604574",
+    "name": "Squid's Ocean",
+    "iconUrl": "https://cdn.discordapp.com/icons/934633266378604574/a89d22119ffa352cd7802d80292a0c28.png?size=512"
+  },
+  "channel": {
+    "id": "972629140199067679",
+    "type": "GuildTextChat",
+    "categoryId": "934633266378604575",
+    "category": "Text Channels",
+    "name": "channels\uD83C\uDF81",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "972669888382500955",
+      "type": "Default",
+      "timestamp": "2022-05-08T01:22:52.723+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "what",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "972669929272803388",
+      "type": "Default",
+      "timestamp": "2022-05-08T01:23:02.472+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "E",
+      "author": {
+        "id": "926901828619227146",
+        "name": "Popsicle",
+        "discriminator": "0867",
+        "nickname": "Popsicle",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/926901828619227146/833a1d5a2da65801587d9ac4facd495c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "972674491039744030",
+      "type": "Default",
+      "timestamp": "2022-05-08T01:41:10.082+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Like your YouTube channels or twitch acc",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "972674572627370004",
+      "type": "Default",
+      "timestamp": "2022-05-08T01:41:29.534+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Basically platforms people have here",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "972676226416255026",
+      "type": "Default",
+      "timestamp": "2022-05-08T01:48:03.828+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/channel/UCFlAW1PQ_W7tmaJzFOMX1Rg/videos",
+      "author": {
+        "id": "604428023118430239",
+        "name": "09Miles",
+        "discriminator": "8861",
+        "nickname": "09Miles",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Project",
+          "url": "https://www.youtube.com/channel/UCFlAW1PQ_W7tmaJzFOMX1Rg/videos",
+          "timestamp": null,
+          "description": "we focus on the NCU, Niffteen Cinematic Universe. Featuring Niffteen",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/D_83rRBo6RfUeVUwmvEQel87SEubJbGaIhkIOrU4tIA/https/yt3.ggpht.com/Uy_04ky47_YnhQKz0Hq4LH4weZMSNGArBE9IvlXqtmC_G-DzcraiRhJmAtLqPeWPHxrELwIY%3Ds900-c-k-c0x00ffffff-no-rj",
+            "width": 900,
+            "height": 900
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "972828442724818964",
+      "type": "Reply",
+      "timestamp": "2022-05-08T11:52:55.024+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "updates coming soon",
+      "author": {
+        "id": "604428023118430239",
+        "name": "09Miles",
+        "discriminator": "8861",
+        "nickname": "09Miles",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "972676226416255026",
+        "channelId": "972629140199067679",
+        "guildId": "934633266378604574"
+      }
+    },
+    {
+      "id": "972829917198819358",
+      "type": "Default",
+      "timestamp": "2022-05-08T11:58:46.566+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://m.youtube.com/channel/UCT6u9R9b69ayuc76DdDY-8w yubtub",
+      "author": {
+        "id": "720811952829497384",
+        "name": "Nathanator-007",
+        "discriminator": "6285",
+        "nickname": "Nathanator-007",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/720811952829497384/8f9e731660cf376b0c9d196b1cb182d2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "itsameyayo",
+          "url": "https://m.youtube.com/channel/UCT6u9R9b69ayuc76DdDY-8w",
+          "timestamp": null,
+          "description": "I’m in your walls.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/5XJqub5ILclXvGmxPJn3zr2vVZZ2q4eAV7LLBEfw3_w/https/yt3.ggpht.com/DMJC02AqeEOEuEcNrn1gsiFOI-d9uT5vk6mJXPBKgdchaMQGPjRXpnSHnUhH7jwq36S3O7RmzQ%3Ds900-c-k-c0x00ffffff-no-rj",
+            "width": 900,
+            "height": 900
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "977715664347365416",
+      "type": "Default",
+      "timestamp": "2022-05-21T23:32:59.459+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtube.com/channel/UCgIqrbUDIrLywNQwe6WLb0w",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Committing arson",
+          "url": "https://youtube.com/channel/UCgIqrbUDIrLywNQwe6WLb0w",
+          "timestamp": null,
+          "description": "The edits I make are just for fun\uD83D\uDC95",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/m67pcQIGq8aSqsh8W9bQFi6iNEviKaikN5-3a_3lhCQ/https/yt3.ggpht.com/0mrUrREmGbGTpnAeaWtqH52rox8qrMKp0vmIz2A6AxHFPNyvt7hxXgUoxcdz5iqDUI3EPeHZiqw%3Ds900-c-k-c0x00ffffff-no-rj",
+            "width": 900,
+            "height": 900
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "980125186500210738",
+      "type": "Default",
+      "timestamp": "2022-05-28T15:07:34.307+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/channel/UCEorswEy6fiPdNs3UM0YYXQ",
+      "author": {
+        "id": "797658613920825374",
+        "name": "dumit",
+        "discriminator": "6548",
+        "nickname": "dumit",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/797658613920825374/fa4f4b5ab504ad28d6fd38d01f4889ad.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Dumit",
+          "url": "https://www.youtube.com/channel/UCEorswEy6fiPdNs3UM0YYXQ",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/Dh_S9dA8XN7K1fE2DGnnEi4bfNiSb4TXHxNAxZ0_xy8/https/yt3.ggpht.com/ogpyIDAPKPn39RXr6jVFJ607sK54DzQO-ql41_xTPHRkNCgY7IuSMZmp7k8IdO3zfLfhdglICA%3Ds900-c-k-c0x00ffffff-no-rj",
+            "width": 900,
+            "height": 900
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "982630140041396224",
+      "type": "Default",
+      "timestamp": "2022-06-04T13:01:21.771+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Brawlhalla",
+      "author": {
+        "id": "720811952829497384",
+        "name": "Nathanator-007",
+        "discriminator": "6285",
+        "nickname": "Nathanator-007",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/720811952829497384/8f9e731660cf376b0c9d196b1cb182d2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "982641726235754516",
+      "type": "Default",
+      "timestamp": "2022-06-04T13:47:24.135+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Smash",
+      "author": {
+        "id": "858376910388199474",
+        "name": "HybridHamster",
+        "discriminator": "5864",
+        "nickname": "HybridHamster",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/858376910388199474/3069763c7600cbb66d6886e077a26248.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 11
+}

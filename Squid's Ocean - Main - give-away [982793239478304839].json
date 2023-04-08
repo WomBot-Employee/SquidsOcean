@@ -1,0 +1,127 @@
+{
+  "guild": {
+    "id": "934633266378604574",
+    "name": "Squid's Ocean",
+    "iconUrl": "https://cdn.discordapp.com/icons/934633266378604574/a89d22119ffa352cd7802d80292a0c28.png?size=512"
+  },
+  "channel": {
+    "id": "982793239478304839",
+    "type": "GuildTextChat",
+    "categoryId": "941870757561126932",
+    "category": "Main",
+    "name": "give-away",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "982827823200890880",
+      "type": "Default",
+      "timestamp": "2022-06-05T02:06:53.109+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "new giveaway system",
+      "author": {
+        "id": "604428023118430239",
+        "name": "09Miles",
+        "discriminator": "8861",
+        "nickname": "09Miles",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "982827988544540682",
+      "type": "Default",
+      "timestamp": "2022-06-05T02:07:32.53+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "react with \uD83C\uDF2D to enter the giveaway in an all expenses paid trip to asia with pep, arson, squid, me, dumit, tommy, and penguinboi",
+      "author": {
+        "id": "604428023118430239",
+        "name": "09Miles",
+        "discriminator": "8861",
+        "nickname": "09Miles",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF2D",
+            "code": "hotdog",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f32d.svg"
+          },
+          "count": 5
+        },
+        {
+          "emoji": {
+            "id": "899443071614341142",
+            "name": "doodle_peepo",
+            "code": "doodle_peepo",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/899443071614341142.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "982998517096259594",
+      "type": "Reply",
+      "timestamp": "2022-06-05T13:25:09.705+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "still here you know",
+      "author": {
+        "id": "954507274829844491",
+        "name": "Bathbombb",
+        "discriminator": "0143",
+        "nickname": "Bathbombb",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/954507274829844491/4500fd70839c2270ab13d31702280cb6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "604428023118430239",
+          "name": "09Miles",
+          "discriminator": "8861",
+          "nickname": "09Miles",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "982827988544540682",
+        "channelId": "982793239478304839",
+        "guildId": "934633266378604574"
+      }
+    }
+  ],
+  "messageCount": 3
+}

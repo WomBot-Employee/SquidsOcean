@@ -1,0 +1,158 @@
+{
+  "guild": {
+    "id": "934633266378604574",
+    "name": "Squid's Ocean",
+    "iconUrl": "https://cdn.discordapp.com/icons/934633266378604574/a89d22119ffa352cd7802d80292a0c28.png?size=512"
+  },
+  "channel": {
+    "id": "934636092316069908",
+    "type": "GuildTextChat",
+    "categoryId": "941870757561126932",
+    "category": "Main",
+    "name": "reaction-roles",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "935717769880666133",
+      "type": "Default",
+      "timestamp": "2022-01-26T02:08:21.135+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "React with :Stonks: to get Video Ping role.",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "934654307096223844",
+            "name": "Stonks",
+            "code": "Stonks",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/934654307096223844.png"
+          },
+          "count": 8
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "941888918691930162",
+      "type": "Default",
+      "timestamp": "2022-02-12T02:50:17.666+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "React with :Pure_vannila_ah: to get @Cookie run role",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "941886592895811605",
+            "name": "Pure_vannila_ah",
+            "code": "Pure_vannila_ah",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/941886592895811605.png"
+          },
+          "count": 5
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "941889335664467978",
+      "type": "Default",
+      "timestamp": "2022-02-12T02:51:57.08+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "React with :I_am_an_alcoholic: to get @Genshin Impact role",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "941888381594501140",
+            "name": "I_am_an_alcoholic",
+            "code": "I_am_an_alcoholic",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/941888381594501140.png"
+          },
+          "count": 6
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "941889632038182972",
+      "type": "Default",
+      "timestamp": "2022-02-12T02:53:07.741+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "React with :MUCK: to get @Muck role",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "941888642497003550",
+            "name": "MUCK",
+            "code": "MUCK",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/941888642497003550.png"
+          },
+          "count": 11
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 4
+}

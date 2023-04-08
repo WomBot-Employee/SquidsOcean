@@ -1,0 +1,3112 @@
+{
+  "guild": {
+    "id": "934633266378604574",
+    "name": "Squid's Ocean",
+    "iconUrl": "https://cdn.discordapp.com/icons/934633266378604574/a89d22119ffa352cd7802d80292a0c28.png?size=512"
+  },
+  "channel": {
+    "id": "938593981028241449",
+    "type": "GuildTextChat",
+    "categoryId": "941870757561126932",
+    "category": "Main",
+    "name": "history",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "941871754291339274",
+      "type": "Default",
+      "timestamp": "2022-02-12T01:42:05.354+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Miles and his bots had raided the server. The server had lasted about 2 monthes without war. This was not fun for most anybody.",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "952390899319599144",
+      "type": "Default",
+      "timestamp": "2022-03-13T02:21:24.965+00:00",
+      "timestampEdited": "2022-03-13T02:26:04.465+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It was a nice morning when Tom walked to @Squid with a proposal to merge with his kingdom. Squid declined and they played cards. When night struck fire erupted from out kingdom (Squids Ocean) walls Tom arose and he convinced people to aid his cause. @pëp @09Miles , and @PenguinBoi at one point. We closed him in a room where pep went from the second most powerful to as weak as a Bidoof the others called out but to no response. Pep walked towards Squid and asked him to let him out. He was given ultimate power back at once. The rain started getting harsh and the lightning lit the sky. Pep finally asked Tom if he wanted to be \"Permanently exiled\" Tom nodded and Pep brought out a sword, made of ruby, shining with rain droplets. Pep then walked through tom and all that remained were the words \"I will live a hero, and die a god.\" and a pile of dust. Pep exited the room drenched in rain with the words “I gave up trying to go back a long time ago. And getting to the surface doesn't really appeal anymore, either, cause even if we do... we'll just end up right back here, without any memory of it, right? To be blunt... It makes it kind of hard to give it my all.”",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "817240170096623656",
+          "name": "Squid",
+          "discriminator": "0064",
+          "nickname": "Squid™",
+          "color": "#1ABC9C",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+        },
+        {
+          "id": "726195055349727313",
+          "name": "pëp",
+          "discriminator": "1005",
+          "nickname": "pëp",
+          "color": "#1ABC9C",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+        },
+        {
+          "id": "936737775301050379",
+          "name": "PenguinBoi",
+          "discriminator": "4463",
+          "nickname": "PiplupPingPenguin©",
+          "color": "#FFB6F8",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/936737775301050379/1f466d802c1545f0792a79613772dfe2.png?size=512"
+        },
+        {
+          "id": "604428023118430239",
+          "name": "09Miles",
+          "discriminator": "8861",
+          "nickname": "09Miles",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "952703246126944256",
+      "type": "Default",
+      "timestamp": "2022-03-13T23:02:34.247+00:00",
+      "timestampEdited": "2022-03-20T01:23:23.889+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@?? The real history of the server that is displayed here contributes to the ARG.",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "954913522784014356",
+      "type": "Default",
+      "timestamp": "2022-03-20T01:25:25.267+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!EMERGENCY! A FIGURE HAS BEEN SPOTTED BY THE PREMISES OF THE WALL! HE CALLS HIMSELF \"dad\" AND INSTANTLY BECAME ALL POWERFUL! HE DISSAPEARED AFTER FIVE MINUTES AND TWENTY SEVEN SECONDS BUT HE COULD STILL BE OUT THERE! STAY INSIDE!",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "938245706873970708",
+            "name": "Pz8",
+            "code": "Pz8",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/938245706873970708.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "938253463110955008",
+            "name": "Pz8drip",
+            "code": "Pz8drip",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/938253463110955008.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "955207205307711578",
+      "type": "Default",
+      "timestamp": "2022-03-20T20:52:24.637+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Family tree of Squid's ocean",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "955210673980338208",
+      "type": "Default",
+      "timestamp": "2022-03-20T21:06:11.633+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "468281173072805889",
+        "name": "MarriageBot",
+        "discriminator": "7725",
+        "nickname": "MarriageBot",
+        "color": "#206694",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/468281173072805889/8fdd9d260556b9e75407208b3b7760c4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "[Click here](https://marriagebot.xyz/) to customise your tree. Use `m!bloodtree` for your _entire_ family, including non-blood relatives.",
+          "color": "#66FF00",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/938593981028241449/955210674433302599/817240170096623656.png",
+            "width": 659,
+            "height": 640
+          },
+          "footer": {
+            "text": "Learn more about MarriageBot Gold (m!gold)",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/VjSP9X3RvOYZ1exi4pg4VXYniQ7WxeRRNwhMBbLw3vE/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/468281173072805889/8fdd9d260556b9e75407208b3b7760c4.png"
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/938593981028241449/955210674433302599/817240170096623656.png",
+              "width": 659,
+              "height": 640
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "955210738065096745",
+      "type": "Default",
+      "timestamp": "2022-03-20T21:06:26.912+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it's canon",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "955210767643312168",
+      "type": "Default",
+      "timestamp": "2022-03-20T21:06:33.964+00:00",
+      "timestampEdited": "2022-03-20T21:06:40.794+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Pep Bot and @Squid both tried to kill their father today",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "817240170096623656",
+          "name": "Squid",
+          "discriminator": "0064",
+          "nickname": "Squid™",
+          "color": "#1ABC9C",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+        },
+        {
+          "id": "952648708070203442",
+          "name": "Pep Bot",
+          "discriminator": "3493",
+          "nickname": "Pep",
+          "color": "#2ECC71",
+          "isBot": true,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/952648708070203442/e338b33a0aa705620f07d0072adf6451.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "955210865345462302",
+      "type": "Default",
+      "timestamp": "2022-03-20T21:06:57.258+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "but @09Miles is to evasive",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "604428023118430239",
+          "name": "09Miles",
+          "discriminator": "8861",
+          "nickname": "09Miles",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "955211618554368010",
+      "type": "Default",
+      "timestamp": "2022-03-20T21:09:56.837+00:00",
+      "timestampEdited": "2022-03-20T21:10:33.301+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"My brother's son is trying to adopt my boyfriend\"\nSquid 2022",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "955221513563435068",
+      "type": "Default",
+      "timestamp": "2022-03-20T21:49:15.991+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "m!tree",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "955221516193259572",
+      "type": "Default",
+      "timestamp": "2022-03-20T21:49:16.618+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "468281173072805889",
+        "name": "MarriageBot",
+        "discriminator": "7725",
+        "nickname": "MarriageBot",
+        "color": "#206694",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/468281173072805889/8fdd9d260556b9e75407208b3b7760c4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "[Click here](https://marriagebot.xyz/) to customise your tree. Use `m!bloodtree` for your _entire_ family, including non-blood relatives.",
+          "color": "#FF000A",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/938593981028241449/955221516251955270/817240170096623656.png",
+            "width": 650,
+            "height": 640
+          },
+          "footer": {
+            "text": "Donate to keep MarriageBot alive (m!donate)",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/VjSP9X3RvOYZ1exi4pg4VXYniQ7WxeRRNwhMBbLw3vE/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/468281173072805889/8fdd9d260556b9e75407208b3b7760c4.png"
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/938593981028241449/955221516251955270/817240170096623656.png",
+              "width": 650,
+              "height": 640
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "955223332058435615",
+      "type": "Default",
+      "timestamp": "2022-03-20T21:56:29.554+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Squid stabs @09Miles , @PenguinBoi , @Squid , and @Squid Bot\n\nPep stabs @HybridHamster , and @pëp.",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "817240170096623656",
+          "name": "Squid",
+          "discriminator": "0064",
+          "nickname": "Squid™",
+          "color": "#1ABC9C",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+        },
+        {
+          "id": "936737775301050379",
+          "name": "PenguinBoi",
+          "discriminator": "4463",
+          "nickname": "PiplupPingPenguin©",
+          "color": "#FFB6F8",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/936737775301050379/1f466d802c1545f0792a79613772dfe2.png?size=512"
+        },
+        {
+          "id": "726195055349727313",
+          "name": "pëp",
+          "discriminator": "1005",
+          "nickname": "pëp",
+          "color": "#1ABC9C",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+        },
+        {
+          "id": "858376910388199474",
+          "name": "HybridHamster",
+          "discriminator": "5864",
+          "nickname": "HybridHamster",
+          "color": "#E91E63",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/858376910388199474/3069763c7600cbb66d6886e077a26248.png?size=512"
+        },
+        {
+          "id": "948017846972190781",
+          "name": "Squid Bot",
+          "discriminator": "4243",
+          "nickname": "Squid Bot",
+          "color": "#2ECC71",
+          "isBot": true,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/948017846972190781/4c9d58c92a24599c6d4e638f876668ed.png?size=512"
+        },
+        {
+          "id": "604428023118430239",
+          "name": "09Miles",
+          "discriminator": "8861",
+          "nickname": "09Miles",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "955580511462494338",
+      "type": "Default",
+      "timestamp": "2022-03-21T21:35:47.76+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yeah apparently, the variety server and the squid ocean has had an alliance on 3/21/2022",
+      "author": {
+        "id": "936737775301050379",
+        "name": "PenguinBoi",
+        "discriminator": "4463",
+        "nickname": "PiplupPingPenguin©",
+        "color": "#FFB6F8",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/936737775301050379/1f466d802c1545f0792a79613772dfe2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "956291954117836851",
+      "type": "Default",
+      "timestamp": "2022-03-23T20:42:48.907+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "468281173072805889",
+        "name": "MarriageBot",
+        "discriminator": "7725",
+        "nickname": "MarriageBot",
+        "color": "#206694",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/468281173072805889/8fdd9d260556b9e75407208b3b7760c4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "[Click here](https://marriagebot.xyz/) to customise your tree. Use `m!bloodtree` for your _entire_ family, including non-blood relatives.",
+          "color": "#31FF00",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/938593981028241449/956291954239496222/726195055349727313.png",
+            "width": 921,
+            "height": 640
+          },
+          "footer": {
+            "text": "Join the official Discord server (m!server)",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/VjSP9X3RvOYZ1exi4pg4VXYniQ7WxeRRNwhMBbLw3vE/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/468281173072805889/8fdd9d260556b9e75407208b3b7760c4.png"
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/938593981028241449/956291954239496222/726195055349727313.png",
+              "width": 921,
+              "height": 640
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "958169405118881862",
+      "type": "Default",
+      "timestamp": "2022-03-29T01:03:08.107+00:00",
+      "timestampEdited": "2022-04-07T22:34:49.491+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"What's a library?\" Squid asked.\nPep responded with, \"Me neither.\"",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "961731104291815434",
+      "type": "Default",
+      "timestamp": "2022-04-07T20:56:03.363+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Someone has revived Tom...",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "961755888828424233",
+      "type": "Default",
+      "timestamp": "2022-04-07T22:34:32.457+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Miles suicided...",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "961757947900342293",
+      "type": "Default",
+      "timestamp": "2022-04-07T22:42:43.378+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Miles has been reluctantly revived... But by who?",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "965017079507996682",
+      "type": "Default",
+      "timestamp": "2022-04-16T22:33:20.905+00:00",
+      "timestampEdited": "2022-04-16T22:41:27.69+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"I deleted all the space women\"\n\n-pep 2022",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "965019153079611503",
+      "type": "Default",
+      "timestamp": "2022-04-16T22:41:35.283+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "canon",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "965019169789730897",
+      "type": "Default",
+      "timestamp": "2022-04-16T22:41:39.267+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@??",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "965051927668867123",
+      "type": "Default",
+      "timestamp": "2022-04-17T00:51:49.354+00:00",
+      "timestampEdited": "2022-04-17T00:52:15.645+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "squid is Schizophrenic",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "966498571430031423",
+      "type": "Default",
+      "timestamp": "2022-04-21T00:40:16.104+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"she's leaking\"\n-pep 2022",
+      "author": {
+        "id": "966438719450128416",
+        "name": "Just a Tired Cat",
+        "discriminator": "0257",
+        "nickname": "Just a Tired Cat",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/966438719450128416/b790fe2f98130056fd83fd0beeeb7408.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "967202246251135016",
+      "type": "Default",
+      "timestamp": "2022-04-22T23:16:25.255+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"now I'm a nazi\"\n-Squid 2022",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "967544670932578314",
+      "type": "Default",
+      "timestamp": "2022-04-23T21:57:05.661+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"july\njlluy\njullly\njully\"\n-squid 2022",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "968675229826187294",
+      "type": "Default",
+      "timestamp": "2022-04-27T00:49:31.906+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "THE TIMELINE IS BROKEN THE SERVER IS A MESS",
+      "author": {
+        "id": "604428023118430239",
+        "name": "09Miles",
+        "discriminator": "8861",
+        "nickname": "09Miles",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "968675337401675776",
+      "type": "Default",
+      "timestamp": "2022-04-27T00:49:57.554+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I fixed like",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "968675347820335134",
+      "type": "Default",
+      "timestamp": "2022-04-27T00:50:00.038+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "all",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "968675355848241204",
+      "type": "Default",
+      "timestamp": "2022-04-27T00:50:01.952+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "life",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "968675419068981282",
+      "type": "Default",
+      "timestamp": "2022-04-27T00:50:17.025+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i think the universe was just reset",
+      "author": {
+        "id": "604428023118430239",
+        "name": "09Miles",
+        "discriminator": "8861",
+        "nickname": "09Miles",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "968675432260059166",
+      "type": "Default",
+      "timestamp": "2022-04-27T00:50:20.17+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "everything is fixed",
+      "author": {
+        "id": "604428023118430239",
+        "name": "09Miles",
+        "discriminator": "8861",
+        "nickname": "09Miles",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "968675462836535306",
+      "type": "Default",
+      "timestamp": "2022-04-27T00:50:27.46+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "WAIT",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "968675478619693109",
+      "type": "Default",
+      "timestamp": "2022-04-27T00:50:31.223+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ALTERNATE UNIVERSE?",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "968675493991809054",
+      "type": "Default",
+      "timestamp": "2022-04-27T00:50:34.888+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "uh",
+      "author": {
+        "id": "604428023118430239",
+        "name": "09Miles",
+        "discriminator": "8861",
+        "nickname": "09Miles",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "968675513344327700",
+      "type": "Default",
+      "timestamp": "2022-04-27T00:50:39.502+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "alternate squid?",
+      "author": {
+        "id": "604428023118430239",
+        "name": "09Miles",
+        "discriminator": "8861",
+        "nickname": "09Miles",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "968675535687385108",
+      "type": "Default",
+      "timestamp": "2022-04-27T00:50:44.829+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDE2E",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "968675551869009951",
+      "type": "Reply",
+      "timestamp": "2022-04-27T00:50:48.687+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I used Made In Heaven",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "604428023118430239",
+          "name": "09Miles",
+          "discriminator": "8861",
+          "nickname": "09Miles",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "968675419068981282",
+        "channelId": "938593981028241449",
+        "guildId": "934633266378604574"
+      }
+    },
+    {
+      "id": "968675573469704294",
+      "type": "Default",
+      "timestamp": "2022-04-27T00:50:53.837+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "good job pep",
+      "author": {
+        "id": "604428023118430239",
+        "name": "09Miles",
+        "discriminator": "8861",
+        "nickname": "09Miles",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "968675589886210098",
+      "type": "Default",
+      "timestamp": "2022-04-27T00:50:57.751+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the timeline was broken",
+      "author": {
+        "id": "604428023118430239",
+        "name": "09Miles",
+        "discriminator": "8861",
+        "nickname": "09Miles",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "968675598727790612",
+      "type": "Default",
+      "timestamp": "2022-04-27T00:50:59.859+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "also im alternate pep now",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "968675617484726354",
+      "type": "Default",
+      "timestamp": "2022-04-27T00:51:04.331+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@pëp @09Miles join admin",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "726195055349727313",
+          "name": "pëp",
+          "discriminator": "1005",
+          "nickname": "pëp",
+          "color": "#1ABC9C",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+        },
+        {
+          "id": "604428023118430239",
+          "name": "09Miles",
+          "discriminator": "8861",
+          "nickname": "09Miles",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "968675629644005426",
+      "type": "Default",
+      "timestamp": "2022-04-27T00:51:07.23+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the other pep was killed by universe reset",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "968675631552425984",
+      "type": "Default",
+      "timestamp": "2022-04-27T00:51:07.685+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "like this broken",
+      "author": {
+        "id": "604428023118430239",
+        "name": "09Miles",
+        "discriminator": "8861",
+        "nickname": "09Miles",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "968675631372062740",
+          "url": "https://cdn.discordapp.com/attachments/938593981028241449/968675631372062740/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 46718
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "970049411164045412",
+      "type": "Default",
+      "timestamp": "2022-04-30T19:50:02.268+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"I'm so deaf that I'm blind\"\n-pep 2022",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "971190055605526528",
+      "type": "Default",
+      "timestamp": "2022-05-03T23:22:33.095+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"nuts go brr\"\n-squid 2022",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "971192575476240504",
+      "type": "Default",
+      "timestamp": "2022-05-03T23:32:33.879+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"pickle go boom\"\n-squid 2022",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "971192632699125811",
+      "type": "Default",
+      "timestamp": "2022-05-03T23:32:47.522+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "IT'S DUMEIT S BEO",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "971213951142604860",
+      "type": "Default",
+      "timestamp": "2022-05-04T00:57:30.235+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"'You shall not pass' Dumbledore said calmly\" - pep\n\"No peep that was Garfield\" -squid",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "971215728504111204",
+      "type": "Default",
+      "timestamp": "2022-05-04T01:04:33.991+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "-miles 2022",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "971215728327938048",
+          "url": "https://cdn.discordapp.com/attachments/938593981028241449/971215728327938048/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 18131
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "971215821185638421",
+      "type": "Default",
+      "timestamp": "2022-05-04T01:04:56.088+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "***penis go brr*** -pep 2022",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "971220825556516935",
+      "type": "Default",
+      "timestamp": "2022-05-04T01:24:49.223+00:00",
+      "timestampEdited": "2022-05-04T01:25:23.52+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"It's graphite-o-clock, time to chug soem\" -pep 2022",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "975445619911065662",
+      "type": "Default",
+      "timestamp": "2022-05-15T17:12:38.69+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"This is the height of idiocrasy\"\n-Squid 2022",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "975445743122907148",
+      "type": "Default",
+      "timestamp": "2022-05-15T17:13:08.066+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "woah squid you spell things wrong even when you speak",
+      "author": {
+        "id": "604428023118430239",
+        "name": "09Miles",
+        "discriminator": "8861",
+        "nickname": "09Miles",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "975465974658658406",
+      "type": "Default",
+      "timestamp": "2022-05-15T18:33:31.64+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "975465974440542268",
+          "url": "https://cdn.discordapp.com/attachments/938593981028241449/975465974440542268/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 74146
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "975568102538481704",
+      "type": "Default",
+      "timestamp": "2022-05-16T01:19:20.824+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"Squid I think I broke my pc\" -pep 2022\n\"Oh no what did you do?\" -Squid 2022\n*pep leaves call*",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "975923129497042984",
+      "type": "Default",
+      "timestamp": "2022-05-17T00:50:05.847+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"I think my ping just time stopped\" -pep 2022",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "976213821410664618",
+      "type": "Default",
+      "timestamp": "2022-05-17T20:05:12.2+00:00",
+      "timestampEdited": "2022-05-17T20:07:50.863+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“Where am I” “your in a mental hospital” “how did I get here” “you just kinda appeared, we don’t know but we think it’s best you stay here” “all right but for how long?” “As long as we need”",
+      "author": {
+        "id": "914995910365302904",
+        "name": "parzival",
+        "discriminator": "8652",
+        "nickname": "parzival",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/914995910365302904/c19b64ef6a835b55424b97ed1142c31b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "976643792063049758",
+      "type": "Default",
+      "timestamp": "2022-05-19T00:33:45.192+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hmm",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "976643791870124112",
+          "url": "https://cdn.discordapp.com/attachments/938593981028241449/976643791870124112/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 71941
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "976648058060279888",
+      "type": "Default",
+      "timestamp": "2022-05-19T00:50:42.285+00:00",
+      "timestampEdited": "2022-05-19T00:50:54.194+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"That's over 4 million balls!\"",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "976649011559809044",
+      "type": "Default",
+      "timestamp": "2022-05-19T00:54:29.617+00:00",
+      "timestampEdited": "2022-05-19T00:54:41.533+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"The four million chunky beer **bawws** have LED lights!\"",
+      "author": {
+        "id": "966438719450128416",
+        "name": "Just a Tired Cat",
+        "discriminator": "0257",
+        "nickname": "Just a Tired Cat",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/966438719450128416/b790fe2f98130056fd83fd0beeeb7408.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "976654830544236584",
+      "type": "Default",
+      "timestamp": "2022-05-19T01:17:36.971+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"I can suck people!\"\n-Squid 2022",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "976655007879426109",
+      "type": "Default",
+      "timestamp": "2022-05-19T01:18:19.251+00:00",
+      "timestampEdited": "2022-05-19T01:18:40.041+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "boso",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "976655101047496714",
+      "type": "Default",
+      "timestamp": "2022-05-19T01:18:41.464+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"boso\"\n-pep 2022",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "976655287903735818",
+      "type": "Default",
+      "timestamp": "2022-05-19T01:19:26.014+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"I'm giga gay\"\n-pep 2022",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "976655412067704842",
+      "type": "Default",
+      "timestamp": "2022-05-19T01:19:55.617+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"jiga gay\"\n-discord robot",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "976656916891697202",
+      "type": "Default",
+      "timestamp": "2022-05-19T01:25:54.395+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"hoe\"\n-squid 2022",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "977370603361300500",
+      "type": "Default",
+      "timestamp": "2022-05-21T00:41:50.509+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"Alright one sexond\"\n-squid 2022",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "978064889467785268",
+      "type": "Default",
+      "timestamp": "2022-05-22T22:40:41.216+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"I'm waklin ear\"\n-Squid 2022",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "978065271082332241",
+      "type": "Default",
+      "timestamp": "2022-05-22T22:42:12.2+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "A*SHOLEDDESGIENED",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "978065540759310396",
+      "type": "Default",
+      "timestamp": "2022-05-22T22:43:16.496+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"no gigacahd",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "978459142891114507",
+      "type": "Default",
+      "timestamp": "2022-05-24T00:47:18.557+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"They're nazi's\" -Squid 2022",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "978466391508283462",
+      "type": "Default",
+      "timestamp": "2022-05-24T01:16:06.762+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“Oh yeah I told the admins that I was going to give you admin, they all said that was dumb and I agreed, that’s how you got admin” - squid 2022 “what the frick” - Dj E - 2022",
+      "author": {
+        "id": "914995910365302904",
+        "name": "parzival",
+        "discriminator": "8652",
+        "nickname": "parzival",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/914995910365302904/c19b64ef6a835b55424b97ed1142c31b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "978469431674015785",
+      "type": "Default",
+      "timestamp": "2022-05-24T01:28:11.594+00:00",
+      "timestampEdited": "2022-05-24T01:28:19.523+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "First thing that you wrote that I actually had said, congratulations.",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "978472599300477028",
+      "type": "Default",
+      "timestamp": "2022-05-24T01:40:46.815+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"bruh\"\n-Sun Tzu, The Art of War",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "979193390119927898",
+      "type": "Default",
+      "timestamp": "2022-05-26T01:24:56.738+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"Too many hoes\"\n-Sun Tzu, The art of War",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "979485201208070145",
+      "type": "Default",
+      "timestamp": "2022-05-26T20:44:29.923+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“Oh” -Sun Tzu th- “GOD DANG IT CAT STOP TRYING TO EAT MY PHONE” -Sun Tzu The art of war",
+      "author": {
+        "id": "914995910365302904",
+        "name": "parzival",
+        "discriminator": "8652",
+        "nickname": "parzival",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/914995910365302904/c19b64ef6a835b55424b97ed1142c31b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "979485370410483792",
+      "type": "Reply",
+      "timestamp": "2022-05-26T20:45:10.264+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Cat's in your walls aswell?",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "914995910365302904",
+          "name": "parzival",
+          "discriminator": "8652",
+          "nickname": "parzival",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/914995910365302904/c19b64ef6a835b55424b97ed1142c31b.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "979485201208070145",
+        "channelId": "938593981028241449",
+        "guildId": "934633266378604574"
+      }
+    },
+    {
+      "id": "981731540700647434",
+      "type": "Default",
+      "timestamp": "2022-06-02T01:30:38.993+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"Yeah I'm gonna frick Miles.\"\n-Squid, Pride Month 2022",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "984270018931994665",
+      "type": "Default",
+      "timestamp": "2022-06-09T01:37:39.366+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"Miles is a **BIG** hot babe\" -Arson 2022",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "988923240099504158",
+      "type": "Default",
+      "timestamp": "2022-06-21T21:47:53.745+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"I **like** being your chair\"\n\"stop\"\n-Pep and Squid 2022",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "988924008542130176",
+      "type": "Default",
+      "timestamp": "2022-06-21T21:50:56.956+00:00",
+      "timestampEdited": "2022-06-21T21:51:08.293+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“Woah woah woah, it looks like you guys are already related! @Arsøn is your sibling!”\n-marriagebot 2022",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "793665293565165610",
+          "name": "Arsøn",
+          "discriminator": "3353",
+          "nickname": "Arsøn",
+          "color": "#1A53FF",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "990331186247266314",
+      "type": "Default",
+      "timestamp": "2022-06-25T19:02:34.265+00:00",
+      "timestampEdited": "2022-06-25T19:02:43.437+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“NO WEAY”\n-Dumbass 2022",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1012134108299804745",
+      "type": "Default",
+      "timestamp": "2022-08-24T22:59:35.961+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Balls",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1015816744968925204",
+      "type": "Default",
+      "timestamp": "2022-09-04T02:53:04.963+00:00",
+      "timestampEdited": "2022-09-04T02:53:28.094+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ETA : “what have you done?!”\nArson: “butterfly” -2022",
+      "author": {
+        "id": "793665293565165610",
+        "name": "Arsøn",
+        "discriminator": "3353",
+        "nickname": "Arsøn",
+        "color": "#1A53FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793665293565165610/1eb097794d7689d8abf21f9c32a079af.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1016456414841012305",
+      "type": "Default",
+      "timestamp": "2022-09-05T21:14:54.145+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "how do you do a butterfly",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1016456430330585108",
+      "type": "Default",
+      "timestamp": "2022-09-05T21:14:57.838+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and how big was it",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "Ⓜ️",
+            "code": "m",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/24c2.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDFE",
+            "code": "regional_indicator_y",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1fe.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "◾",
+            "code": "black_medium_small_square",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/25fe.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDF7",
+            "code": "regional_indicator_r",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1f7.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDCE7",
+            "code": "e_mail",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4e7.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDF1",
+            "code": "regional_indicator_l",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1f1.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDEA",
+            "code": "regional_indicator_e",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1ea.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDD70️",
+            "code": "a",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f170.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDF8",
+            "code": "regional_indicator_s",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1f8.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF46",
+            "code": "eggplant",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f346.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1022637373512757350",
+      "type": "Default",
+      "timestamp": "2022-09-22T22:35:49.529+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"sucked\" -me right now",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1022638051236773949",
+      "type": "Default",
+      "timestamp": "2022-09-22T22:38:31.111+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "MATH SCIENCE HISTORY UNRAVELING THE MYSTERY IT ALL STARTED WITH A BIG BANG",
+      "author": {
+        "id": "871767059351097345",
+        "name": "Tabmow",
+        "discriminator": "0054",
+        "nickname": "Tabmow",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/871767059351097345/ad46cedb04ef9643f9fa6c322b4fe5ca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1022638093062377552",
+      "type": "Default",
+      "timestamp": "2022-09-22T22:38:41.083+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "BANG",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1022638155305857124",
+      "type": "Default",
+      "timestamp": "2022-09-22T22:38:55.923+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "BIF",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1026182208463061002",
+      "type": "Default",
+      "timestamp": "2022-10-02T17:21:44.041+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Meth science chemistry we’re cooking up some nicotine it all started with a big bang",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1026182363086073937",
+      "type": "Default",
+      "timestamp": "2022-10-02T17:22:20.906+00:00",
+      "timestampEdited": "2022-10-02T17:22:24.461+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "now I'm confused, did you or tom come up with that?",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1026182386091835502",
+      "type": "Default",
+      "timestamp": "2022-10-02T17:22:26.391+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Both",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1026182415359688764",
+      "type": "Default",
+      "timestamp": "2022-10-02T17:22:33.369+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "rely table",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1026182416991268954",
+      "type": "Default",
+      "timestamp": "2022-10-02T17:22:33.758+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It was a collab",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1026299231184621691",
+      "type": "Default",
+      "timestamp": "2022-10-03T01:06:44.432+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Meth science chemistry I love methamphetamine it all started with a big bang",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1026672019762331668",
+      "type": "Default",
+      "timestamp": "2022-10-04T01:48:04.155+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Saw dreams face reveal today. He looks like a 23 year old homeless alcoholic. -Parzival",
+      "author": {
+        "id": "914995910365302904",
+        "name": "parzival",
+        "discriminator": "8652",
+        "nickname": "parzival",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/914995910365302904/c19b64ef6a835b55424b97ed1142c31b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1026672135483183154",
+      "type": "Default",
+      "timestamp": "2022-10-04T01:48:31.745+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Lord Farquad",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1028083039005319198",
+      "type": "Default",
+      "timestamp": "2022-10-07T23:14:57.358+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "797658613920825374",
+        "name": "dumit",
+        "discriminator": "6548",
+        "nickname": "dumit",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/797658613920825374/fa4f4b5ab504ad28d6fd38d01f4889ad.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1028083038644600832",
+          "url": "https://cdn.discordapp.com/attachments/938593981028241449/1028083038644600832/D56C4042-DCD3-484B-86F7-673338863231.jpg",
+          "fileName": "D56C4042-DCD3-484B-86F7-673338863231.jpg",
+          "fileSizeBytes": 271278
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1028086086695649371",
+      "type": "Default",
+      "timestamp": "2022-10-07T23:27:03.984+00:00",
+      "timestampEdited": "2022-10-07T23:27:08.592+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "He’s definitely an alcoholic and a drug addict",
+      "author": {
+        "id": "914995910365302904",
+        "name": "parzival",
+        "discriminator": "8652",
+        "nickname": "parzival",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/914995910365302904/c19b64ef6a835b55424b97ed1142c31b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1028086293239971920",
+      "type": "Default",
+      "timestamp": "2022-10-07T23:27:53.228+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1028086292438843442",
+          "url": "https://cdn.discordapp.com/attachments/938593981028241449/1028086292438843442/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 1904419
+        },
+        {
+          "id": "1028086292858273812",
+          "url": "https://cdn.discordapp.com/attachments/938593981028241449/1028086292858273812/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 1054959
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1028086379470667807",
+      "type": "Default",
+      "timestamp": "2022-10-07T23:28:13.787+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "604428023118430239",
+        "name": "09Miles",
+        "discriminator": "8861",
+        "nickname": "09Miles",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1028086379420336139",
+          "url": "https://cdn.discordapp.com/attachments/938593981028241449/1028086379420336139/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 250062
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1028091808628092998",
+      "type": "Default",
+      "timestamp": "2022-10-07T23:49:48.199+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*laughs in 71 round plate mag",
+      "author": {
+        "id": "914995910365302904",
+        "name": "parzival",
+        "discriminator": "8652",
+        "nickname": "parzival",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/914995910365302904/c19b64ef6a835b55424b97ed1142c31b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1046885630891798569",
+      "type": "Default",
+      "timestamp": "2022-11-28T20:29:44.599+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“Surprise! I’m having an erection.” - Dumit, 2022",
+      "author": {
+        "id": "797658613920825374",
+        "name": "dumit",
+        "discriminator": "6548",
+        "nickname": "dumit",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/797658613920825374/fa4f4b5ab504ad28d6fd38d01f4889ad.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1049455753427177543",
+      "type": "Default",
+      "timestamp": "2022-12-05T22:42:29.562+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"then fucking text youirt dad where he put it\" - Waffles, 2022",
+      "author": {
+        "id": "797658613920825374",
+        "name": "dumit",
+        "discriminator": "6548",
+        "nickname": "dumit",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/797658613920825374/fa4f4b5ab504ad28d6fd38d01f4889ad.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1054523925566074910",
+      "type": "Default",
+      "timestamp": "2022-12-19T22:21:35.962+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“Being asian is already a disability” - Eta, 2022",
+      "author": {
+        "id": "797658613920825374",
+        "name": "dumit",
+        "discriminator": "6548",
+        "nickname": "dumit",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/797658613920825374/fa4f4b5ab504ad28d6fd38d01f4889ad.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE44",
+            "code": "rolling_eyes",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f644.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDEE\uD83C\uDDF8",
+            "code": "flag_is",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1ee-1f1f8.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1059293837236916244",
+      "type": "Default",
+      "timestamp": "2023-01-02T02:15:31.525+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1059293836586786836",
+          "url": "https://cdn.discordapp.com/attachments/938593981028241449/1059293836586786836/image.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 171292
+        },
+        {
+          "id": "1059293836943298570",
+          "url": "https://cdn.discordapp.com/attachments/938593981028241449/1059293836943298570/image.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 13296
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1059293850985828503",
+      "type": "Default",
+      "timestamp": "2023-01-02T02:15:34.803+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "history",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1059298549558427658",
+      "type": "Default",
+      "timestamp": "2023-01-02T02:34:15.03+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "racism",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1059298549218672680",
+          "url": "https://cdn.discordapp.com/attachments/938593981028241449/1059298549218672680/image.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 58529
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1069273685124452352",
+      "type": "Default",
+      "timestamp": "2023-01-29T15:11:52.678+00:00",
+      "timestampEdited": "2023-01-29T15:12:07.779+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://mxdia.discordapp.net/attachments/339274772896546819/938647774759641119/3BE79479-AE5D-4005-B209-C5222FFB54FC.gif",
+      "author": {
+        "id": "822653198099152946",
+        "name": "KoKo",
+        "discriminator": "8335",
+        "nickname": "bbg man",
+        "color": "#FFB6F8",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/822653198099152946/6ca2afeaad28f278560a2382a6eb567d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1081612059982184538",
+      "type": "Default",
+      "timestamp": "2023-03-04T16:20:10.48+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1081612059780853790",
+          "url": "https://cdn.discordapp.com/attachments/938593981028241449/1081612059780853790/image.png",
+          "fileName": "image.png",
+          "fileSizeBytes": 26091
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1093709136312680511",
+      "type": "Default",
+      "timestamp": "2023-04-07T01:29:38.23+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"I'm trying to fucking kill myself and it won't work\" - Bathbombb, 2023",
+      "author": {
+        "id": "797658613920825374",
+        "name": "dumit",
+        "discriminator": "6548",
+        "nickname": "dumit",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/797658613920825374/fa4f4b5ab504ad28d6fd38d01f4889ad.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "1016084103742894140",
+            "name": "rumple",
+            "code": "rumple",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/1016084103742894140.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 113
+}

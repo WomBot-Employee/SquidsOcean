@@ -1,0 +1,148 @@
+{
+  "guild": {
+    "id": "934633266378604574",
+    "name": "Squid's Ocean",
+    "iconUrl": "https://cdn.discordapp.com/icons/934633266378604574/a89d22119ffa352cd7802d80292a0c28.png?size=512"
+  },
+  "channel": {
+    "id": "971172465025884290",
+    "type": "GuildTextChat",
+    "categoryId": "959261463833370684",
+    "category": "♱heaven♱",
+    "name": "randevou-point",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "971173063259467796",
+      "type": "Default",
+      "timestamp": "2022-05-03T22:15:01.804+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "```diff\n- welcome, this is your first step to acheving heaven\n```",
+      "author": {
+        "id": "604428023118430239",
+        "name": "09Miles",
+        "discriminator": "8861",
+        "nickname": "09Miles",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "971173445922594876",
+      "type": "Default",
+      "timestamp": "2022-05-03T22:16:33.038+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "```diff\n- react with :face_in_clouds: if you feel you are worth of heaven\n```",
+      "author": {
+        "id": "604428023118430239",
+        "name": "09Miles",
+        "discriminator": "8861",
+        "nickname": "09Miles",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/604428023118430239/fe02ff086a5472c3db04efed07b1fa49.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE36‍\uD83C\uDF2B️",
+            "code": "face_in_clouds",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f636-200d-1f32b-fe0f.svg"
+          },
+          "count": 10
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1023273341563437146",
+      "type": "Default",
+      "timestamp": "2022-09-24T16:42:56.128+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "What a fun place this is",
+      "author": {
+        "id": "914995910365302904",
+        "name": "parzival",
+        "discriminator": "8652",
+        "nickname": "parzival",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/914995910365302904/c19b64ef6a835b55424b97ed1142c31b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1023273406784868392",
+      "type": "Default",
+      "timestamp": "2022-09-24T16:43:11.678+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "As I’m considered a sinner",
+      "author": {
+        "id": "914995910365302904",
+        "name": "parzival",
+        "discriminator": "8652",
+        "nickname": "parzival",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/914995910365302904/c19b64ef6a835b55424b97ed1142c31b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1023273427940954132",
+      "type": "Default",
+      "timestamp": "2022-09-24T16:43:16.722+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "And I’m still in heaven",
+      "author": {
+        "id": "914995910365302904",
+        "name": "parzival",
+        "discriminator": "8652",
+        "nickname": "parzival",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/914995910365302904/c19b64ef6a835b55424b97ed1142c31b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 5
+}

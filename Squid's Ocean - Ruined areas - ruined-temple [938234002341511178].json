@@ -1,0 +1,255 @@
+{
+  "guild": {
+    "id": "934633266378604574",
+    "name": "Squid's Ocean",
+    "iconUrl": "https://cdn.discordapp.com/icons/934633266378604574/a89d22119ffa352cd7802d80292a0c28.png?size=512"
+  },
+  "channel": {
+    "id": "938234002341511178",
+    "type": "GuildTextChat",
+    "categoryId": "941870116650483782",
+    "category": "Ruined areas",
+    "name": "ruined-temple",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "938234574268407848",
+      "type": "Default",
+      "timestamp": "2022-02-02T00:49:14.061+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "01010110 01000111 01101000 01101100 01001001 01000111 01100100 01110110 01011010 01000011 01000010 01101111 01011001 01011000 01001101 01100111 01011001 01011000 01001010 01111001 01100001 01011000 01011010 01101100 01011010 01000011 00110100 01110101 01001100 01101001 01000001 01101001 01010011 01011000 01001101 01100111 01100001 01011000 01010001 01100111 01011001 01010111 01111000 01111001 01011010 01010111 01000110 01101011 01100101 01010011 01000010 01101111 01011010 01011000 01001010 01101100 01010000 01111001 01001001 01100111 01001001 01000100 00111000 00101111 01010000 01111001 01000010 01101000 01100011 00110010 01110100 01101100 01011010 01000011 00110100 01100111 01001001 01101011 01101100 00110000 01001001 01000111 01101000 01101000 01100011 01111001 01000010 01101001 01011010 01010111 01100100 00110001 01100010 01101001 01001001 01100111 01010101 00110011 01000110 00110001 01100001 01010111 01010001 01110110 01010001 01101110 01001010 01110110 01100100 00110010 00110101 01110000 01011010 01010011 00111000 00101111 01010000 01111010 00111000 01100111 01100011 01101101 01010110 01111010 01100011 01000111 00111001 01110101 01011010 01000111 01010110 01101011 01001100 01101001 01000001 01101001 01010001 01101110 01010110 00110000 01001001 01000111 01101100 00110000 01001010 00110011 01001101 01100111 01100011 00110010 01101000 01110110 01100100 00110010 01101100 01110101 01011010 01111001 01000010 01110011 01100001 01010111 01011010 01101100 01011010 01101101 00111001 01111001 01100010 01010100 01101111 01100111 01001111 01000100 01100111 00110010 01001101 01010011 01000010 01110100 01011010 01011000 01001010 01101010 01100101 01010011 00110100 01101001",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "938234795534745630",
+      "type": "Default",
+      "timestamp": "2022-02-02T00:50:06.815+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@??",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "938246170529116170",
+      "type": "Default",
+      "timestamp": "2022-02-02T01:35:18.825+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":Pz8:",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "938246187868381204",
+      "type": "Default",
+      "timestamp": "2022-02-02T01:35:22.959+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@??",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "938249956974788702",
+      "type": "Default",
+      "timestamp": "2022-02-02T01:50:21.584+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "00100010 01010111 01101000 01100001 01110100 00100000 01100001 01110010 01100101 00100000 01111001 01101111 01110101 00100000 01101000 01100101 01110010 01100101 00100000 01110011 01101001 01110010 00111111 00100010 00100000 01010011 01110001 01110101 01101001 01100100 00101111 01000010 01110010 01101111 01110111 01101110 01101001 01100101 00101111 00111111 00111111 00111111 00111111 00100000 00100010 00110100 00111001 00100000 00110010 00110000 00100000 00110110 00110001 00100000 00110110 01100100 00100000 00110010 00110000 00100000 00110110 00111000 00100000 00110110 00110101 00100000 00110111 00110010 00100000 00110110 00110101 00100000 00110010 00110000 00100000 00110111 00110100 00100000 00110110 01100110 00100000 00110010 00110000 00100000 00110111 00110111 00100000 00110110 00110001 00100000 00110111 00110100 00100000 00110110 00110011 00100000 00110110 00111000 00100000 00110010 00110000 00100000 00110111 00110011 00100000 00110111 00110101 00100000 00110110 00110010 00100000 00110110 01100001 00100000 00110110 00110101 00100000 00110110 00110011 00100000 00110111 00110100 00100000 00110011 01100001 00100000 00110010 00110000 00100000 00110011 00111000 00100000 00110011 00111000 00100000 00110011 00110110 00100000 00110011 00110001 00100010 00100000 01110100 01101000 01100101 00100000 01100011 01110010 01100101 01100001 01110100 01110101 01110010 01100101 00100000 01110010 01100101 01110011 01110000 01101111 01101110 01100100 01100101 01100100 00101110 00100000 00100010 01010111 01100101 01101100 01101100 00100000 01101001 01101110 00100000 01110100 01101000 01100001 01110100 00100000 01100011 01100001 01110011 01100101 00100000 01101101 01100001 01101011 01100101 00100000 01111001 01101111 01110101 01110010 01110011 01100101 01101100 01100110 00100000 01100001 01110100 00100000 01101000 01101111 01101101 01100101 00100010 00100000 01010011 01110001 01110101 01101001 01100100 00101111 01000010 01110010 01101111 01110111 01101110 01101001 01100101 00101111 00111111 00111111 00111111 00111111 00100000 01110010 01100101 01110011 01110000 01101111 01100100 01100101 01100100 00100000 01101000 01101111 01101100 01100100 01101001 01101110 01100111 00100000 01100001 00100000 01101100 01101111 01101110 01100111 00100000 01100100 01100001 01110010 01101011 00100000 01101111 01100010 01101010 01100101 01100011 01110100 00100000 01101001 01101110 00100000 01101000 01101001 01110011 00100000 01101000 01100001 01101110 01100100 00101110",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "938249969259905064",
+      "type": "Default",
+      "timestamp": "2022-02-02T01:50:24.513+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@??",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "938251811939311657",
+      "type": "Default",
+      "timestamp": "2022-02-02T01:57:43.842+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@??",
+      "author": {
+        "id": "726195055349727313",
+        "name": "pëp",
+        "discriminator": "1005",
+        "nickname": "pëp",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/726195055349727313/b9e8bdae97e17ad061f2ff6d25594acc.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "938251811742154752",
+          "url": "https://cdn.discordapp.com/attachments/938234002341511178/938251811742154752/Pz8....png",
+          "fileName": "Pz8....png",
+          "fileSizeBytes": 113336
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "957465194022445066",
+      "type": "Default",
+      "timestamp": "2022-03-27T02:24:51.098+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The Alternate kingdom is sending supplies please stand by.",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1002437825112834110",
+      "type": "Default",
+      "timestamp": "2022-07-29T04:50:01.901+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtube.com/shorts/9pwS-usdVsI?feature=share",
+      "author": {
+        "id": "817240170096623656",
+        "name": "Squid",
+        "discriminator": "0064",
+        "nickname": "Squid™",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817240170096623656/328734b9422e7f8349f35347290918cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "THAT’S NOT A SMILER…. #backrooms",
+          "url": "https://www.youtube.com/shorts/9pwS-usdVsI",
+          "timestamp": null,
+          "description": "backrooms custom ending :)\n\n#shorts #backrooms #broogli \n\n\n\nbackrooms, backrooms endings, backrooms ending, backrooms entity, backrooms creature, backrooms level, backrooms explained",
+          "color": "#FF0000",
+          "author": {
+            "name": "Broogli",
+            "url": "https://www.youtube.com/channel/UC9Gt9zg0vsmh-21zwVN5epQ"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/P10vA-rQk2Yktpyk6T9GeUcIVJkkqa2U1GNdQni1FWY/https/i.ytimg.com/vi/9pwS-usdVsI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 9
+}
